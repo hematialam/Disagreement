@@ -1,0 +1,136 @@
+[sentNum: 1]VBG // IN // NN // : // NNP // IN // NNP // NNP // NNP // IN // DT // NNP // NNP // IN // NNP // 
+[sentNum: 2]NN // : // NNP // NN // VBZ // CD // NN // TO // VBG // JJ // NN // CC // NN // NNS // . // 
+[sentNum: 3]NN // NNS // VBP // IN // NN // . // 
+[sentNum: 4]JJ // NNS // VBP // RB // RB // JJR // NN // . // 
+[sentNum: 5]JJ // NNS // VBP // DT // NN // IN // NNS // WDT // RB // VBZ // DT // NNS // CC // NNS // VBN // : // JJ // NN // VBZ // JJ // CC // DT // NNS // TO // VB // DT // NNS // CC // NNS // . // 
+[sentNum: 6]WRB // NN // NN // VBZ // TO // NNS // , // DT // JJ // NN // IN // NN // VBZ // NN // . // 
+[sentNum: 7]DT // NNS // IN // JJ // NNS // , // RB // NN // CC // NN // , // VBP // JJ // NN // . // 
+[sentNum: 8]NNS // : // NN // NNS // IN // JJ // , // JJ // NNS // IN // CD // JJ // NNS // IN // NN // VBD // VBN // IN // VBG // JJ // NNS // CC // NN // NNS // IN // DT // NNP // NNP // IN // NNP // CD // NNP // CD // , // NNP // . // NN // . // NNP // NNPS // NNP // NNP // , // NNP // NNP // IN // NNP // NNP // , // NNP // NNP // NNP // , // NNP // NNP // IN // NNPS // CC // NNPS // , // NNP // NNP // NNP // , // CC // JJ // NNP // NNP // . // 
+[sentNum: 9]NN // JJ // NN // NN // VBD // VBN // IN // DT // JJS // NN // NN // NN // IN // WDT // NNS // VBP // IN // JJ // NNS // IN // DT // NN // IN // NN // CC // RB // JJ // NN // NN // IN // NN // IN // RB // VBG // RB // JJ // NN // NNS // . // 
+[sentNum: 10]DT // NN // VBZ // VBN // IN // JJ // NNS // IN // VBN // , // VBN // NNS // : // NN // NNS // : // CC // NNS // IN // NNS // CC // NN // NN // , // VBG // NN // VBN // IN // DT // NNP // NNP // NNP // POS // NNP // NNP // NNP // CC // NNP // . // 
+[sentNum: 11]NN // VBZ // DT // JJ // NN // NN // IN // DT // NNP // NNPS // , // VBG // CD // IN // CD // NNS // VBP // CD // CD // . // 
+[sentNum: 12]CD // NN // TO // VBG // NN // NN // CC // NN // NNS // VBZ // VBG // . // 
+[sentNum: 13]RB // , // RB // JJ // NN // IN // JJ // NN // NNS // MD // RB // VB // NN // NNS // . // 
+[sentNum: 14]NN // NNS // VBP // IN // WP // PRP // VBP // RB // NN // CD // NN // CD // NN // . // 
+[sentNum: 15]JJ // NNS // NN // JJR // NNS // RBR // RB // CC // IN // RBR // JJ // NN // NNS // . // 
+[sentNum: 16]NN // NNS // RB // VBP // IN // NN // . // 
+[sentNum: 17]IN // VBN // IN // DT // NNP // NNP // IN // NNP // CD // NNP // CD // CD // CD // NN // CD // NN // , // NN // VBZ // VBN // IN // DT // NN // POS // NN // NNS // CC // PRP$ // NNS // CC // NNS // . // 
+[sentNum: 18]JJ // NNS // VB // JJ // NN // NNS // IN // DT // NNS // CC // NNS // VBN // : // JJ // NNS // VBP // RB // JJ // NNS // IN // DT // NNS // CC // NNS // . // 
+[sentNum: 19]IN // NN // NNS // VBP // TO // VB // NN // NN // , // NN // VBZ // VBN // IN // VBG // DT // NN // IN // NN // WDT // JJS // NNS // NNS // IN // NNS // CC // NNS // VBP // CD // CD // . // 
+[sentNum: 20]RB // IN // NN // , // NN // NN // VBZ // JJ // IN // DT // NNP // . // NN // . // JJ // CC // VBZ // VBN // RBR // RB // IN // IN // JJ // NNS // VBP // CD // CD // CD // NN // . // 
+[sentNum: 21]DT // NNS // IN // PRP$ // JJ // NNS // , // RB // NN // CC // NN // , // VBP // JJ // NN // . // 
+[sentNum: 22]DT // JJ // NN // VBZ // VBN // JJ // NN // WRB // NNS // IN // WP // DT // NNS // RB // VBP // DT // NNS // CC // NNS // VBP // RB // VBG // VBN // RB // RB // CD // CD // , // CD // CD // CC // WRB // NNS // VBP // VBG // VBN // RB // RB // CD // CD // NN // . // 
+[sentNum: 23]NN // NN // NN // NN // VBZ // VBG // CD // JJ // NNS // : // VBG // NN // TO // JJ // NN // IN // NNS // IN // JJ // NN // TO // VB // : // VBG // JJ // NN // IN // NNS // IN // JJ // NN // NN // : // CC // VBG // NN // IN // JJ // NN // NNS // IN // NN // , // IN // CC // IN // JJ // NN // . // 
+[sentNum: 24]DT // NN // VBZ // IN // DT // JJ // CD // NNS // . // 
+[sentNum: 25]PRP // VBZ // DT // NN // IN // CD // NNS // VBN // IN // DT // NN // TO // VB // CC // VB // JJ // , // JJ // NN // NN // . // 
+[sentNum: 26]PRP // VBP // NN // IN // JJ // NNS // IN // DT // JJ // NN // NN // VBD // IN // CD // JJ // NNS // VBP // IN // DT // NN // IN // NN // CD // JJ // NN // NN // CC // IN // PRP // VBP // IN // CC // VB // RB // VB // IN // JJR // JJ // NN // NNS // RB // JJ // NN // NN // . // 
+[sentNum: 27]PRP // VBP // NN // IN // NN // IN // RB // JJ // , // JJ // NN // CC // NN // IN // NN // VBG // JJ // NNS // TO // VB // RB // JJ // NN // WDT // MD // VB // NN // NN // NN // . // 
+[sentNum: 28]NNS // 
+[sentNum: 29]PRP // VBD // IN // CD // JJ // NNS // IN // NN // : // NN // , // JJ // , // JJ // , // JJ // , // CC // NN // . // 
+[sentNum: 30]DT // NN // VBZ // VBN // TO // VB // NN // RB // IN // TO // VB // IN // DT // NN // . // 
+[sentNum: 31]PRP // VBZ // VBN // IN // DT // JJ // NN // IN // JJ // NNS // CC // NN // NNS // IN // DT // NNP // NNP // IN // NNP // CD // NNP // CD // , // NNP // . // NN // . // NNP // NNPS // NNP // NNP // , // NNP // NNP // NNP // , // NNP // NNP // IN // NNP // NNP // , // NNP // NNP // IN // NNPS // CC // NNPS // , // NNP // NNP // NNP // , // CC // JJ // NNP // NNP // . // 
+[sentNum: 32]IN // DT // NNS // RB // VBP // RB // VB // NNS // IN // PRP$ // NNS // , // PRP // VBD // DT // NNP // NNP // NNP // POS // NNP // NNP // NNP // NN // , // NNP // , // CC // NN // NNS // IN // DT // NNP // NNP // NNP // POS // NN // NN // CC // NNP // NNP // NNP // IN // JJ // NN // IN // VBN // , // VBN // NNS // VBP // NNS // CD // CC // NNS // IN // VBG // NN // , // RB // RB // IN // JJ // NNS // IN // DT // NNS // IN // JJ // JJ // NNS // IN // PRP$ // NN // NNS // IN // NN // . // 
+[sentNum: 33]PRP // VBD // NN // IN // NNS // IN // DT // NNS // CC // NN // NN // IN // NN // NN // VBN // IN // DT // JJ // CD // NNS // VBP // CD // NNP // CD // TO // CD // NNP // CD // CD // IN // DT // VBG // JJ // NNS // : // NNS // IN // JJ // NN // , // DT // NNP // IN // DT // NNP // NNP // NNP // NN // NN // CD // , // NNP // NNP // NNP // , // NNP // IN // NNP // NNP // NNP // , // DT // NNP // NNP // NNP // IN // NNP // , // NNP // , // DT // NNP // , // NNP // IN // DT // NNP // NNP // NNP // , // NNP // CC // NNP // , // CC // NNP // : // NNP // NNP // NNP // IN // NNS // . // 
+[sentNum: 34]PRP // VBD // NN // NNS // IN // NNS // TO // VB // JJ // NNS // . // 
+[sentNum: 35]IN // DT // NN // IN // NN // , // PRP // VBD // DT // JJS // JJ // NN // NNS // IN // DT // NNS // VBP // RB // VBN // IN // JJ // NN // NN // CC // NNS // WDT // NNS // CC // VBD // RB // VB // CC // VBN // IN // CD // VBN // IN // JJ // NN // NN // . // 
+[sentNum: 36]DT // NNP // VBD // DT // NN // TO // VB // JJ // NN // NN // NNS // . // 
+[sentNum: 37]PRP // VBD // NNS // VBN // RB // TO // VB // JJ // NNS // WDT // MD // VB // JJ // NN // IN // VBG // NN // IN // RB // JJ // NN // . // 
+[sentNum: 38]IN // DT // NNP // NNP // NNP // NNP // NNP // NNP // VBZ // RB // VBP // NN // IN // NNS // IN // PRP$ // NN // NNS // , // NN // VBZ // RB // DT // JJ // NN // IN // DT // NN // NN // NN // CD // VBN // IN // DT // NNS // VBP // CD // CD // . // 
+[sentNum: 39]PRP // VBP // NNS // IN // JJ // NNS // IN // NN // IN // JJ // NNS // . // 
+[sentNum: 40]PRP // VBP // IN // NN // NN // , // JJ // NNS // . // 
+[sentNum: 41]PRP // VBP // RB // VB // NN // IN // NNS // IN // JJ // JJ // NN // NNS // CC // JJ // NNS // . // 
+[sentNum: 42]PRP$ // NN // IN // NNS // , // IN // NN // NN // CC // DT // NN // IN // NN // IN // JJ // NN // NNS // CC // IN // DT // JJ // NN // NN // IN // DT // JJ // NN // , // WDT // VBP // DT // RB // JJ // NNS // IN // NN // NN // CC // NN // NNS // JJ // TO // NN // VBZ // VBN // . // 
+[sentNum: 43]NN // MD // VB // IN // NNS // IN // JJR // CC // JJR // NN // IN // NN // NN // . // 
+[sentNum: 44]NN // MD // RB // VB // VBN // IN // DT // JJ // NN // NN // CC // NN // CD // NN // IN // NN // NNS // IN // NNS // , // NNS // , // CC // NNS // . // 
+[sentNum: 45]DT // NN // VBD // VBN // CC // VBN // IN // DT // JJ // NNP // NNP // NNP // NNP // , // WP$ // NNS // VBP // NNS // VBN // IN // JJ // NN // CC // PRP$ // NNS // CC // NNS // IN // NN // NN // . // 
+[sentNum: 46]DT // NNP // NNP // VBD // DT // JJ // NN // NN // NNS // IN // DT // NN // IN // DT // JJ // NN // IN // DT // NN // . // 
+[sentNum: 47]IN // DT // NN // NN // , // DT // NNS // VBD // DT // JJ // CC // JJ // NNS // . // 
+[sentNum: 48]DT // NN // NN // IN // DT // NN // VBZ // DT // NNS // . // 
+[sentNum: 49]DT // NN // NN // NN // VBZ // JJ // , // JJ // NNS // . // 
+[sentNum: 50]NNS // 
+[sentNum: 51]NN // NN // 
+[sentNum: 52]IN // DT // NN // IN // NNS // CC // JJ // NN // NNS // , // DT // NNS // VBP // NN // NN // , // CC // NNS // IN // NN // , // IN // JJS // DT // CD // NNS // IN // NNS // JJ // CD // TO // CD // NNS // RB // NNP // CD // CC // NNP // NNP // CD // , // JJ // IN // NN // . // NN // . // NN // CD // CD // CD // , // CD // CD // CD // NN // . // 
+[sentNum: 53]DT // NN // VBZ // JJ // JJ // NN // NN // , // JJ // NN // NN // CD // NNP // CD // , // CC // NN // NN // IN // JJ // NNS // . // 
+[sentNum: 54]NN // VBZ // JJ // IN // DT // NNS // IN // JJ // NN // NN // IN // NN // RB // RB // CD // NN // . // 
+[sentNum: 55]NNS // IN // RB // VBG // JJR // JJ // NNS // VBP // JJ // IN // JJ // NN // , // VBG // JJR // CC // JJR // NN // NNS // , // VBG // NNS // IN // DT // NN // IN // DT // NN // NN // JJR // IN // CD // NNS // , // CC // NN // IN // RBR // JJ // NNS // VBP // VBP // NNS // IN // PRP // MD // VB // TO // JJ // NNS // CC // JJ // NNS // IN // NNS // , // JJ // IN // JJ // JJ // NN // NNS // CC // NN // CC // NN // IN // NNS // WDT // MD // RB // VB // VBN // TO // VB // JJ // NNS // VBP // CD // CD // CD // NN // . // 
+[sentNum: 56]VBG // NNS // MD // RB // RB // VB // CD // CD // NN // . // 
+[sentNum: 57]JJ // NN // NN // CD // : // NNS // MD // VB // DT // NNS // CC // NNS // IN // VBG // NN // IN // JJ // NNS // JJ // CD // TO // CD // NNS // CC // NN // JJ // NN // NN // IN // DT // VBN // NN // NNS // PRP // . // 
+[sentNum: 58]JJ // NN // NN // CD // : // NNS // MD // VB // JJ // NN // NN // IN // JJ // NNS // JJ // CD // TO // CD // NNS // . // 
+[sentNum: 59]JJ // NN // NN // CD // : // NNS // MD // RB // VB // JJ // NNS // JJR // IN // CD // NNS // CC // JJ // CD // NNS // CC // JJR // IN // NN // NN // CC // NN // NNS // IN // DT // NN // IN // DT // NN // NN // JJR // IN // CD // NNS // . // 
+[sentNum: 60]JJ // NN // NN // CD // : // NNS // MD // RB // VB // JJ // NNS // IN // DT // NN // IN // NN // NN // IN // NNP // CC // NN // . // 
+[sentNum: 61]NNP // CD // . // 
+[sentNum: 62]JJ // CC // JJ // NN // VBG // NNS // IN // CD // NNS // IN // NN // SYM // 
+[sentNum: 63]NNP // NNP // NNP // NNP // NNP // NNS // VBP // JJ // NN // NN // NN // VBG // NNS // WDT // VBP // RB // VBN // NN // JJ // NN // NN // 
+[sentNum: 64]NNS // JJ // CD // CD // CD // NN // : // VB // NNS // CC // NNS // IN // NNS // IN // JJ // NN // , // CC // NN // NN // IN // NN // DT // CD // NN // IN // DT // NN // NNS // PRP // . // 
+[sentNum: 65]NNS // JJ // CD // CD // CD // NN // IN // JJ // NN // : // VB // NN // DT // CD // NN // . // 
+[sentNum: 66]NNS // JJ // JJR // CD // NN // CC // . // 
+[sentNum: 67]CD // NN // CC // NNS // IN // DT // NN // RB // IN // JJ // NN // CC // IN // DT // NN // NN // JJR // CD // NN // : // DT // NN // . // 
+[sentNum: 68]NNS // IN // DT // NN // : // JJ // NN // , // NNP // , // NN // , // CC // JJ // JJ // NN // NN // 
+[sentNum: 69]JJ // NNS // : // VBG // NNP // NNP // NNP // NNP // NNP // RB // JJ // NN // 
+[sentNum: 70]DT // JJ // NN // TO // VBG // NN // NN // NN // VBZ // TO // VB // NN // IN // JJ // NNS // IN // WDT // NNS // RB // VBP // NNS // CC // NNS // . // 
+[sentNum: 71]DT // VBZ // DT // JJ // NN // , // RB // IN // NNS // IN // JJ // NN // TO // VB // . // 
+[sentNum: 72]PRP // VBP // CD // JJ // NNS // WDT // MD // VB // JJ // NN // NN // NN // IN // VBG // RB // JJ // VBG // CD // NNP // CD // CD // . // 
+[sentNum: 73]IN // NNP // NNP // CD // CD // JJ // IN // NN // . // NN // . // NN // NN // , // PRP // VBP // DT // NNS // IN // JJ // NN // VBN // IN // JJ // NN // , // RB // RB // IN // VBN // JJ // NN // IN // VBZ // DT // NNS // . // 
+[sentNum: 74]DT // NNS // IN // DT // VBN // NNS // MD // VB // NN // IN // JJ // NN // CC // NN // IN // NNS // TO // VB // JJ // NN // IN // VBG // RB // JJ // NN // . // 
+[sentNum: 75]DT // VBN // NNS // VBP // RB // VBN // IN // DT // JJ // NN // CC // VBP // RB // JJ // . // 
+[sentNum: 76]NNS // VBP // RB // VBN // IN // JJ // NNS // CC // NN // CC // NN // NNS // VBG // JJ // NNS // . // 
+[sentNum: 77]JJ // JJ // NN // VBZ // IN // NN // VBZ // IN // VBN // NNS // . // 
+[sentNum: 78]JJ // NN // VBG // DT // NNS // VBZ // VBN // IN // JJ // NN // , // CC // PRP // MD // VB // NN // IN // NN // , // JJ // NNS // WDT // VBP // JJ // NN // . // 
+[sentNum: 79]JJ // NNS // VBN // IN // NN // NNS // CC // IN // PRP$ // JJ // NNS // VBN // NNS // CC // NNS // TO // DT // JJ // NN // IN // PRP // VBD // NNS // . // 
+[sentNum: 80]RB // , // JJ // NNS // CC // JJ // NN // NNS // MD // RB // VB // DT // NN // IN // DT // NN // NN // PRP // VBD // VBG // . // 
+[sentNum: 81]NNP // NNP // VBZ // RB // JJ // , // JJ // NN // . // 
+[sentNum: 82]RB // JJ // , // JJ // NN // VBZ // JJ // . // 
+[sentNum: 83]IN // NN // , // CD // NN // IN // NNS // JJ // CD // TO // CD // NNS // VBD // DT // NN // NN // IN // NN // , // CC // CD // NN // TO // CD // NN // IN // DT // NN // NN // VBD // NN // CD // CD // NN // . // 
+[sentNum: 84]JJS // NNS // VBG // NN // VBP // PRP // RB // . // 
+[sentNum: 85]CD // NN // IN // VBN // JJ // NN // NNS // NN // IN // NN // CC // NNP // , // IN // NN // TO // NN // , // IN // NNS // WP // VBP // RB // IN // VBN // NN // IN // NN // NN // . // 
+[sentNum: 86]NNS // NNS // VBP // JJ // NN // IN // VBG // NNP // IN // NNS // WP // VBP // RB // IN // VBN // NN // NN // CD // NN // . // 
+[sentNum: 87]IN // NNS // VBN // CD // NNS // CC // JJR // , // JJ // CC // NN // NN // NN // VBZ // IN // CD // NN // CC // CD // NN // , // RB // CD // CD // NN // . // 
+[sentNum: 88]JJ // NN // NN // VBZ // RB // VBN // JJR // CC // RBR // RB // IN // VBN // NN // CD // NN // . // 
+[sentNum: 89]RB // CD // NN // IN // NNS // IN // DT // NN // VBD // DT // NN // NN // IN // JJ // NN // NN // IN // CD // CD // CD // NN // . // 
+[sentNum: 90]DT // VBN // CD // . // CD // CD // NNP // . // NN // . // NNS // VBP // JJ // NN // NN // CD // CD // NN // . // 
+[sentNum: 91]JJR // IN // CD // NN // IN // VBG // NNS // CC // RB // DT // NNS // VBP // VBG // JJ // JJ // NNS // IN // JJ // CC // JJ // JJ // NN // NN // CD // CD // NN // . // 
+[sentNum: 92]JJ // JJ // NN // NN // VBZ // RB // JJ // . // 
+[sentNum: 93]CD // NN // IN // NNS // VBD // NNS // RBR // RB // IN // NNS // VB // , // CC // NN // RB // VBZ // IN // NNS // IN // NN // NNS // IN // CD // NNS // CC // JJR // CD // CD // NN // CD // NN // . // 
+[sentNum: 94]IN // NNS // VBG // DT // NN // NN // NN // , // CD // NN // VBD // DT // JJ // NN // JJR // IN // CD // NN // IN // CD // CD // NN // . // 
+[sentNum: 95]CD // NN // IN // NNS // VBG // NN // NN // VBP // RB // VB // VBG // VBD // IN // DT // NN // VBD // VBN // RB // CD // CD // . // 
+[sentNum: 96]JJS // NNS // VBG // NN // NN // VBD // JJ // NN // NN // , // CC // CD // NN // IN // NNS // JJ // CD // TO // CD // NNS // VBD // JJ // NN // . // 
+[sentNum: 97]JJR // IN // CD // NN // IN // NNS // CC // NNS // JJR // IN // CD // NNS // VBP // IN // PRP$ // NNS // VBP // TO // VB // JJ // NN // CD // NN // . // 
+[sentNum: 98]NN // 
+[sentNum: 99]DT // NNP // RB // VBZ // VBG // NN // IN // VBG // NN // NN // NNS // VBP // CD // CD // . // 
+[sentNum: 100]PRP$ // VBG // NN // IN // DT // NNS // IN // RB // JJ // , // JJ // NN // , // VBG // JJ // NNS // CC // NNS // , // MD // VB // PRP // TO // VB // NN // IN // JJ // NNS // IN // NN // NN // . // 
+[sentNum: 101]NN // NN // VBZ // DT // NN // . // 
+[sentNum: 102]PRP // VBD // NN // JJ // NNS // IN // CD // JJ // NNS // IN // NN // , // VBG // JJ // NN // IN // JJ // JJ // NN // NNS // CC // RB // VBG // RB // JJ // NNS // . // 
+[sentNum: 103]NN // NNS // VBP // RB // VBG // NN // IN // NNS // IN // VBG // NNS // CC // NNS // IN // VBG // NN // JJ // NNS // . // 
+[sentNum: 104]DT // NN // NN // VBZ // VBN // IN // JJR // NN // IN // NNS // IN // VBG // IN // JJ // NNS // IN // NN // . // 
+[sentNum: 105]IN // NN // VBZ // IN // DT // NNS // , // JJ // IN // JJ // NN // CD // CD // CC // JJ // NN // CD // CD // NN // NN // IN // NN // NN // , // PRP // VBZ // JJ // TO // VB // DT // NN // IN // RB // JJ // , // RBR // JJ // NNS // IN // PRP // VBP // RB // JJ // NN // . // 
+[sentNum: 106]DT // NN // MD // VB // VBN // IN // DT // JJ // NN // . // 
+[sentNum: 107]IN // NN // TO // RB // JJ // , // JJ // NN // NNS // , // PRP // VBD // JJ // NN // IN // VBG // IN // CC // RB // VBG // RB // JJ // , // JJ // NN // . // 
+[sentNum: 108]NNS // VBP // VBN // IN // JJ // NN // CC // MD // VB // JJ // NN // IN // VBG // NN // CC // NN // . // 
+[sentNum: 109]PRP // VBP // IN // DT // NN // VBZ // JJ // NN // , // RB // IN // VBG // DT // JJ // JJ // NNS // IN // JJR // JJ // NN // IN // RB // VBG // VBN // IN // DT // NN // IN // NNS // . // 
+[sentNum: 110]IN // DT // NNS // VBP // RB // VB // NNS // VBN // IN // JJ // NNS // , // JJ // , // JJ // NN // VBZ // RBR // JJ // IN // RB // JJ // NN // . // 
+[sentNum: 111]PRP // RB // VBD // NN // IN // RB // JJ // CC // RB // JJ // NN // VBZ // JJ // . // 
+[sentNum: 112]IN // NN // , // NN // IN // JJ // NN // VBZ // , // RB // IN // NNS // IN // JJ // NN // NN // NN // . // 
+[sentNum: 113]RB // , // NNS // MD // RB // VB // NN // NN // NN // IN // JJ // TO // DT // RB // JJ // , // JJ // CC // JJ // NNS // VBN // IN // DT // JJ // NNP // NNP // NNP // NNP // . // 
+[sentNum: 114]RB // VBG // NN // MD // VB // JJ // IN // NN // IN // JJR // RB // IN // JJR // JJ // NN // . // 
+[sentNum: 115]PRP // VBD // JJ // NN // CC // DT // NN // NN // VBG // JJ // NNS // WDT // MD // VB // NN // IN // JJR // JJ // NN // IN // NNS // , // NNS // , // NNS // , // CC // NNS // TO // VB // . // 
+[sentNum: 116]RB // , // NN // MD // VB // JJ // NN // RB // VBG // IN // JJ // NN // VBZ // TO // JJ // NN // IN // NNS // CC // JJR // NNS // IN // NNS // CC // NNS // . // 
+[sentNum: 117]NN // NNS // CC // NNS // VBP // TO // RBR // VB // WDT // NN // NNS // VBP // JJ // CC // JJ // NN // . // 
+[sentNum: 118]NN // NNS // MD // VB // NNS // VB // DT // NN // IN // NN // NNS // IN // VBG // IN // NN // IN // NN // NNS // , // NNS // , // CC // NNS // CC // RB // RB // VBG // NNS // . // 
+[sentNum: 119]IN // DT // NNS // , // DT // MD // VB // DT // NN // IN // PRP // MD // RB // RB // VB // NN // IN // NNS // CC // RB // VBP // RB // VB // NNS // . // 
+[sentNum: 120]TO // VB // DT // NN // IN // VBG // NN // CC // NN // NN // IN // JJ // NN // , // NNS // CC // NNS // MD // VB // VBN // RB // IN // NNS // TO // RB // VB // NN // . // 
+[sentNum: 121]NNS // MD // VB // JJ // NN // TO // JJ // NNS // IN // NNS // WDT // VBP // JJ // IN // VBG // DT // NNS // . // 
+[sentNum: 122]NNS // VBP // DT // JJ // NN // IN // VBG // CC // VBG // DT // NN // IN // NN // NNS // . // 
+[sentNum: 123]IN // NNS // IN // VBN // JJ // NN // NNS // , // NN // MD // VB // DT // JJ // NN // IN // JJ // NN // . // 
+[sentNum: 124]NNP // MD // RB // VB // WRB // JJ // NN // MD // VB // VBN // CC // WRB // JJ // NNS // CC // NNS // MD // VB // VBN // IN // VBG // RBR // RB // : // VBG // DT // JJR // NN // NN // TO // VB // NN // : // CC // VBG // DT // JJR // , // JJ // NN // . // 
+[sentNum: 125]PRP // MD // VB // JJ // TO // VB // DT // NNS // IN // DT // NN // NN // NN // NN // CD // NN // , // CC // PRP // VBP // NN // NNS // IN // DT // NN // NN // NN // CD // NN // . // 
+[sentNum: 126]NNP // MD // VB // IN // DT // NNS // IN // DT // JJ // NN // NN // , // VBG // DT // JJR // NN // IN // WP // VBZ // NN // JJ // NN // NN // CC // WRB // TO // VB // NN // CC // NN // CD // CD // NN // . // 
+[sentNum: 127]PRP // MD // RB // VB // IN // NNS // NNS // MD // VB // TO // VB // DT // NNS // , // NNS // , // CC // NNS // IN // VBG // TO // PRP$ // NNS // CC // NN // , // VBG // NNS // IN // VBG // DT // NN // IN // NN // . // 
+[sentNum: 128]VBG // NN // IN // DT // NN // IN // NN // MD // VB // NNS // IN // NNS // CC // NNS // . // 
+[sentNum: 129]RB // IN // VBG // IN // DT // NN // VBZ // JJ // , // NNS // MD // VB // DT // NN // IN // DT // NN // IN // PRP // RB // VBZ // NNS // IN // NNS // CC // NNS // CC // NNS // CC // IN // DT // NNS // MD // RB // VB // IN // PRP // MD // VB // JJR // JJ // NN // . // 
+[sentNum: 130]RB // , // VBG // DT // NN // POS // NN // CC // JJ // NN // IN // NNS // CC // NNS // MD // VB // PRP // CC // PRP$ // TO // VB // IN // NN // NN // VBZ // RB // DT // JJS // NN // CC // IN // EX // MD // VB // JJ // RBR // VBG // NNS // TO // VB // . // 
+[sentNum: 131]IN // NN // , // PRP // VBP // NNS // TO // VB // NN // WRB // VBG // NN // NN // IN // PRP$ // NNS // . // 
+[sentNum: 132]NN // IN // JJ // NNS // CC // NN // IN // DT // RB // JJ // , // JJ // NNS // IN // PRP // VBD // IN // RB // JJ // MD // VB // NN // NN // NN // . // 
+[sentNum: 133]IN // NN // , // DT // NN // IN // VBG // NN // IN // VBG // NNS // CC // NNS // IN // VBG // RBS // NNS // MD // VB // IN // JJ // NNS // . // 
+[sentNum: 134]JJ // NN // MD // VB // IN // NNS // WDT // VBP // RB // RB // JJ // CC // RB // JJ // IN // NN // . // 
+[sentNum: 135]PRP // VBP // VBN // IN // DT // NN // IN // RB // JJ // NNS // WDT // VBP // TO // JJ // NN // . // 
+[sentNum: 136]VBG // RB // JJ // , // JJ // NN // MD // RB // RB // VB // VBG // NNS // CC // NNS // CC // RB // VBP // NN // CC // NNS // TO // VB // NN // IN // JJ // NNS // , // RB // RB // VBG // NN // . // 

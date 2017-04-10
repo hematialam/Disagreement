@@ -1,0 +1,136 @@
+[sentNum: 1]Abnormally high // Numerical value // care activity // American College of Physicians // Screening for cancer // Advice // 
+[sentNum: 2]Background // Screening for cancer // One // Approach // Reduced // Related to Cancer // Morbidity - disease rate // Death Rate // 
+[sentNum: 3]Aspects of disease screening // strategy // With intensity // 
+[sentNum: 4]Abnormally high // With intensity // strategy // Negation // Abnormally high // Numerical value // 
+[sentNum: 5]Abnormally high // Numerical value // strategy // Providing (action) // Degree or extent // Benefits // justify // Financial cost // Abnormally low (qualifier value) // Numerical value // Aspects of disease screening // Providing (action) // Limited (extensiveness) // Benefits // justify // Financial cost // 
+[sentNum: 6]Screening for cancer // Dietary Lead // Benefits // Optimum // With intensity // Aspects of disease screening // Numerical value // 
+[sentNum: 7]Some (qualifier value) // Aspect (characteristic) // Aspects of disease screening // Practice Experience // Abnormally low (qualifier value) // Numerical value // 
+[sentNum: 8]Methods // strategy // Asymptomatic screening // Average // Risk // Adult // Preposition For // shared attribute // Type 5 // Malignant Neoplasms // Evaluation // Reviewing // Clinical // Guideline [Publication Type] // Evidence of // Anabolism // American College of Physicians // United States // Preventive service healthcare // Advisory Committees // American // Academies // Physicians, Family // American Cancer Society // American // Congress (U.S. Legislature) // Obstetrician // Gynecologist // American // gastroenterology (field) // Mental association // American // Mental association // 
+[sentNum: 9]Abnormally high // Numerical value // Definition // Lowest // Aspects of disease screening // With intensity // Threshold // Organization administrative structures // Agree // Aspects of disease screening // Recommendation // Preposition For // Type - attribute // Malignant Neoplasms // Abnormally low (qualifier value) // Numerical value // Agreement // Negation // Recommendation // Aspects of disease screening // strategy // 
+[sentNum: 10]Information // Dietary Supplements // Additional // Procedure findings:Finding:Point in time:^Patient:Narrative // Randomized Controlled Trials as Topic // Modeling // Scientific Study // Scientific Study // Financial cost // Resources // utilization qualifier // Including (qualifier) // Information // Present // National Cancer Institute // PDQ (Physician Data Query) // 
+[sentNum: 11]Malignant Neoplasms // Major // Health // Problem // United States // Causing // 1+ Score // Cessation of life // 1+ Score // 
+[sentNum: 12]One // Approach // Reduced // Malignant Neoplasms // Morbidity - disease rate // Death Rate // Aspects of disease screening // 
+[sentNum: 13]Full // Implementation // Effectiveness // Aspects of disease screening // strategy // Negation // Malignant Neoplasms // Cessation of life // 
+[sentNum: 14]Disease Screening // strategy // Decision // With intensity // 2+ Score // 
+[sentNum: 15]Abnormally high // With intensity // strategy // Screening - procedure intent // Widening // Population Group // Frequent // Confidentiality - sensitive // Screening Tests // 
+[sentNum: 16]Disease Screening // strategy // Numerical value // 
+[sentNum: 17]Definition // American College of Physicians // 3/5 // Numerical value // Intervention regimes // Health Benefits // Financial cost // 
+[sentNum: 18]Abnormally high // Numerical value // strategy // Return to // Large // Health // Benefits // Financial cost // Abnormally low (qualifier value) // Numerical value // strategy // Return to // Small // Benefits // Financial cost // 
+[sentNum: 19]strategy // Aim (idea) // To // Cancer Detection // Numerical value // Experimental Finding // Levels (qualifier value) // With intensity // best (quality) // Does balance // Benefits // Financial cost // 2+ Score // 
+[sentNum: 20]Numerical value // Screening for cancer // popularity // United States // More // Frequent // Country // 
+[sentNum: 21]Some (qualifier value) // Aspect (characteristic) // Aspects of disease screening // Practice Experience // Abnormally low (qualifier value) // Numerical value // 
+[sentNum: 22]Aspects of disease screening // Program // consider // Abnormally low (qualifier value) // Numerical value // Persons // Benefits // Financial cost // Negation // Screening - procedure intent // Persons // Screening - procedure intent // 
+[sentNum: 23]Improving (qualifier value) // Screening for cancer // Numerical value // Overcome // Main // Challenge // Increasing // Role Class - access // Disease Screening // Preposition For // Population Group // Sufficient // Role Class - access // care activity // Increasing // Abnormally high // Numerical value // Disease Screening // Persons // Sufficient // care activity // Role Class - access // Reduced // Use of // Abnormally low (qualifier value) // Numerical value // Disease Screening // strategy // Sufficient // Role Class - access // 
+[sentNum: 24]Article // Focal // Challenge // 
+[sentNum: 25]second (number) // Paper // Cerebral Palsy, Ataxic, Autosomal Recessive // Abnormally high // Numerical value // Financial cost // Conscious // Screening for cancer // 
+[sentNum: 26]Note (document) // Agreement // Various patch test substance // Organization administrative structures // Lowest // With intensity // Disease Screening // Threshold // Recommendation // Average // Risk // Persons // Preposition For // Type - attribute // Malignant Neoplasms // Abnormally high // Numerical value // Recommendation // Negation // Recommendation // Disease Screening // strategy // Abnormally low (qualifier value) // Numerical value // 
+[sentNum: 27]Providing (action) // Information // Use of // Abnormally low (qualifier value) // Numerical value // Disease Screening // Stop (qualifier value) // Evidence of // suggestion // Future // Directions // Disease Screening // Enhance (action) // Screening for cancer // Numerical value // 
+[sentNum: 28]Methods aspects // 
+[sentNum: 29]Has focus // shared attribute // Type 5 // Malignant Neoplasms // Breast // Cervical // Colorectal // Ovaro- // Prostate // 
+[sentNum: 30]Article // intent // To // Providing (action) // Advice // To // Guideline [Publication Type] // 
+[sentNum: 31]Base - General Qualifier // narrative review // Clinical // Guideline [Publication Type] // Evidence of // Anabolism // American College of Physicians // United States // Preventive service healthcare // Advisory Committees // American Cancer Society // American // Academies // Physicians, Family // American // Congress (U.S. Legislature) // Obstetrician // Gynecologist // American // Relationship by association // American // gastroenterology (field) // Relationship by association // 
+[sentNum: 32]Organization administrative structures // Negation // Estimated // Financial cost // Recommendation // Search - action // National Cancer Institute // PDQ (Physician Data Query) // Entity Code - System // Modeling // National Cancer Institute // Intervention Studies // Surveillance Modeling // Consortium or Network // Additional // Evidence of // Randomized Controlled Trials as Topic // Model // Aspects of disease screening // Effectiveness // National citizen // Financial cost // Various patch test substance // Screening Study // strategy // Preposition For // Target // Type - attribute // Malignant Neoplasms // 
+[sentNum: 33]Search - action // MEDLINE // Article // Financial cost // Resources // utilization qualifier // Screening for cancer // Scientific Publication // Past // year // 1+ Score // Following // Medical // Journal // Internal medicine physicians // Journal // American Medical Association // Journal // American Medical Association // Internal medicine physicians // Journal // general practice (field) // Internal - CodeSystemType // New England // Journal // Medicine // Lancet // Journal of the National Cancer Institute // Physicians - Obstetrics &amp; Gynecology // Malignant Neoplasms // Journal // Clinician // 
+[sentNum: 34]Examined // Reference Object // List // Article // Finding // Further // Scientific Study // 
+[sentNum: 35]Preposition For // Type - attribute // Malignant Neoplasms // List // Less Than // Screening procedure // strategy // Organization administrative structures // Recommendation // Definition // Abnormally high // Numerical value // care activity // strategy // Organization administrative structures // Negation // Recommendation // Recommendation // Definition // Abnormally low (qualifier value) // Numerical value // care activity // 
+[sentNum: 36]Cerebral Palsy, Ataxic, Autosomal Recessive // Used by // Information // Abnormally high // Numerical value // care activity // Advice // Statement // 
+[sentNum: 37]Used by // Article // Identified // suggestion // Future // Directions // Enhance (action) // Screening procedure // Numerical value // Reduced // Screening procedure // 
+[sentNum: 38]Cerebral Palsy, Ataxic, Autosomal Recessive // Abnormally high // Numerical value // care activity // Advisory Committees // Negation // Include (action) // Evidence of // Cost aspects // Advice // Statement // Cost aspects // Part of // Numerical value // Journalist // Integer +2 // 
+[sentNum: 39]Providing (action) // Example // National citizen // Scientific Study // strategy // 
+[sentNum: 40]Has focus // Disease Screening // Average // Risk // Asymptomatic // Adult // 
+[sentNum: 41]Negation // Address // Medical Surveillance // Patients // Previous // Abnormal result // Disease Screening // High Risk Populations // 
+[sentNum: 42]Comprehension // Factor // Patients // Age // H/O: malignant neoplasm // Numerous // Family member // Immediate family member // Early // Age // Both // Effect // Cancer Risk // Health Outcomes // Due to // Disease Screening // Limited (extensiveness) // 
+[sentNum: 43]Numerical value // Persons // Abnormally high // Low Risk // Cancer Death Rate // 
+[sentNum: 44]Numerical value // Individual // Patient Base // Physicians // Weight // geographic population // Estimated // Benefits // Financial cost // 
+[sentNum: 45]Article // Reviewed // Approved // Abnormally high // Numerical value // care activity // Advisory Committees // member // Physicians // Transportation Services - Train // Internal medicine physicians // Evidence of // Synthesis // 
+[sentNum: 46]Advisory Committees // Abnormally high // Numerical value // care activity // Advice // Statement // Basis // Narration // Review Literature // 
+[sentNum: 47]Conferences // Precursor B-cell lymphoblastic leukemia // member // financial // Interested // 
+[sentNum: 48]Target Audience // Paper Authorization // Clinician // 
+[sentNum: 49]Target Population // Patients // Average // Risk // Asymptomatic // Persons // 
+[sentNum: 50]Result // 
+[sentNum: 51]Malignant neoplasm of breast // 
+[sentNum: 52]Basis // Modeling // Scientific Study // Groups // Recommendation // Screening mammography // Discussion (procedure) // Disease Screening // Less Than // Annual // Woman // Elderly (population group) // /40 // year // Table - furniture // Entire appendix // Table - furniture // Availability of // Internet // Professional Organization or Group // 
+[sentNum: 53]Groups // Recommendation // Regular // systematic // Entire breast // Magnetic Resonance Imaging // Disease Screening // Average // Risk // Woman // 
+[sentNum: 54]Evidence of // Insufficient (qualifier) // Benefits // Clinical // Examination of breast // Mammography // alone - group size // 
+[sentNum: 55]Indication of (contextual qualifier) // Negation // Recommendation // More // strategy // annual screening // Disease Screening // Young // Older Population // Age // Disease Screening // Persons // Age // In addition to // Life Expectancy // year // Screening Tests // Confidentiality - sensitive // Include (action) // Concern // Dietary Lead // Benefits // Large // Increase // Disease Screening // Test Result // overdiagnosis // Lesion // Never (frequency) // status - In progress // To // Science of Etiology // Clinical // Problems - What subject filter // 
+[sentNum: 56]Disease Screening // Financial cost // Increase // 
+[sentNum: 57]Abnormally high // Numerical value // care activity // Advice // Clinician // Benefits // Screening mammography // Average // Risk // Woman // Elderly (population group) // /40 // year // Order (document) // Mammography // Screening procedure // Informed // Woman // Request - action // 
+[sentNum: 58]Abnormally high // Numerical value // care activity // Advice // Clinician // Screening mammography // Average // Risk // Woman // Elderly (population group) // year // 
+[sentNum: 59]Abnormally high // Numerical value // care activity // Advice // Clinician // Negation // Screening - procedure intent // Average // Risk // Woman // Young // /40 // year // Old age // year // Old // Malignant neoplasm of breast // Screening - procedure intent // Woman // Age // In addition to // Life Expectancy // year // 
+[sentNum: 60]Abnormally high // Numerical value // care activity // Advice // Clinician // Negation // Screening - procedure intent // Average // Risk // Woman // Age // Preposition For // Malignant neoplasm of breast // Magnetic Resonance Imaging // 
+[sentNum: 61]Table - furniture // 
+[sentNum: 62]Abnormally high // Abnormally low (qualifier value) // Numerical value // Screening for cancer // strategy // Type 5 // 
+[sentNum: 63]Less Than // Recommendation // Screening for cancer // strategy // Abnormally high // Numerical value // Screening for cancer // strategy // Negation // Recommendation // Abnormally low (qualifier value) // Numerical value // 
+[sentNum: 64]Woman // Age // /40 // Benefits // Woman // Personal Satisfaction // Order (document) // Screening mammography // Integer +2 // Woman // Request for // 
+[sentNum: 65]Woman // Age // Personal Satisfaction // Mammography // Integer +2 // 
+[sentNum: 66]Woman // Age // /40 // 
+[sentNum: 67]Woman // Age // Negation // Personal Satisfaction // And // Life Expectancy // Disease Screening // 
+[sentNum: 68]Woman // Age // Annual // Mammography // Magnetic Resonance Imaging // Regular // systematic // Breast Self-Examination // 
+[sentNum: 69]Future // Directions // Enhance (action) // Screening for cancer // Numerical value // Reduced // 
+[sentNum: 70]Increment // Improving (qualifier value) // Screening for cancer // Numerical value // To // Increase // Implementation // strategy // Benefits // justify // Financial cost // 
+[sentNum: 71]Problem // Population Group // Inadequate (qualifier) // Role Class - access // care activity // 
+[sentNum: 72]List // Enhance (action) // Future // Screening for cancer // Numerical value // Reduced // Table - furniture // 
+[sentNum: 73]Entire appendix // Table - furniture // Availability of // Internet // Professional Organization or Group // Providing (action) // Type - attribute // Additional // Evidence of // Needs // Widespread // Implementation // Choose (action) // Preliminary // Evidence of // Supportive assistance // 
+[sentNum: 74]research outcome // Presentation // consideration // Future // Research Activities // Implementation // strategy // Enhance (action) // Disease Screening // Numerical value // Reduced // 
+[sentNum: 75]Identified // Scientific Study // Negation // Base - General Qualifier // systematic // Search - action // Negation // Definitive // 
+[sentNum: 76]Procedure findings:Finding:Point in time:^Patient:Narrative // Base - General Qualifier // Singular // Scientific Study // Modeling // Cost Analysis // Numerous // 
+[sentNum: 77]Suggestive of // Evidence of // Subgroup // Experimental Result // Clinical Trials, Randomized // 
+[sentNum: 78]Further // Research Activities // Confirmation // Procedure findings:Finding:Point in time:^Patient:Narrative // Needs // Widespread // Implementation // Hold - dosing instruction fragment // promise // Future // High // Numerical value // strategy // Smaller // Disease Screening // 
+[sentNum: 79]Few // Scientific Study // consider // Guideline [Publication Type] // developers // Additional // Search - action // Examined // Financial cost // Same // Degree or extent // Examined // Benefits // 
+[sentNum: 80]Scientific Study // Guideline [Publication Type] // developers // Direct (qualifier) // Assessed // Numerical value // Disease Screening // strategy // Investigates // 
+[sentNum: 81]shared attribute // Abnormally low (qualifier value) // Numerical value // Disease Screening // 
+[sentNum: 82]Abnormally low (qualifier value) // Numerical value // Aspects of disease screening // shared attribute // 
+[sentNum: 83]Example // Woman // Age // year // Receive // Physicians // Recommendation // Mammography // Arabic numeral 23 // Human Age Group // Mammography // /40 // 
+[sentNum: 84]Woman // Mammography // Receive // Annual // 
+[sentNum: 85]One // Third // Surveys // Primary Care Physicians // Screening - procedure intent // Ultrasonography // Magnetic Resonance Imaging // Mammography // Woman // Not Obtained // Risk // Malignant neoplasm of breast // 
+[sentNum: 86]Data // Abnormally high // Use of // Aspects of disease screening // Magnetic Resonance Imaging // Woman // Not Obtained // Risk // 
+[sentNum: 87]Woman // Age // year // Old // Cervical // Screening for malignant neoplasm of breast // Occurrence // 
+[sentNum: 88]early detection of cervical cancer // Early // More // Frequent // Recommendation // 
+[sentNum: 89]Woman // Cervix Uteri // Receive // GLI3 wt Allele // Laboratory Procedures // early detection of cervical cancer // 
+[sentNum: 90]Estimated // Million // United States // Woman // ovarian cancer screening // 
+[sentNum: 91]More // /40 // Internist // Gynecologist // Report (document) // Performed // Health Checkup // Pelvis // Ovaro- // Malignant Female Reproductive System Neoplasm // Aspects of disease screening // 
+[sentNum: 92]Inappropriate // early detection of colorectal cancer // shared attribute // 
+[sentNum: 93]Percent (qualifier value) // Adult // colonoscopy // Frequent // Guideline [Publication Type] // Recommendation // Disease Screening // Frequent // Occurrence // Adult // In addition to // Life Expectancy // year // Less Than // 
+[sentNum: 94]Persons // Fecal occult blood test // Screening Tests // Negative // Result // per year // 
+[sentNum: 95]One // Third // Male population group // Testing // Negation // Recall:-:Point in time:^Patient:- // Laboratory Procedures // Order (arrangement) // 
+[sentNum: 96]Persons // Testing // Receive // annual screening // Malignant Neoplasms // One // Half // Male population group // Elderly (population group) // year // Recent // Disease Screening // 
+[sentNum: 97]More // Male population group // Woman // Old // year // Report (document) // Physicians // Continuous // To // Recommendation // Disease Screening // 
+[sentNum: 98]Discussion (procedure) // 
+[sentNum: 99]Cerebral Palsy, Ataxic, Autosomal Recessive // consider // Numerical value // Healthcare decision making // 
+[sentNum: 100]Appreciation // Problems - What subject filter // Specialty Type - Intensive care // Abnormally low (qualifier value) // Numerical value // Including (qualifier) // Cost aspects // Dietary Lead // To // consider // Numerical value // health care area // 
+[sentNum: 101]Screening for cancer // Exception - Property or Attribute // 
+[sentNum: 102]Screening for cancer // Recommendation // shared attribute // Type 5 // Experimental Finding // Agreement // Acceptable // Minimum // Aspects of disease screening // strategy // Negation // Recommendation // strategy // 
+[sentNum: 103]Guideline [Publication Type] // Groups // consider // Numerical value // Term (lexical) // Able to balance // Benefits // Make - Instruction Imperative // Screening for cancer // Recommendation // 
+[sentNum: 104]Numerical value // consideration // Associated with // Largest // Agreement // Upon - dosing instruction fragment // Recommendation // Aspects of disease screening // Preposition For // Specific qualifier value // Type - attribute // Malignant Neoplasms // 
+[sentNum: 105]Discord // Area // Annual // Mammography // Screening for malignant neoplasm of breast // Possible // List // Agree // Smaller // strategy // Abnormally high // Numerical value // 
+[sentNum: 106]Consensus // Seen // Achievement // 
+[sentNum: 107]Acceptable // Abnormally high // Numerical value // Disease Screening // strategy // Present // Agreement // Recommendation // Negation // Recommendation // Abnormally low (qualifier value) // Numerical value // Disease Screening // 
+[sentNum: 108]Recommendation // trend // Disease Screening // Further // Discussion (procedure) // Disease Screening // With intensity // Numerical value // 
+[sentNum: 109]trend // Enhance (action) // Disease Screening // Numerical value // Small // Increment // Benefits // Disease Screening // Negation // justify // Increase // 
+[sentNum: 110]Organization administrative structures // Negation // Make - Instruction Imperative // Recommendation // Base - General Qualifier // Financial cost // Less Than // Abnormally high // Numerical value // Disease Screening // Less Than // expense // Disease Screening // 
+[sentNum: 111]Present // Evidence of // Abnormally low (qualifier value) // Numerical value // care activity // shared attribute // 
+[sentNum: 112]Add - instruction imperative // Abnormally high // Numerical value // care activity // Exist // Persons // Limited (extensiveness) // Health Services Accessibility // 
+[sentNum: 113]Clinician // Massive // Screening for cancer // Numerical value // Immobile // Agree // Abnormally high // Abnormally low (qualifier value) // Numerical value // strategy // Recommendation // Abnormally high // Numerical value // care activity // Advisory Committees // 
+[sentNum: 114]Further // Enhance (action) // Numerical value // Possible // Implementation // More // Screening procedure // 
+[sentNum: 115]Providing (action) // Preliminary // Evidence of // Numerical value // suggestion // Additional // strategy // Enhance (action) // Numerical value // Screening procedure // Clinician // Research Personnel // Patients // consider // 
+[sentNum: 116]Implementation // Additional // Research Activities // Screening procedure // Dietary Lead // Small // Loss // Benefits // Largest // Harm Reduction // Financial cost // 
+[sentNum: 117]Guidelines // Population Group // Research Personnel // Needs // To // Better // Clarify // Screening procedure // strategy // Representation (action) // Abnormally high // Abnormally low (qualifier value) // Numerical value // 
+[sentNum: 118]Guidelines // developers // Helping Behavior // Clinician // Numerical value // Screening procedure // strategy // Belarus // Search - action // Evidence of // Health Benefits // Financial cost // Then // 
+[sentNum: 119]Organization administrative structures // Departure - action // Negation // consider // Evidence of // Frequent // Negation // Assessed // Financial cost // 
+[sentNum: 120]To // Numerical value // Screening procedure // health care in general // Financial cost // consider // Benefits // Assessed // Numerical value // 
+[sentNum: 121]Clinician // pay // Special // Attention // Translucent // Advice // Organization administrative structures // Rigor - Temperature-associated observation // Make - Instruction Imperative // Adjudication // 
+[sentNum: 122]Research Personnel // Does play // Essential // Social Role // Enhance (action) // Numerical value // Disease Screening // strategy // 
+[sentNum: 123]Preposition For // Persons // Repeat // Negative Test Result // Research Activities // consider // Additional // Numerical value // Continuous // Disease Screening // 
+[sentNum: 124]Research Activities // consider // Benefits // Lost // Financial cost // Reduced // Disease Screening // Frequent // Use of // High // Laboratory Procedures // Threshold // Abnormality // Disease Screening // Small // High Risk Populations // 
+[sentNum: 125]Difficult // consider // Theses // Question (inquiry) // Maximum Value Derivation Technique // Cancer Detection // Priority // Question (inquiry) // Numerical value // Integer +2 // 
+[sentNum: 126]Research Activities // Has focus // Consequence of // Full // Disease Screening // Cascade Device Component // Including (qualifier) // Better // Comprehension // Malignant Neoplasms // overdiagnosis // 
+[sentNum: 127]Has focus // Approach // Clinician // utilization qualifier // To // Does communicate // Benefits // Financial cost // Disease Screening // Patients // Societies // Including (qualifier) // concept // Numerical value // 
+[sentNum: 128]consider // Screening procedure // Lens (device) // Numerical value // Changing // Discussion (procedure) // Clinician // Patients // 
+[sentNum: 129]Screening procedure // Clinician // Beginning // Conversation // Comprehension // Always (frequency) // Benefits // Financial cost // Patients // Less Than // Screening procedure // 
+[sentNum: 130]Further // consider // Patients // Importance Weight // Benefits // Dietary Lead // To // Conclude Resin // Screening for cancer // Negation // High priority // More // Problem // 
+[sentNum: 131]Conclusion // Clinician // consider // Numerical value // Screening for cancer // Patients // 
+[sentNum: 132]Implementation // High // Numerical value // strategy // Avoidance // Abnormally low (qualifier value) // Numerical value // strategy // Agree // Increase // Screening for cancer // Numerical value // 
+[sentNum: 133]Add - instruction imperative // Enhance (action) // Numerical value // Decreasing // Financial cost // Preserving // Benefits // Patients // 
+[sentNum: 134]Abnormally low (qualifier value) // Numerical value // Disease Screening // Experimental Result // strategy // Abnormally low (qualifier value) // High // With intensity // 
+[sentNum: 135]Focal // Problem // strategy // Lead // Abnormally low (qualifier value) // Numerical value // 
+[sentNum: 136]Reduced // Disease Screening // Negation // Singular // Disease Screening // Financial cost // Discharge (release) // Time // Resources // Increase // With intensity // Populations, Underserved // Further // Improving (qualifier value) // Numerical value // 

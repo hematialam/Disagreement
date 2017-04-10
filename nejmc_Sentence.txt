@@ -1,0 +1,38 @@
+[sentNum: 1]Breast-Cancer Screening &#x2014; Viewpoint of the IARC Working Group
+[sentNum: 2]To the Editor: The report from the International Agency for Research on Cancer (IARC) (June 11 issue)1 does not represent expert consensus. 
+[sentNum: 3]The authors of reports that question breast-cancer screening and were published in major medical journals were not included in the panel.
+[sentNum: 4]Reductions in breast-cancer&#x2013;related mortality among young women never exposed to screening exceed those in screened age groups.2
+[sentNum: 5]2-5 In Norway and Denmark, reductions in breast-cancer&#x2013; related mortality were similar among regions that introduced screening early and those that introduced it late.5
+[sentNum: 6]5 Improved treatment, not screening, caused most of the reductions. 
+[sentNum: 7]The IARC estimate leaves no room for a treatment effect. 
+[sentNum: 8]The effect on incidence is clearly visible in population statistics, leading to an uncompensated increase in breast-cancer incidence of 25 to 50% after 25 years with screening.6
+[sentNum: 9]6 This is overdiagnosis &#x2014; the detection of cancers that will not cause death or symptoms.
+[sentNum: 10]Although the claimed benefit of screening is thus essentially invisible in population statistics, the major harm is clearly apparent. 
+[sentNum: 11]The IARC claim that modeling and case&#x2013;control studies provide evidence of substantially reduced mortality, with little overdiagnosis, is not compatible with observed data or the results of the most reliable randomized trials.
+[sentNum: 12]To the Editor: Lauby-Secretan et al. report that there is sufficient evidence that mammographic screening in women between 70 and 74 years of age reduces breast-cancer&#x2013;related mortality. 
+[sentNum: 13]Yet only one of the nine mammographic screening trials reviewed &#x2014; the Swedish Two-County Trial &#x2014; included women who were older than 70 years of age at study entry.1
+[sentNum: 14]1 In the Swedish Two-County Trial, women were 40 to 74 years of age at entry, but a subgroup analysis failed to show a reduction in breast-cancer&#x2013;specific mortality for women in the screened group who were 70 to 74 years of age at entry.2
+[sentNum: 15]2 Moreover, mammographic screening results in a substantial rate of overdiagnosis among older women, and this overdiagnosis can lead to unnecessary treatment and an excess of treatment-related mortality.3
+[sentNum: 16]3 Given the absence of a clear benefit in reducing breast-cancer&#x2013; specific mortality, and given the potential for increasing treatment-related mortality, mammographic screening in women older than 70 years of age may result in a small increase in all-cause mortality.4
+[sentNum: 17]4 Mammographic screening should not generally be recommended for women older than 70 years of age.
+[sentNum: 18]To the Editor: The IARC Working Group has a generally positive view of mammographic screening. 
+[sentNum: 19]However, the group describes the benefits of mammographic screening in relative terms while referring to the harms in absolute terms. 
+[sentNum: 20]Perhaps the merits of the conclusions would be more apparent if all important outcomes were expressed in absolute terms. 
+[sentNum: 21]These outcomes might include breast-cancer&#x2013;related mortality, total mortality, false positive results, and overdiagnosis. 
+[sentNum: 22]A previous such estimate of the benefits of mammographic screening1 led to the conclusion that the net benefits are marginal at best.
+[sentNum: 23]The Authors Reply: The members of the IARC Working Group are selected on the basis of subject- matter expertise and absence of real or apparent conflicts of interest. 
+[sentNum: 24]We used literature searches to identify scientists who have published pertinent research related to the interventions being reviewed, including coauthors of randomized, controlled trials and experts who question the use of breast-cancer screening. 
+[sentNum: 25]Furthermore, the working group included experts on other screening techniques and on descriptive epidemiology, risk factors, and the treatment of breast cancer. 
+[sentNum: 26]Geographic diversity was also considered.
+[sentNum: 27]Randomized, controlled trials were reviewed to evaluate the efficacy, but not the effectiveness, of mammographic screening. 
+[sentNum: 28]Although evidence from randomized trials is still relevant today, it must be supplemented with the evaluation of evidence from current service screening.
+[sentNum: 29]In the evaluation of the effectiveness of mammographic screening, high-quality cohort studies were considered to provide the most informative data. 
+[sentNum: 30]The working group gave the greatest weight to studies with long follow-up periods and the most robust designs &#x2014; notably, those that accounted for lead time, minimized temporal and geographic differences between screened and unscreened participants, and controlled for individual differences that may have been related to the primary outcome. 
+[sentNum: 31]These studies account for treatment effects and overdiagnosis by design. 
+[sentNum: 32]In addition, the working group specifically evaluated the potential for overdiagnosis and concluded that there is sufficient evidence for overdiagnosis among women who are screened between 50 and 69 years of age.
+[sentNum: 33]Case&#x2013;control studies with designs that accounted for the preceding factors were also considered, and their results were largely in line with those from cohort studies. 
+[sentNum: 34]On the contrary, most ecologic studies that compared mortality between regions or time periods were judged to be uninformative, since they did not control adequately for potential confounding by secular trends or population characteristics. 
+[sentNum: 35]Modeling studies were not considered for the evaluation of effectiveness.
+[sentNum: 36]The working group used the same measures for all outcomes (including breast-cancer&#x2013;related mortality and overdiagnosis), since these measures were primarily based on the incidencebased mortality studies. 
+[sentNum: 37]After careful evaluation of the balance between the benefits and adverse effects of mammographic screening, the working group concluded that there is a net benefit from inviting women 50 to 69 years of age to receive screening. 
+[sentNum: 38]In addition, the pertinent incidence- based cohort mortality studies consistently reported a substantial reduction in the risk of death from breast cancer among women who were offered or who underwent mammographic screening between 70 and 74 years of age.

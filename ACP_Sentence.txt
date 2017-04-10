@@ -1,0 +1,136 @@
+[sentNum: 1]Screening for Cancer: Advice for High-Value Care From the American College of Physicians
+[sentNum: 2]Background: Cancer screening is one approach to reducing cancer-related morbidity and mortality rates. 
+[sentNum: 3]Screening strategies vary in intensity. 
+[sentNum: 4]Higher-intensity strategies are not necessarily higher value. 
+[sentNum: 5]High-value strategies provide a degree of benefits that clearly justifies the harms and costs incurred; low-value screening provides limited or no benefits to justify the harms and costs. 
+[sentNum: 6]When cancer screening leads to benefits, an optimal intensity of screening maximizes value. 
+[sentNum: 7]Some aspects of screening practices, especially overuse and underuse, are low value.
+[sentNum: 8]Methods: Screening strategies for asymptomatic, average-risk adults for 5 common types of cancer were evaluated by reviewing clinical guidelines and evidence syntheses from the American College of Physicians (ACP), U.S. Preventive Services Task Force, American Academy of Family Physicians, American Cancer Society, American Congress of Obstetricians and Gynecologists, American Gastroenterological Association, and American Urological Association. 
+[sentNum: 9]&#x201c;High value&#x201d; was defined as the lowest screening intensity threshold at which organizations agree about screening recommendations for each type of cancer and &#x201c;low value&#x201d; as agreement about not recommending overly intensive screening strategies. 
+[sentNum: 10]This information is supplemented with additional findings from randomized, controlled trials; modeling studies; and studies of costs or resource use, including information found in the National Cancer Institute's Physician Data Query and UpToDate.
+[sentNum: 11]Cancer is a major health problem in the United States, causing 1 in 4 deaths (1). 
+[sentNum: 12]One approach to reducing cancer morbidity and mortality rates is screening. 
+[sentNum: 13]However, even full implementation of effective screening strategies would not eliminate cancer deaths.
+[sentNum: 14]Screening strategies vary in what we call &#x201c;intensity&#x201d; (2). 
+[sentNum: 15]Higher-intensity strategies screen broader populations more frequently or with more sensitive screening tests. 
+[sentNum: 16]Screening strategies also vary in value. 
+[sentNum: 17]As defined by the American College of Physicians (ACP) (3&#x2013;5), value is determined by an intervention's health benefits versus its harms and costs. 
+[sentNum: 18]High-value strategies return large health benefits for the harms and costs incurred; low-value strategies return disproportionately small benefits for the harms and costs. 
+[sentNum: 19]Although highintensity strategies aim to maximize cancer detection, value is optimized by finding the level of intensity that best balances benefits with harms and costs (2).
+[sentNum: 20]Regardless of value, cancer screening is popular among the U.S. public and is done more frequently than in other countries (6 &#x2013; 8). 
+[sentNum: 21]Some aspects of our screening practices, especially overuse and underuse, are low value. 
+[sentNum: 22]A screening program is considered low value when persons in whom the benefits clearly outweigh the harms and costs are not being screened intensively enough (9, 10) or when persons are being screened overly intensively (11).
+[sentNum: 23]Improving cancer screening value requires overcoming 3 main challenges: increasing access to highvalue screening for populations without adequate access to care; increasing high-value screening in persons with adequate care access; and reducing use of low-value screening strategies in everyone, with or without adequate access. 
+[sentNum: 24]This article focuses on the latter 2 challenges. 
+[sentNum: 25]It is the second of 2 papers commissioned by the ACP to define and encourage high-value, cost-conscious cancer screening. 
+[sentNum: 26]We note agreement among various organizations on the lowest-intensity screening threshold recommended for &#x201c;average-risk individuals&#x201d; for each type of cancer (high value) and whether they recommend against or do not recommend for more intensive screening strategies (low value). 
+[sentNum: 27]We provide information on use of overly intensive, low-value screening and end with evidence suggesting future directions to reduce overly intensive screening that may enhance cancer screening value.
+[sentNum: 28]METHODS 
+[sentNum: 29]We focused on 5 common types of cancer: breast, cervical, colorectal, ovarian, and prostate. 
+[sentNum: 30]This article is intended to provide advice rather than to serve as a guideline. 
+[sentNum: 31]It is based on a narrative review of clinical guidelines and evidence syntheses from the American College of Physicians (ACP), U.S. Preventive Services Task Force, American Cancer Society, American Academy of Family Physicians, American Congress of Obstetricians and Gynecologists, American Urological Association, and American Gastroenterological Association. 
+[sentNum: 32]Because these organizations usually do not estimate costs in their recommendations, we searched the National Cancer Institute's Physician Data Query system, UpToDate, and modeling studies from the National Cancer Institute's Cancer Intervention and Surveillance Modeling Network for additional evidence from randomized, controlled trials (RCTs) or models of screening effectiveness, as well as national studies of the costs of various screening strategies for our target types of cancer. 
+[sentNum: 33]We searched MEDLINE for articles about the costs and resource use of cancer screening published within the past 5 years (1 January 2009 to 30 June 2014) in the following medical journals: Annals of Internal Medicine, The Journal of the American Medical Association (JAMA), JAMA Internal Medicine, Journal of General Internal Medicine, The New England Journal of Medicine, BMJ, The Lancet, Journal of the National Cancer Institute, Obstetrics &amp; Gynecology, and CA: A Cancer Journal for Clinicians. 
+[sentNum: 34]We examined reference lists of articles to find further studies.
+[sentNum: 35]For each type of cancer, we listed the least intensive screening strategies that all organizations recommend (defined as high-value care) and strategies that organizations either did not recommend or recommended against (defined as low-value care). 
+[sentNum: 36]The ACP used this information to develop high-value care advice statements. 
+[sentNum: 37]We used articles identified previously to suggest future directions that might enhance screening value by reducing overuse of overly intensive screening. 
+[sentNum: 38]Although the ACP High Value Care Task Force does not include evidence about costs in its advice statements, cost is still an important part of the &#x201c;value framework&#x201d; developed by the authors (2). 
+[sentNum: 39]We provide examples from national studies about overuse of nonrecommended strategies.
+[sentNum: 40]We focus on screening average-risk, asymptomatic adults. 
+[sentNum: 41]We do not address surveillance in patients with previous abnormal screening results or high-risk populations. 
+[sentNum: 42]Our understanding of factors, beyond patient age or a history of cancer in multiple family members or in an immediate family member at an early age, that have both clinically important effects on cancer risk and health outcomes due to screening is limited. 
+[sentNum: 43]Value may differ for persons at higher or lower risk for cancer mortality. 
+[sentNum: 44]Value may also differ based on any individual patient (and physician) weighting of population estimates of benefits, harms, and costs.
+[sentNum: 45]This article was reviewed and approved by the High Value Care Task Force, whose members are physicians trained in internal medicine and its subspecialties and experts in evidence synthesis. 
+[sentNum: 46]The Task Force developed the high-value care advice statements on the basis of a narrative review of the literature. 
+[sentNum: 47]At each conference call, all members declared all financial and nonfinancial interests. 
+[sentNum: 48]The target audience for this paper is all clinicians. 
+[sentNum: 49]The target patient population is average-risk, asymptomatic persons.
+[sentNum: 50]RESULTS
+[sentNum: 51]Breast Cancer 
+[sentNum: 52]On the basis of RCTs and corresponding modeling studies, all groups recommend mammography screening, or discussions about screening, at least every 2 years for women aged 40 to 74 years (Table 1 and Appendix Table 1, available at www.annals.org) (9, 12&#x2013;14). 
+[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. 
+[sentNum: 54]Evidence is insufficient on the benefits of clinical breast examination beyond mammography alone (15). 
+[sentNum: 55]Reasons for not recommending more intensive strategies (such as annual screening, screening younger or older age groups, screening persons of any age with a life expectancy less than 10 years, and screening with more sensitive tests) include concerns that they would lead to few benefits but large increases in harms, such as falsepositive screening test results and overdiagnosis and overtreatment of lesions that would never have progressed to cause clinical problems (16&#x2013;20). 
+[sentNum: 56]Screening costs would also greatly increase (21).
+[sentNum: 57]High-value care advice 1: Clinicians should discuss the benefits and harms of screening mammography with average-risk women aged 40 to 49 years and order biennial mammography screening if an informed woman requests it.
+[sentNum: 58]High-value care advice 2: Clinicians should encourage biennial mammography screening in average-risk women aged 50 to 74 years.
+[sentNum: 59]High-value care advice 3: Clinicians should not screen average-risk women younger than 40 years or aged 75 years or older for breast cancer or screen women of any age with a life expectancy less than 10 years.
+[sentNum: 60]High-value care advice 4: Clinicians should not screen average-risk women of any age for breast cancer with MRI or tomosynthesis.
+[sentNum: 61]Table 1. 
+[sentNum: 62]High- and Low-Value Screening Strategies for 5 Types of Cancer*
+[sentNum: 63]Least Intensive Recommended Cancer Screening Strategies (High Value)	Cancer Screening Strategies That Are Not Recommended (Low Value)
+[sentNum: 64]Women aged 40&#x2013;49 y: Discuss benefits and harms with women in good health, and order screening with mammography every 2 y if a woman requests it. 
+[sentNum: 65]Women aged 50&#x2013;74 y in good health: Encourage mammography every 2 y.	
+[sentNum: 66]Women aged &lt;40 y or ?75
+[sentNum: 67]75 y and women of any age not in good health and with a life expectancy &lt;10 y: Any screening. 
+[sentNum: 68]Women of any age: Annual mammography, MRI, tomosynthesis, or regular systematic breast self-examination
+[sentNum: 69]FUTURE DIRECTIONS: ENHANCING CANCER SCREENING VALUE BY REDUCING OVERLY INTENSIVE SCREENING
+[sentNum: 70]An important step to improving cancer screening value is to increase implementation of underused strategies in which benefits clearly justify harms and costs. 
+[sentNum: 71]This is an important problem, especially in populations with inadequate access to care. 
+[sentNum: 72]We list 6 key principles that could enhance future cancer screening value by reducing overly intensive screening (Table 2). 
+[sentNum: 73]In Appendix Table 2 (available at www.annals.org), we provide the types of additional evidence needed before widespread implementation, as well as selected preliminary evidence that supports these principles. 
+[sentNum: 74]The results of the presented studies should stimulate consideration for future research and implementation of strategies to enhance screening value by reducing overly intensive screening. 
+[sentNum: 75]The identified studies are not based on a systematic search and are not definitive. 
+[sentNum: 76]Findings are primarily based on single studies or modeling or cost analyses requiring several assumptions. 
+[sentNum: 77]Other suggestive evidence comes from subgroup results from randomized trials. 
+[sentNum: 78]Further research confirming these findings is needed before widespread implementation, but they may hold promise for future, higher-value strategies that involve less-intensive screening. 
+[sentNum: 79]Few studies considered by guideline developers or in our additional searches examined harms and costs to the same degree that they examined benefits. 
+[sentNum: 80]Thus, few studies and corresponding guideline developers could directly assess the value of the screening strategy they were investigating.
+[sentNum: 81]HOW COMMON IS OVERLY INTENSIVE, LOW-VALUE SCREENING?
+[sentNum: 82]Overly intensive, low-value screening is common. 
+[sentNum: 83]For example, 20% of women aged 30 to 39 years received a physician recommendation for mammography, and 23% to 35% in this age group had mammography (40). 
+[sentNum: 84]Most women having mammography receive it annually. 
+[sentNum: 85]One third of surveyed primary care physicians screen with ultrasonography and MRI, in addition to mammography, in women who are not at increased risk for breast cancer. 
+[sentNum: 86]Claims data demonstrate high use of screening MRI in women who are not at increased risk (41). 
+[sentNum: 87]Among women aged 80 years or older, cervical and breast cancer screening occurs in 38% and 50%, respectively (19). 
+[sentNum: 88]Cervical cancer screening is commonly done earlier and more frequently than recommended (42). 
+[sentNum: 89]Nearly 70% of women without a cervix received a Pap test for cervical cancer screening in 2002 (43). 
+[sentNum: 90]An estimated 1.2 million U.S. women have ovarian cancer screening (44). 
+[sentNum: 91]More than 40% of responding internists and nearly all gynecologists report performing annual pelvic examinations for ovarian or other gynecologic cancer screening (45).
+[sentNum: 92]Inappropriate colorectal cancer screening is also common. 
+[sentNum: 93]Sixty percent of adults had colonoscopies more frequently than guidelines recommend, and screening often occurs in adults with life expectancies of 5 years or less (46&#x2013; 48). 
+[sentNum: 94]Among persons having an FOBT screening test, 8% had a negative result less than 1 year before (49). 
+[sentNum: 95]One third of men having PSA testing do not recall being told that the test was ordered (50). 
+[sentNum: 96]Most persons having PSA testing received annual cancer screening, and one half of men aged 75 to 79 years had recent screening. 
+[sentNum: 97]More than 50% of men and women older than 75 years report that their physicians continue to recommend screening (51).
+[sentNum: 98]Discussion
+[sentNum: 99]The ACP strongly encourages considering value in making health care decisions (4). 
+[sentNum: 100]Our growing appreciation of the problems of overly intensive, low-value care, including unjustifiable harms and costs, should lead us to consider value in many areas of health care. 
+[sentNum: 101]Cancer screening is no exception.
+[sentNum: 102]We summarized cancer screening recommendations for 5 common types of cancer, finding much agreement about acceptable minimal screening strategies and not recommending overly intensive strategies. 
+[sentNum: 103]Guideline groups are increasingly considering value in terms of balancing benefits and harms in making cancer screening recommendations. 
+[sentNum: 104]This value consideration is associated with greater agreement on recommendations for screening for specific types of cancer. 
+[sentNum: 105]Although disagreement remains in some areas, such as annual (9) versus biennial (14) mammography screening for breast cancer, it is possible to develop a list of generally agreed-on, less intensive strategies that we define as high value. 
+[sentNum: 106]This consensus should be seen as a remarkable achievement.
+[sentNum: 107]In addition to generally acceptable, high-value screening strategies, we found much agreement about recommending against or not recommending overly intensive, low-value screening. 
+[sentNum: 108]Recommendations have trended toward less-intensive screening and may foreshadow further discussion about screening intensity and value. 
+[sentNum: 109]We believe that this trend enhances screening value, chiefly by forgoing the small incremental benefits of more intensive screening as not being justified by the increase in harms. 
+[sentNum: 110]Although these organizations do not make recommendations based on financial costs, less-intensive, high-value screening is less expensive than overly intensive screening. 
+[sentNum: 111]We also found evidence that overly intensive and thus low-value care is common. 
+[sentNum: 112]In addition, underutilization of high-value care exists, especially among persons with limited health care access. 
+[sentNum: 113]Thus, clinicians can markedly improve cancer screening value by adhering to the widely agreed-on, high- and low-value strategies recommended by the High Value Care Task Force.
+[sentNum: 114]Further enhancing value may be possible through implementation of less rather than more intensive screening. 
+[sentNum: 115]We provided preliminary evidence and a value framework suggesting additional strategies that could enhance value through less intensive screening for clinicians, researchers, policymakers, and patients to consider. 
+[sentNum: 116]However, implementation will require additional research consistently demonstrating that lessintensive screening leads to little loss in benefits and larger reductions in harms and costs. 
+[sentNum: 117]Guideline groups and researchers need to better clarify which screening strategies represent high or low value. 
+[sentNum: 118]Guideline developers can help clinicians determine the value of screening strategies by searching for evidence about health benefits, harms, and costs and then carefully analyzing tradeoffs. 
+[sentNum: 119]For some organizations, this would be a departure because they may not adequately consider evidence about harms and often do not assess costs. 
+[sentNum: 120]To improve the value of screening (and health care in general), harms and costs should be considered equally with benefits to explicitly assess value. 
+[sentNum: 121]Clinicians should pay special attention to transparent recommendations from organizations that are rigorous in making these determinations.
+[sentNum: 122]Researchers play an essential role in determining and enhancing the value of screening strategies. 
+[sentNum: 123]For persons with repeated negative test results, research should consider the additional value of continued screening. 
+[sentNum: 124]Research should also consider how much benefit would be lost and how much harms and costs would be reduced by screening less frequently; using a higher test threshold to define abnormality; or screening a smaller, higher-risk population. 
+[sentNum: 125]It would be difficult to consider these questions under a &#x201c;maximum cancer detection&#x201d; framework, but they become priority questions under a value framework (2). 
+[sentNum: 126]Research must focus on the consequences of the full screening cascade, including a better understanding of what constitutes &#x201c;overdiagnosed cancer&#x201d; and how to reduce overdiagnosis and overtreatment (52). 
+[sentNum: 127]It should also focus on approaches clinicians can use to communicate the benefits, harms, and costs of screening to their patients and society, including ways of incorporating the concept of value.
+[sentNum: 128]Considering screening through the lens of value could change discussions between clinicians and patients. 
+[sentNum: 129]Rather than assuming that all screening is highvalue, clinicians might start a conversation with the understanding that it always involves tradeoffs between benefits versus harms and costs and that some patients may reasonably decide that they would prefer less intensive screening. 
+[sentNum: 130]Further, considering the patient's situation and own weighting of benefits and harms may lead him or her to conclude that cancer screening is not the highest priority and that there may be other more pressing issues to discuss.
+[sentNum: 131]In conclusion, we advise clinicians to consider value when discussing cancer screening with their patients. 
+[sentNum: 132]Implementation of high-value strategies and avoidance of the overly intensive, low-value strategies that we outlined as widely agreed-on would increase cancer screening value. 
+[sentNum: 133]In addition, an emphasis on enhancing value by decreasing harms and costs while preserving most benefits may resonate with many patients. 
+[sentNum: 134]Low-value screening can result from strategies that are either too low or too high in intensity. 
+[sentNum: 135]We have focused on the problem of overly intensive strategies that lead to low value. 
+[sentNum: 136]Reducing overly intensive, lowvalue screening would not only reduce screening harms and costs but also release time and resources to increase intensity among underserved groups, thus further improving value.

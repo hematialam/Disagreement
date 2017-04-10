@@ -1,0 +1,157 @@
+[sentNum: 1]Summary (document) // Recommendation // Clinical Services // Prophylactic behavior // 
+[sentNum: 2]
+[sentNum: 3]policy statement // Policy // Numbers // Clinical Services // Preventive intent // Act Code - General // Specific qualifier value // geographic population // 
+[sentNum: 4]Recommendation // Providing (action) // Singular // Helping Behavior // Physicians // Make - Instruction Imperative // Clinical // Decision // patient care // 
+[sentNum: 5]Persons // Judgment // Brought on by // Clinical // Physician-Patient Relations // Family // 
+[sentNum: 6]Clinical // Reference Object // Resources // Reflecting // best (quality) // Comprehension // Medicine // At // Time // Publications // Used by // Clear // Comprehension // Continuous // Research Activities // Experimental Result // New // Knowledge // Recommendation // 
+[sentNum: 7]American // Academies // Physicians, Family // 
+[sentNum: 8]Creek race // Kilosecond // 
+[sentNum: 9]HTTP // Internet // Professional Organization or Group // 
+[sentNum: 10]
+[sentNum: 11]Introduction to Summary // Recommendation // Clinical Services // Prophylactic behavior // 
+[sentNum: 12]Recommendation // Clinical Summary // Preventive service healthcare // Documents // Periodic // Update // Work // Public health service // Science // Approved // Boards (medical device) // 
+[sentNum: 13]Beginning // Point Name // Recommendation // Rigor - Temperature-associated observation // Analysis // Science // Knowledge // Availability of // Presentation // United States // Preventive service healthcare // Advisory Committees // 
+[sentNum: 14]HTTP // Internet // Professional Organization or Group // 
+[sentNum: 15]United States // Preventive service healthcare // Advisory Committees // Behavior // Scientific Evaluation // Evidence of // Preposition For // Effectiveness // Widening // Range // Clinical Services // Preventive intent // Including (qualifier) // Aspects of disease screening // Encounter due to counseling // Preventive intent // Medications:-:Point in time:^Patient:- // 
+[sentNum: 16]CHP1 gene // Review [Publication Type] // Recommendation // Release - action (qualifier value) // Make - Instruction Imperative // Advice // Board (committee) // 
+[sentNum: 17]Case unit dose // Agree // Delta (difference) // 
+[sentNum: 18]Changing // Histopathologic Grade // Evidence of // New // Recommendation // Problem // HTTP // Internet // Professional Organization or Group // Grade // 
+[sentNum: 19]Changing // Histopathologic Grade // Evidence of // More // Consistent with // 
+[sentNum: 20]are unit of measure // Transition Mutation // per period (qualifier value) // Menopause // Use of // Two // Tumor Grading System // Recommendation // 
+[sentNum: 21]First (number) // Tumor Grading System // Apply (instruction) // Advice // Occur (action) // seconds // Tumor Grading System // Apply (instruction) // Advice // Occur (action) // 
+[sentNum: 22]Tumor Grading System // 
+[sentNum: 23]Tumor Grading System // Recommendation // Occur (action) // Including (qualifier) // 
+[sentNum: 24]Recommendation // Recommendation // Software Service // 
+[sentNum: 25]Abnormally high // Certain (qualifier value) // Reticular // Benefits // 
+[sentNum: 26]Per Billion // Recommendation // Recommendation // Software Service // 
+[sentNum: 27]Abnormally high // Certain (qualifier value) // Reticular // Benefits // Moderation // Moderation // Certain (qualifier value) // Reticular // Benefits // Moderation // 
+[sentNum: 28]Recommendation // Recommendation // Providing (action) // Services // 
+[sentNum: 29]consideration // Supportive assistance // Providing (action) // Services // Persons // Patients // 
+[sentNum: 30]Moderate (severity modifier) // Certain (qualifier value) // Reticular // Benefits // Small // 
+[sentNum: 31]Blood group antigen D // Recommendation // Recommendation // Services // 
+[sentNum: 32]Moderate (severity modifier) // Abnormally high // Certain (qualifier value) // Services // Reticular // Benefits // Benefits // 
+[sentNum: 33]Iodides // Recommendation // Conclude Resin // Current (present time) // Evidence of // Insufficient (qualifier) // Assessed // Balanced - adjective // Benefits // Services // 
+[sentNum: 34]Evidence of // Lacking // Poor - qualifier // Quality // Conflict (Psychology) // Balanced - adjective // Benefits // 
+[sentNum: 35]Iodides // Hemoglobin // Health behavior outcomes // Identified // Effectiveness // Physicians // Advice // Encounter due to counseling // Uncertainty // 
+[sentNum: 36]Tumor Grading System // Recommendation // Including (qualifier) // 
+[sentNum: 37]Recommendation // Good // Quality // Evidence of // Exist // Demonstrates // Reticular // Benefits // Intervention regimes // Perception // To // Cost Effectiveness // Acceptable // Patients // 
+[sentNum: 38]Rabbi // Recommendation // Evidence of // Exist // Demonstrates // Reticular // Benefits // Benefits // Singular // Moderation // Degree or extent // Evidence of // Supportive assistance // Benefits // Singular // Fair (qualifier) // 
+[sentNum: 39]Intervention regimes // Perception // To // Cost Effectiveness // Acceptable // Patients // 
+[sentNum: 40]Nauru // No - yes/no indicator // Recommendation // Good // Fair (qualifier) // Evidence of // Exist // Less Than // Small // Reticular // Benefits // 
+[sentNum: 41]Cost Effectiveness // Negation // Known // Patients // Divide // acceptability // Intervention regimes // 
+[sentNum: 42]Axial R // Recommendation // Good // Fair (qualifier) // Evidence of // Demonstrates // No - yes/no indicator // Reticular // Benefits // 
+[sentNum: 43]Iodides // Insufficient (qualifier) // Evidence of // Recommendation // No evidence of // Fair (qualifier) // Quality // Exist // Evidence of // Conflict (Psychology) // 
+[sentNum: 44]Iodides // Hemoglobin // Health behavior outcomes // Identified // Effectiveness // Physicians // Advice // Encounter due to counseling // Uncertainty // 
+[sentNum: 45]Appropriate // Specific qualifier value // Web Site // Uniform Resource Locator // Providing (action) // Hyperlink // Direct (qualifier) // Clinical // consideration // section sample // United States // Preventive service healthcare // 
+[sentNum: 46]Advisory Committees // 
+[sentNum: 47]Clinical // consideration // section sample // Providing (action) // Additional information // Patient need for (contextual qualifier) // To // Interprets // Recommendation // 
+[sentNum: 48]Physicians // To // Act Class - review // Negation // Singular // Patient need for (contextual qualifier) // Persons // Vision // geographic population // Community // To // Specific qualifier value // geographic population // Recommendation // Patient need for (contextual qualifier) // To // Practice Experience // 
+[sentNum: 49]Recommendation // Contain (action) // Documents // are unit of measure // Screening procedure // Chemoprevention // Encounter due to counseling // Singular // 
+[sentNum: 50]Negation // Apply (instruction) // Patients // Physical findings // Symptoms // Relate - vinyl resin // Logical Condition // 
+[sentNum: 51]Recommendation // Providing (action) // Singular // Helping Behavior // Physicians // Make - Instruction Imperative // Clinical // Decision // patient care // 
+[sentNum: 52]Persons // Judgment // Brought on by // Clinical // Physician-Patient Relations // Family // 
+[sentNum: 53]Clinical // Reference Object // Resources // Reflecting // best (quality) // Comprehension // Medicine // At // Time // Publications // Used by // Clear // Comprehension // Continuous // Research Activities // Experimental Result // New // Knowledge // Recommendation // 
+[sentNum: 54]Recommendation // Singular // One // Elements // Complex // Processed // Improving (qualifier value) // Health // Americas // 
+[sentNum: 55]To // Effectiveness // Recommendation // 
+[sentNum: 56]Recommendation // Genetic // Genomics // Tests (qualifier value) // 
+[sentNum: 57]Recommendation // Genetic // Genomics // Tests (qualifier value) // Providing (action) // To // Helping Behavior // member // Transfer practice // Evidence of // Basis - conceptual entity // Patients // 
+[sentNum: 58]Recommendation // Update // Periodic // Work // public health medicine (field) // Science // Approved // Boards (medical device) // 
+[sentNum: 59]Beginning // point - UnitsOfMeasure // Recommendation // Rigor - Temperature-associated observation // Analysis // Science // Result // Availability of // Presentation // Genomics // Practice Experience // prevention evaluation // Working Group // 
+[sentNum: 60]HTTP // Internet // Professional Organization or Group // 
+[sentNum: 61]public health medicine (field) // Science // Review [Publication Type] // Recommendation // Released (action) // Genomics // Practice Experience // prevention evaluation // Working Group // Make - Instruction Imperative // Advice // Boards (medical device) // 
+[sentNum: 62]Agree // Genomics // Practice Experience // prevention evaluation // Working Group // Recommendation // Possibly Related to Intervention // Different // Recommendation // 
+[sentNum: 63]utilization qualifier // Languages // Consistent with // Languages // Present // Recommendation // Genomics // Practice Experience // prevention evaluation // Working Group // 
+[sentNum: 64]Languages // Followed by // 
+[sentNum: 65]Recommendation // Recommendation // Tests (qualifier value) // 
+[sentNum: 66]Evidence of // Supportive assistance // Degree or extent // Effect // Tests (qualifier value) // Moderate (severity modifier) // Small // Arabic numeral 0 // Benefits // 
+[sentNum: 67]Recommendation // Recommendation // Tests (qualifier value) // 
+[sentNum: 68]Evidence of // Supportive assistance // Degree or extent // Effect // Tests (qualifier value) // Arabic numeral 0 // Reticular // 
+[sentNum: 69]Insufficient (qualifier) // Conclude Resin // Current (present time) // Evidence of // Insufficient (qualifier) // Assessed // Equilibrium // Benefits // Tests (qualifier value) // 
+[sentNum: 70]Appropriate // Specific qualifier value // Web Site // Uniform Resource Locator // Providing (action) // Links List // Direct (qualifier) // clinical genomics // consideration // Assessment section // Prophylactic treatment // Work // Group Practice // 
+[sentNum: 71]section sample // Providing (action) // Additional information // Interprets // Recommendation // 
+[sentNum: 72]Recommendation // Providing (action) // Singular // Helping Behavior // Physicians // Make - Instruction Imperative // Clinical // Decision // patient care // 
+[sentNum: 73]Persons // Judgment // Brought on by // Clinical // Physician-Patient Relations // Family // 
+[sentNum: 74]Clinical // Reference Object // Resources // Reflecting // best (quality) // Comprehension // Medicine // At // Time // Scientific Publication // Used by // Clear // Comprehension // Continuous // Research Activities // Result // New // Knowledge // Recommendation // 
+[sentNum: 75]Recommendation // Singular // One // Elements // Complex // Processed // Improving (qualifier value) // Health // Americas // 
+[sentNum: 76]To // Effectiveness // Recommendation // 
+[sentNum: 77]Malignant neoplasm of breast // Mammography // 
+[sentNum: 78]Malignant neoplasm of breast // Mammography // Age // 
+[sentNum: 79]Decision // Beginning // Screening mammography // Woman // Age-Years // Individual // One // 
+[sentNum: 80]Woman // Place - dosing instruction imperative // Abnormally high // Numerical value // Potential // Benefits // Potential // Choose (action) // To // Beginning // Aspects of disease screening // Age // /40 // year // 
+[sentNum: 81]
+[sentNum: 82]Woman // are unit of measure // Average // Risk // Malignant neoplasm of breast // Most // Benefits // Mammography // Growth Inhibition Screening Result // During // Age-Years // 
+[sentNum: 83]Within // Human Age Group // Woman // Age // Arabic numeral 69 // year // most likely // Screening for malignant neoplasm of breast // Cessation of life // Mammography // 
+[sentNum: 84]Screening mammography // Woman // Age // /40 // year // Risk // Malignant neoplasm of breast // Cessation of life // Numbers // Cessation of life // Smaller // Old // Woman // Numbers // False Positive // Biopsy // Greater // 
+[sentNum: 85]Balanced - adjective // Benefits // Probably // Woman // Moved to // Early // Late // /40 // 
+[sentNum: 86]False Positive // Biopsy // Woman // Regular // Screening mammography // At risk // Diagnosis Study // Therapeutic procedure // Non-invasive // Invasive Breast Carcinoma // Negation // threat // Health // apparent // Known // Over (spatial) // Diagnosis Study // 
+[sentNum: 87]Beginning // Screening mammography // Young // Age // Aspects of disease screening // Frequent // Increase // Risk // Diagnosis Study // Following // 
+[sentNum: 88]Child // Malignant neoplasm of breast // are unit of measure // High risk of // Malignant neoplasm of breast // Benefits // More // Average // Risk // Woman // From // Beginning // Aspects of disease screening // /40 // Woman // parent // Sibling - RoleCode // 
+[sentNum: 89]Grade // Recommendation // 
+[sentNum: 90]Grade // Definition // HTTP // Internet // Professional Organization or Group // Page (document) // Person Name // Grade // Definition // 
+[sentNum: 91]Clinical // consideration // HTTP // Internet // Professional Organization or Group // Page (document) // Malignant neoplasm of breast // 
+[sentNum: 92]Malignant neoplasm of breast // Mammography // Woman // 
+[sentNum: 93]Recommendation // Screening mammography // Woman // Age // year // 
+[sentNum: 94]
+[sentNum: 95]Grade // Per Billion // Recommendation // 
+[sentNum: 96]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Page (document) // Person Name // Grade // definition - ActMoodCompletionTrack // 
+[sentNum: 97]Clinical // consideration // 
+[sentNum: 98]Malignant neoplasm of breast // Mammography // Woman // year // Old // 
+[sentNum: 99]Conclude Resin // Current (present time) // Evidence of // Insufficient (qualifier) // Assessed // Balanced - adjective // Benefits // Screening mammography // Woman // Old age // year // Old // 
+[sentNum: 100]
+[sentNum: 101]Grade // Iodides // Statement // 
+[sentNum: 102]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Page (document) // Person Name // Grade // definition - ActMoodCompletionTrack // 
+[sentNum: 103]Clinical // consideration // 
+[sentNum: 104]Malignant neoplasm of breast // Self // Breast Self-Examination // 
+[sentNum: 105]Physicians, Family // Woman // Potential // Benefits // Malignant neoplasm of breast // Screening Tests // Planned // Screening for malignant neoplasm of breast // Potential // 
+[sentNum: 106]Discussion (procedure) // Including (qualifier) // Evidence of // Screening Tests // Risk // Malignant neoplasm of breast // Persons // Patient Preference // 
+[sentNum: 107]Recommendation // Base - General Qualifier // Current (present time) // best (quality) // Evidence of // United States // Preventive service healthcare // Advisory Committees // Helping Behavior // To // Professional guide // Physicians // Patients // 
+[sentNum: 108]Recommendation // intended - ParticipationSignature // To // Apply (instruction) // Woman // Negation // Increase // Risk // Malignant neoplasm of breast // Singular // Apply (instruction) // Routine // Screening procedure // 
+[sentNum: 109]Recommendation // Clinician // Visit User Code - Teaching // Woman // Breast Self-Examination // 
+[sentNum: 110]
+[sentNum: 111]Grade // Blood group antigen D // Recommendation // 
+[sentNum: 112]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Grade // Post // 
+[sentNum: 113]Clinical // consideration // 
+[sentNum: 114]Malignant neoplasm of breast // Physical Examination // Clinical Breast Examination // 
+[sentNum: 115]Physicians, Family // Woman // Potential // Benefits // Malignant neoplasm of breast // Screening Tests // Planned // Screening for malignant neoplasm of breast // Potential // 
+[sentNum: 116]Discussion (procedure) // Include (action) // Evidence of // Screening Tests // Risk // Malignant neoplasm of breast // Persons // Patient Preference // 
+[sentNum: 117]Recommendation // Base - General Qualifier // Current (present time) // best (quality) // Evidence of // United States // Preventive service healthcare // Advisory Committees // Helping Behavior // To // Professional guide // Physicians // Patients // 
+[sentNum: 118]Recommendation // intended - ParticipationSignature // To // Apply (instruction) // Woman // Negation // Increase // Risk // Malignant neoplasm of breast // Singular // Apply (instruction) // Routine // Screening procedure // 
+[sentNum: 119]Conclude Resin // Current (present time) // Evidence of // Insufficient (qualifier) // Assessed // Benefits // Clinical Breast Examination // Woman // Old age // /40 // year // Old // 
+[sentNum: 120]
+[sentNum: 121]Grade // Iodides // Recommendation // 
+[sentNum: 122]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Grade // Post // 
+[sentNum: 123]Clinical // consideration // 
+[sentNum: 124]Malignant neoplasm of breast // Digital breast tomosynthesis // Woman // 
+[sentNum: 125]Conclude Resin // Current (present time) // Evidence of // Insufficient (qualifier) // Assessed // Benefits // Digital breast tomosynthesis // Primary operation // Screening for malignant neoplasm of breast // Test Method // 
+[sentNum: 126]
+[sentNum: 127]Grade // Iodides // Statement // 
+[sentNum: 128]Grade // Definition // HTTP // Internet // Professional Organization or Group // Page (document) // Person Name // Grade // Definition // 
+[sentNum: 129]Clinical // consideration // HTTP // Internet // Professional Organization or Group // Page (document) // Malignant neoplasm of breast // 
+[sentNum: 130]Malignant neoplasm of breast // Aspects of disease screening // Woman // Dense breasts NOS // 
+[sentNum: 131]Conclude Resin // Current (present time) // Evidence of // Insufficient (qualifier) // Assessed // Balanced - adjective // Benefits // Adjunctive Orthodontic Procedure // Aspects of disease screening // Malignant neoplasm of breast // Use of // Ultrasonography, Mammary // Magnetic Resonance Imaging // DBT gene // Other // Methods // Woman // Identified // To // Dense // Views screening:Find:Pt:Breast:Doc:Mam // Negative // 
+[sentNum: 132]
+[sentNum: 133]Grade // Iodides // Statement // 
+[sentNum: 134]Grade // Definition // HTTP // Internet // Professional Organization or Group // Page (document) // Person Name // Grade // Definition // 
+[sentNum: 135]Clinical // consideration // HTTP // Internet // Professional Organization or Group // Page (document) // Malignant neoplasm of breast // 
+[sentNum: 136]Malignant neoplasm of breast // Prevention Study // Pharmaceutical Preparations // 
+[sentNum: 137]Recommendation // Clinician // Decision Making, Shared // Informed // Woman // are unit of measure // Increase // Risk // Preposition For // Malignant neoplasm of breast // Medications:-:Point in time:^Patient:- // Risk // 
+[sentNum: 138]Woman // are unit of measure // Increase // Risk // Malignant neoplasm of breast // And // Low Risk // Adverse effects // Pharmaceutical Preparations // Clinician // To // Reduced // Medication risk // Tamoxifen // Raloxifene // 
+[sentNum: 139]
+[sentNum: 140]Grade // Per Billion // Recommendation // 
+[sentNum: 141]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Grade // 
+[sentNum: 142]Clinical // consideration // HTTP // Internet // Professional Organization or Group // consider // 
+[sentNum: 143]Recommendation // Routine // Use of // Medications:-:Point in time:^Patient:- // Tamoxifen // Raloxifene // Preposition For // Risk Reduction // Primary operation // Malignant neoplasm of breast // Woman // Not Obtained // Risk // Malignant neoplasm of breast // 
+[sentNum: 144]
+[sentNum: 145]Grade // Blood group antigen D // Recommendation // 
+[sentNum: 146]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Grade // 
+[sentNum: 147]Clinical // consideration // HTTP // Internet // Professional Organization or Group // consider // 
+[sentNum: 148]Malignant neoplasm of breast // Mutation // Testing // 
+[sentNum: 149]Recommendation // Primary Care Provider - Provider role // Screening procedure // Woman // Family member // Entire breast // Ovaro- // biomedical tube device // Peritoneum // One // Screening for cancer // Scientific Equipment // Design // To // Family History Domain // Associated with // Increase // Risk // Mutation // Entire breast // Cancer-Predisposing Gene // BRCA2 gene // 
+[sentNum: 150]Woman // Positive Finding // Growth Inhibition Screening Result // Receive // Genetic Counseling // Indicated // Counseling // Testing // 
+[sentNum: 151]Grade // Per Billion // Recommendation // 
+[sentNum: 152]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Grade // 
+[sentNum: 153]Clinical // consideration // HTTP // Internet // Professional Organization or Group // consider // 
+[sentNum: 154]Recommendation // Routine // Genetic Counseling // Testing // Woman // Family History Domain // Negation // Associated with // Increase // Risk // Preposition For // BRCA1 Gene Mutation // BRCA2 gene // 
+[sentNum: 155]Grade // Blood group antigen D // Recommendation // 
+[sentNum: 156]Grade // definition - ActMoodCompletionTrack // HTTP // Internet // Professional Organization or Group // Grade // 
+[sentNum: 157]Clinical // consideration // HTTP // Internet // Professional Organization or Group // consider // 

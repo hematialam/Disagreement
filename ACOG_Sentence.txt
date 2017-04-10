@@ -1,0 +1,577 @@
+[sentNum: 1]the american college of obstetricians and gynecologists 
+[sentNum: 2]women&#x2019;s health care physicians 
+[sentNum: 3]PRACTICE BULLETIN 
+[sentNum: 4]Number 122, August 2011 Replaces Practice Bulletin Number 42, April 2003 
+[sentNum: 5]Breast Cancer Screening 
+[sentNum: 6]Breast cancer is the most commonly diagnosed noncutaneous cancer in women in the United States, and the second leading cause of death from cancer in American women&#x2014;second only to lung cancer (1). 
+[sentNum: 7]Breast cancer mortality can be effectively reduced through screening. 
+[sentNum: 8]The purpose of this Practice Bulletin is to review breast cancer screening guidelines and the evidence used to support the recommendations and highlight new screening modalities and con­
+[sentNum: 9]troversies surrounding screening. 
+[sentNum: 10]Background 
+[sentNum: 11]Incidence 
+[sentNum: 12]Breast cancer accounts for 27% of all new cases of can­cerdiagnosedin women(2).A
+[sentNum: 13]A woman&#x2019;slifetime risk of developing breast cancer is 12.08%, or 1in 8(Table 1)	 (2, 3). 
+[sentNum: 14]In 2010, approximately 207,090 new cases of invasive breast cancer were diagnosed, and 39,840 deaths were attributable to breast cancer (2). 
+[sentNum: 15]In addition, 54,010 new cases of in situ breast cancer were reported in 2010 (3). 
+[sentNum: 16]There was a 2% per year decrease in the incidence of breast cancer between 1999 and 2006, pos­sibly reflecting decreased use of menopausal hormone therapy and decreased use of screening mammography (3&#x2013;5). 
+[sentNum: 17]Breast cancer-related mortality has been decreas­ing steadily since 1990, reflecting both earlier detection of breast cancer and improved treatment (3). 
+[sentNum: 18]Components of Breast Cancer Screening and Current Guidelines 
+[sentNum: 19]Breast cancer screening has traditionally included three elements: 1) breast imaging (primarily mammography), 2) clinical breast examination, and 3) patient self-screen-
+[sentNum: 20]Table 1. 
+[sentNum: 21]Age-Specific Probabilities of Developing Invasive Female Breast Cancer* 
+[sentNum: 22]The Probability of 
+[sentNum: 23]Developing Breast Cancer 
+[sentNum: 24]If Current Age Is&#x2026;  in the Next 10 Years&#x2020;  Or 1 in: 
+[sentNum: 25]20	  0.06%	  1,760 
+[sentNum: 26]30	  0.44%	  229 
+[sentNum: 27]40	  1.44%	  69 
+[sentNum: 28]50	  2.39%	  42 
+[sentNum: 29]60	  3.40%	  29 
+[sentNum: 30]70	  3.73%	  27 
+[sentNum: 31]Lifetime risk	  12.08%	  8 
+[sentNum: 32]*Among those free of cancer at the beginning of the age interval. 
+[sentNum: 33]Based on cases diagnosed 2004&#x2013;2006. 
+[sentNum: 34]Percentages and &#x201c;1 in&#x201d; numbers may not be numerically equivalent because of rounding. 
+[sentNum: 35]&#x2020;Probability derived using NCI DevCan Software, Version 6.4.0. 
+[sentNum: 36]Reprinted with permission from American Cancer Society. 
+[sentNum: 37]Breast Cancer Facts&amp; Figures 2009&#x2013;2010. 
+[sentNum: 38]Atlanta: American Cancer Society, Inc. 
+[sentNum: 39]ing (breast self-examination or breast self-awareness). 
+[sentNum: 40]The relative value of each element and appropriate age of initiation, cessation, and frequency of screening remain 
+[sentNum: 41]Committee on Practice Bulletins&#x2014;Gynecology. 
+[sentNum: 42]This Practice Bulletin was developed by the Committee on Practice Bulletins&#x2014;Gynecology with the assistance of Jennifer Griffin, MD, Mary Gemignani, MD, and Mark Pearlman, MD. 
+[sentNum: 43]The information is designed to aid practitioners in making decisions about appropriate obstetric and gynecologic care. 
+[sentNum: 44]These guidelines should not be construed as dictating an exclusive course of treatment or procedure. 
+[sentNum: 45]Variations in practice may be warranted based on the needs of the individual patient, resources, and limitations unique to the institution or type of practice. 
+[sentNum: 46]controversial. 
+[sentNum: 47]Table 2 outlines the current screening guidelines of several major medical organizations. 
+[sentNum: 48]The American College of Obstetricians and Gynecologists (the College) continues to endorse inclusion of all three strategies in breast cancer screening. 
+[sentNum: 49]Screening Mammography 
+[sentNum: 50]Rationale for Mammographic Screening 
+[sentNum: 51]Tumors detected at an early stage that are small and confined to the breast are more likely to be successfully treated, with a 98% 5-year survival for localized disease (3). 
+[sentNum: 52]After 18 years of follow-up, one initial study found that 89% of tumors measuring1 cm or less were cured by primary surgery (mastectomy and axillary dissec­tion) (6). 
+[sentNum: 53]Other studies have confirmed these results, with 90% of patients experiencing 10-year (or longer) disease-free survival periods after tumors measuring 1cm or less were detected by mammography, indicating the likelihood that the tumors had not yet metastasized before they were diagnosed and treated (7&#x2013;11). 
+[sentNum: 54]By mathematical estimation, a typical ductal adeno­carcinoma with a constant mean doubling time of 100 days would have been present for more than 11 years before it grew to a generally palpable size of 2 cm (12&#x2013;14). 
+[sentNum: 55]Mammography screening could potentially identify a nonpalpable mass measuring approximately 1mm to1cm during its preclinical phase,3years before it becomes palpable (12&#x2013;15). 
+[sentNum: 56]This concept is commonly referred to as sojourn time, which is the time interval when cancer may be detected by screening before it becomes symptomatic. 
+[sentNum: 57]The sojourn time of an individual type of cancer varies, with more biologically aggressive tumors typically having shorter sojourn times. 
+[sentNum: 58]The great­est predictor of sojourn time in breast cancer appears to be age. 
+[sentNum: 59]Estimates of mean sojourn time for breast cancer in women increase with age: for ages40&#x2013;49 years, mean sojourn timeis2&#x2013;2.4 years;50&#x2013;59 years, 2.5&#x2013;3.7 years; 60&#x2013;69 years, 3.5&#x2013;4.2 years; and 70&#x2013;74 years, 4&#x2013;4.1 years (16). 
+[sentNum: 60]The mean sojourn time has implications for breast cancer screening because it is desirable to detect tumors during this sojourn period. 
+[sentNum: 61]Individuals who are likely to have types of cancer with shorter sojourn times are more likely to benefit from more frequent screening when compared with those with slow-growing tumors that have a larger preclinical window. 
+[sentNum: 62]Screening strat­egies should be designed to maximize the likelihood of detecting the cancer during the preclinical window, when treatment options may be greater and outcomes may be improved. 
+[sentNum: 63]Evaluation of Mammography 
+[sentNum: 64]A recent meta-analysis conducted for the United States Preventive Services Task Force reviewed eight random­ized controlled trials of mammographic screening con­ducted between 1986 and 2006 (17). 
+[sentNum: 65]Despite some study limitations (all studies were rated of &#x201c;fair&#x201d; quality by the United States Preventive Services Task Force), this review reaffirmed a reduction in breast cancer-related mortalityfor womenaged39&#x2013;69 yearswho were invited 
+[sentNum: 66]Table 2. 
+[sentNum: 67]Breast Cancer Screening Recommendations 
+[sentNum: 68]Mammography  Clinical Breast Examination  Breast Self-Examination Instruction  Breast Self- Awareness 
+[sentNum: 69]American College of Obstetricians and Gynecologists	  Age 40 years and older annually	  Age 20&#x2013;39 years every 1&#x2013;3 years	 Age 40 years and older annually  Consider for high-risk	 patients	  Recommended	
+[sentNum: 70]American Cancer Society	  Age 40 years and older annually	  Age 20&#x2013;39 years	 every 1&#x2013;3 years  Optional for age 20 years	 and older	  Recommended	
+[sentNum: 71]Age 40 years and	 older annually	
+[sentNum: 72]National Comprehensive Cancer Network	  Age 40 years and	 older annually	  Age 20&#x2013;39 years	 every 1&#x2013;3 years  Recommended	  Recommended	
+[sentNum: 73]Age 40 years and	 older annually	
+[sentNum: 74]National Cancer Institute	  Age 40 years and	 older every 1&#x2013;2 years	  Recommended	  Not recommended	  &#x2014;	
+[sentNum: 75]U.S. Preventive Services Task Force	  Age 50&#x2013;74 years biennially	  Insufficient evidence	  Not recommended	  &#x2014; 
+[sentNum: 76]for screening. 
+[sentNum: 77]This is consistent with the mortality reduc­tions demonstrated in previous meta-analyses (18&#x2013;22). 
+[sentNum: 78]Relative risk of breast cancer mortality in women invited for screening was 0.85 for women aged 39&#x2013;49 years; 0.86 for women aged 50&#x2013;59 years; and 0.68 for women aged 60&#x2013;69 years. 
+[sentNum: 79]Evidence was insufficient to demonstrate a mortality reduction for women aged 70 years and older (Table 3). 
+[sentNum: 80]However, because of the increasing incidence of breast cancer as women age, more young women (aged 39&#x2013;49 years) had to be invited for screening to prevent one breast cancer-related death when compared with older women (Table 3). 
+[sentNum: 81]The number needed to invite for screening (over several rounds of screening and at least 11 years of follow-up) to prevent one breast cancer deathin women aged39&#x2013;49 years was 1,904, compared with 1,339 in women aged 50&#x2013;59 years. 
+[sentNum: 82]This difference in number needed to invite for screening to prevent one death was a key reason the United States Preventive Services Task Force elected not to recommend routine screening for women aged40&#x2013;49 years, despite similar mortality reductions (23). 
+[sentNum: 83]Because of differences in study design, with most randomized clinical trials evaluating biennial mammo­graphic screening, these randomized controlled trials do not provide meaningful comparisons between different screening strategies in terms of age at initiation, cessa­tion, and frequency. 
+[sentNum: 84]The lack of clear evidence on this issue led the United States Preventive Services Task Force to commission the creation of screening models that could compare different strategies to help guide national screening recommendations. 
+[sentNum: 85]These six models were created by independent investigative groups that are a part of the National Cancer Institute&#x2019;s Cancer Intervention and Surveillance Modeling Network. 
+[sentNum: 86]These models were created using a common set of age-specific variables, with the goal of identifying efficient screen­ing strategies (ie, those that produce a gain in mortality reduction or a gain in life years per additional screening mammogram). 
+[sentNum: 87]Biennial screening was used in seven of eight screening strategies found to be efficient in reducing mortality, and in six of these eight strategies, screen­ing began at age 50 years. 
+[sentNum: 88]A review of the strategies concluded that more lives could be saved by extending screening to women older than 69 years, rather than extending screening to women aged 40&#x2013;49 years (24). 
+[sentNum: 89]However, when defining benefit as number of life years gained through screening, screening was started at age 40 years in four of eight strategies. 
+[sentNum: 90]Although annual screening was an efficient strategy for reducing breast cancer mortality and increasing life years gained, it was noted by the authors to be more resource intensive (24). 
+[sentNum: 91]Other Imaging Techniques 
+[sentNum: 92]Ultrasonography is an established adjunct to mammog­raphy in the imaging evaluation. 
+[sentNum: 93]It is useful in eval-	 uating inconclusive mammographic findings, in evaluat­ing young patients and other women with dense breast tissue, in guiding tissue core-needle biopsy and other biopsy techniques, and in differentiating a cyst from a solid mass. 
+[sentNum: 94]It is not recommended as a screening modality for women at average risk of developing breast cancer. 
+[sentNum: 95]Ultrasonography may be an option for additional screening in women at high risk who are candidates for magnetic resonance imaging (MRI) screening but can-
+[sentNum: 96]Table 3. 
+[sentNum: 97]Pooled Relative Risks for Breast Cancer Mortality From Mammography Screening Trials for All Ages 
+[sentNum: 98]NNI to Prevent 1 
+[sentNum: 99]RR for Breast Cancer  Breast Cancer Death 
+[sentNum: 100]Age  Trials Included, n  Mortality (95% CrI)  (95% CrI) 
+[sentNum: 101]39&#x2013;49 y	  8*	  0.85 (0.75&#x2013;0.96)	  1904 (929&#x2013;6378) 
+[sentNum: 102]50&#x2013;59 y	  6&#x2020;  0.86 (0.75&#x2013;0.99)	  1339 (322&#x2013;7455) 
+[sentNum: 103]60&#x2013;69 y	  2&#x2021;  0.68 (0.54&#x2013;0.87)	  377 (230&#x2013;1050) 
+[sentNum: 104]70&#x2013;74 y	  1§  1.12 (0.73&#x2013;1.72)	  Not available 
+[sentNum: 105]Abbreviations: CrI, credible interval; NNI, number needed to invite to screening; RR, relative risk; y, years. 
+[sentNum: 106]*Health Insurance Plan of Greater New York, Canadian National Breast Screening Study-1, Stockholm, Malm&#x650;, Swedish Two-County trial (2 trials), Gothenburg trial, and Age trial. 
+[sentNum: 107]&#x2020;Canadian National Breast Screening Study-1, Stockholm, Malm&#x650;, Swedish Two-County trial (2 trials), and 
+[sentNum: 108]Gothenburg trial. 
+[sentNum: 109]&#x2021;Malm&#x650; and Swedish Two-County trial (&#x636;sterg&#x650;tland). 
+[sentNum: 110]§Swedish Two-County trial (&#x636;sterg&#x650;tland). 
+[sentNum: 111]Reprinted with permission from Nelson HD, Tyne K, Naik A, Bougatsos C, Chan BK, Humphrey L. Screening for 
+[sentNum: 112]breast cancer: An update for the U.S. Preventive Services Task Force. 
+[sentNum: 113]Ann Intern Med 2009;151:727&#x2013;37. 
+[sentNum: 114]not receive MRI because of gadolinium contrast allergy, claustrophobia, or other barriers. 
+[sentNum: 115]Magnetic resonanceimagingcanbe a useful adjunct to diagnostic mammography, but cost, duration of the examination, and injection of contrast material prohibit itsuseasaroutine,population-basedscreeningtechnique. 
+[sentNum: 116]The American Cancer Society has issued guidelines regarding the use of MRI for screening in high-risk women.Basedonexpertpanelreviewoftheevidence,the AmericanCancerSocietyrecommendsMRIscreeningfor women with a20% orgreaterlifetime risk ofdeveloping breastcancer,including women withthefollowing: 
+[sentNum: 117]&#x2022;	
+[sentNum: 118]Have a known BRCA1 or BRCA2 gene mutation 
+[sentNum: 119]&#x2022;	
+[sentNum: 120]Haveafirst-degreerelativewith a BRCA1 or BRCA2 gene mutation and have not had any testing them­selves 
+[sentNum: 121]&#x2022;	
+[sentNum: 122]A lifetime risk of breast cancer of 20% or greater, according to risk assessment tools that are based mainly on family history 
+[sentNum: 123]&#x2022;	
+[sentNum: 124]A history of radiation therapy to the chest between the ages of 10 years and 30 years 
+[sentNum: 125]&#x2022;	
+[sentNum: 126]Other genetic syndromes, including Li&#x2013;Fraumeni syndrome, Cowden syndrome, or Bannayan&#x2013;Riley&#x2013; Ruvalcaba syndrome or one of these syndromes in a first-degree relative 
+[sentNum: 127]The panel concluded that there was insufficient evidence to recommend for or against MRI screening for women with a personal history of breast cancer, carcinoma in situ, atypical hyperplasia, and extremely dense breasts on mammography (25). 
+[sentNum: 128]Breast MRI is not recommended for screening women at average risk of developing breast cancer. 
+[sentNum: 129]Color Doppler ultrasonography, computer-aided detection, positron emission tomography, scintimam­mography, and digital breast tomosynthesis have shown promise in selected clinical situations or as adjuncts to mammography for breast cancer diagnosis. 
+[sentNum: 130]However, thesetechnologies are not considered alternativesto rou­tine mammography. 
+[sentNum: 131]Digital Mammography 
+[sentNum: 132]In 2005, the results of the Digital Mammographic Imaging Screening Trial were reported (26). 
+[sentNum: 133]During the 2-year study period, 49,528 women were recruited to the study from 33 sites in the United States and Canada. 
+[sentNum: 134]All participants underwent both digital mammography and film mammography in random order. 
+[sentNum: 135]The diagnostic accuracy of digital mammography and film mammog­raphy was similar across the entire population. 
+[sentNum: 136]Digital mammography was superior to film mammography in women younger than 50 years, women with heteroge­neously dense or extremely dense breasts, and premeno­pausal and perimenopausal women. 
+[sentNum: 137]In2007,thefollow-upandfinal results oftheOsloII	 study were reported. 
+[sentNum: 138]This was a randomized trial of screen-film versus full-field digital mammography in a population-based screening program of women aged 45&#x2013;69years.Inthistrial, women aged45&#x2013;69years were assignedto undergofilm mammography(n=16,985) or digital mammography(n=6,944).Thegroup
+[sentNum: 139]Thegroup of women aged45&#x2013;49years was monitoredfor1.5years and the group of women aged50&#x2013;69years was monitoredfor 2years.There was a significantdifferencein the cancer detection ratebetweenthedigitalmammography(0.59%) andfilm mammography(0.38%)(P=0.02)groups(27). 
+[sentNum: 140]A recent meta-analysis of data from eight large randomized studies found that, overall, digital mam­mography demonstrated a slightly higher detection rate than film mammography, particularly for women aged 60 years or younger (28). 
+[sentNum: 141]Clinical Considerations and Recommendations 
+[sentNum: 142]What is the difference between breast self-examination and breast self-awareness, and are these screening methods effective? 
+[sentNum: 143]Breast self-examination is the performance of an exami­nation of the breasts in a consistent, systematic way by the individual on a regular basis, typically monthly. 
+[sentNum: 144]Historically, physicians have been encouraged to edu­cate their patients on how to perform these examina­tions, and public awareness campaigns have focused on this intervention. 
+[sentNum: 145]It still may be appropriate for certain high-risk populations and for other women who choose to follow this approach. 
+[sentNum: 146]Currently, there is an evolution away from teaching breastself-examination towardthe concept ofbreast self-awareness. 
+[sentNum: 147]The College, the American Cancer Society, andtheNationalComprehensiveCancerNetworkendorse breast self-awareness,whichisdefinedaswomen&#x2019;saware­ness of the normal appearance and feel of their breasts. 
+[sentNum: 148]This concept has arisen because approximately one half	 of all cases ofbreast cancerin women50years and older and morethan70% of cases of cancerin womenyounger than 50 years are detected by women themselves, fre­quentlyas anincidentalfinding(29,30).In
+[sentNum: 149]In addition, the effectiveness of self-examination was at odds with what was anticipatedbased onthe aforementioned statistics. 
+[sentNum: 150]Breast self-awareness should be encouraged and can include breast self-examination. 
+[sentNum: 151]Women who desire to perform self-examination as a part of this breast self-awareness strategy may be instructed in the appropriate technique, although emphasis is not on examination techniques. 
+[sentNum: 152]Women should report any changes in their breasts to their health care providers. 
+[sentNum: 153]Although this patient education strategy has not been studied to date, breast awareness may be of particular importance as part of a screening strategy because some women may falsely assume that negative mammography or clinical breast examination results definitively exclude the pres­ence of breast cancer. 
+[sentNum: 154]New cases of cancer can arise during screening intervals, and breast self-awareness may prompt women not to delay in reporting breast changes based on false reassurance of recent negative screening result. 
+[sentNum: 155]Breast self-awareness aims to capture the importance of self-detection and prompt evaluation of symptoms because it relates to overall breast cancer morbidity and mortality. 
+[sentNum: 156]However, the effect of breast self-awareness education has not been studied. 
+[sentNum: 157]TheUnitedStatesPreventiveServicesTaskForcehas recommended against teaching breast self-examination basedon alack of evidenceto showbenefit andpotential harm resultingfrom evaluation offalse-positivefindings (23).Aprospective
+[sentNum: 158]Aprospective studyof604patients withbreast can­cer revealedthat only7.6% ofthe448 women whoprac­ticed regular breast self-examination had detected their owncancer,andthosewhodidshowednosurvivaladvan­tage(31).TheShanghaibreast self-examinationtrial of 266,000women aged39&#x2013;72years randomizedto receive either breast self-examination instruction plus follow-up or no information on breast cancer screening reported essentially no difference in breast cancer-related deaths betweenthetwogroups(135 versus131, respectively) after10&#x2013;11years offollow-up(32).However
+[sentNum: 159]However, womenin theinstructiongroup were morelikely to undergobreast biopsyforbenignlesions(32). 
+[sentNum: 160]A Cochrane systematic review published in 2003 included the Shanghai breast trial (32) and another large population-based study from Russia that com­pared breast self-examination with no intervention. 
+[sentNum: 161]In both trials, almost twice as many biopsies with benign results were performed in the screening group com­pared with the control group (33). 
+[sentNum: 162]The Canadian Task Force on Preventive Health Care also recommended against teaching breast self-examination based on fair evidence that breast self-examination had no benefit and good evidence that it was harmful. 
+[sentNum: 163]Their review cited additional evidence that patients experience increased worry, anxiety, and depression associated with breast self-examination (34). 
+[sentNum: 164]Because other screening methods (mammography and clinical breast examination) can have false-negative	 resultsandcasesofbreast cancer canoccurin unscreened women, there are clearly situations in which women willdetect cancer themselves. 
+[sentNum: 165]As such, the College, the AmericanCancerSociety, and theNationalComprehen­sive Cancer Network endorse educating women aged 20 years and older regarding breast self-awareness, as a meanstoplay a rolein earlierdetection(Table2). 
+[sentNum: 166]Is clinical(ie,healthcareproviderperformed) breastexamination effectiveforbreast cancer screening? 
+[sentNum: 167]If so, how frequently should it be performed? 
+[sentNum: 168]Astudy using data from the National Breast and Cervical Cancer Early Detection Program, where 752,081 clinical breast examinations were performed in the community setting in women aged 40 years and older, concluded that clinical breast examination alone has a sensitiv­ity for cancer detection of 58.8%, with a specificity of 93.4%. 
+[sentNum: 169]In this population, five cases of cancer were detected per 1,000 clinical breast examinations per­formed. 
+[sentNum: 170]When the clinical breast examination finding was abnormal and the mammogram was normal, 7.4 cases of cancer were detected per 1,000 screenings. 
+[sentNum: 171]The authors concluded that the addition of clinical breast examination &#x201c;modestly improved&#x201d; early detection (35). 
+[sentNum: 172]Multiple reviews have supported the combination of clinical breast examination and mammography for breast cancer screening (36&#x2013;41).Arecent
+[sentNum: 173]Arecent study demon­strated improved sensitivity for breast cancer detection (94.6% versus 88.6%) when comparing mammography plus clinical breast examination with mammography alone. 
+[sentNum: 174]However, the false-positive rate was also higher in the group receiving clinical breast examination com­pared with the mammography-alone group (12.4% versus 7.4%) (41). 
+[sentNum: 175]Based on available evidence, the College, the American Cancer Society, and the National Comprehensive Cancer Network recommend that clini­cal breast examination should be performed annually for women aged 40 years and older. 
+[sentNum: 176]Although the value of screening clinical breast examination for women with a low prevalence of breast cancer (ie, women aged 20&#x2013;39 years) is not clear, the College, the American Cancer Society, and the National Comprehensive Cancer Network continue to recommend clinical breast exami­nation for these women every 1&#x2013;3 years. 
+[sentNum: 177]When should mammography begin, and how frequently should mammography be performed? 
+[sentNum: 178]Based on the incidence of breast cancer, the sojourn time for breast cancer growth, and the potential for reduction in breast cancer mortality, the College recommends that women aged 40 years and older be offered screening mammography annually. 
+[sentNum: 179]However, as with any screen­ing test, women should be educated on the predictive value ofthetest andthepotentialforfalse-positiveresults and false-negative results. 
+[sentNum: 180]Women should be informed of the potential for additional imaging or biopsies that may be recommended based on screening results. 
+[sentNum: 181]The physician should work with the patient todetermine the best screening strategybased onindividual risk and val-ues.In some women,biennial screening maybe a more appropriate or acceptable strategy. 
+[sentNum: 182]Some average-risk women may prefer biennial screening, which maintains most of thebenefits of screening while minimizingboth thefrequencyofscreeningandthepotentialforadditional testing, whereas other women prefer annual screening becauseitmaximizes cancerdetection. 
+[sentNum: 183]Various groups have offered recommendations on the timing of initiation and frequency of mammogra­phy screening. 
+[sentNum: 184]Each group places different values on competing considerations, such as published evidence, cost-effectiveness, efficiency, accuracy, adverse conse­quences, specificity, sensitivity, false-positive results, false-negative results, positive predictive value, patient adherence, availability of health care resources, con­flicting health care needs, and opinions of experts and advocates. 
+[sentNum: 185]A summary of the recommendations can be found in Table 2. 
+[sentNum: 186]The American Cancer Society and the National Comprehensive Cancer Network recommend annual screening mammography beginning at age 40 years (42, 43). 
+[sentNum: 187]In contrast, the United States Preventive Services Task Force recently changed their guidelines to recom­mend biennial mammography in women aged 50&#x2013;74 years. 
+[sentNum: 188]Although routine screeningin women aged40&#x2013;49 years was not recommended, the Task Force advised that screening in women younger than 50 years should be individualized based on &#x201c;patient values regarding specific benefits and harms&#x201d; (23). 
+[sentNum: 189]The American Cancer Society, the National Comprehensive Cancer Network, and the United States Preventive Services Task Force agree that screening mammography reduces breast cancer-related mortal­ity in women aged 40 years and older based on meta-analyses of available randomized controlled trials on mammographic screening (see Table 3). 
+[sentNum: 190]However, the United States Preventive Services Task Force arrived at a different conclusion regarding routine screening for women aged40&#x2013;49 yearsby placing greater weight on the lower prevalence of disease in this population, which reduces the positive predictive value of mammography and increases the number needed to screen to prevent one breast cancer-related death. 
+[sentNum: 191]In addition, the United States Preventive Services Task Force argues that all women who participate in breast cancer screening may potentially experience a false-positive mammogram (as high as 49% of women after 10 years of screening), with resultant additional imaging, biopsies, and psychologic distress (44). 
+[sentNum: 192]The burden of these additional tests may be perceived as greater on women aged 40&#x2013;49 years because they are less likely to experience breast cancer and, therefore, less likely to benefit from screening (23). 
+[sentNum: 193]In response to this argument, experts who sup­port routine screening for women in their 40s note that although the incidence of cancer is less in the 40&#x2013;49 year age group than in all women older than 50 years, the incidence of cancer in women in their 50s (1 in 38, or 2.60%) is not much higher than in women in their 40s (1 in 69, or 1.44%) (2). 
+[sentNum: 194]In addition, women who undergo routine screening mammography in their 40s have com­parable mortality reduction compared with women who undergo routine mammography screening in their 50s (16% reduction versus 15% reduction, respectively) (17). 
+[sentNum: 195]This is of particular importance because each year in the United States breast cancer is diagnosed in approxi­mately 50,000 women younger than 50 years. 
+[sentNum: 196]Regarding the frequency of screening mammogra­phy, the United States Preventive Services Task Force alsodivergedfrom whathasbecome commonpracticein theUnitedStates by recommending biennial rather than annualscreeningforwomenaged50yearsandolder.This decision was based on the National Cancer Institute&#x2019;s CancerIntervention andSurveillanceModelingNetwork screening models, which predicted that81% of theben­efits of screening(ie, mortality reduction) couldbe main­tainedby screening every otheryear(24).This
+[sentNum: 197]This strategy isless resourceintensive andispredictedto reducefalse­positive results by 50% (23). 
+[sentNum: 198]However, these models demonstrateagreaterreductioninmortalityandincreased number oflifeyearsgainedby screening annually;there­fore, acceptingabiennial strategy reduces some(19%) of thepotentialbenefits of screening. 
+[sentNum: 199]What are the potential adverse consequences of screening mammography? 
+[sentNum: 200]Potential adverse outcomes of breast cancer screen­ing mammography include false-positive mammo­grams, false-negative mammograms, and overdiagnosis. 
+[sentNum: 201]Concerns about the risk of radiation exposure (eg, induc­tion of breast cancer from radiation exposure) have largely been decreased by improvements in mammogra­phy technique, technology, and clinical experience (45). 
+[sentNum: 202]False-positive mammograms (ie, those with per­ceived abnormalities requiring further evaluation to verify that the lesion is not cancer) are a continuing concern (44, 46). 
+[sentNum: 203]False-positive screening mammograms require diagnostic mammography with supplementary views, ultrasonography, and even biopsy in 20&#x2013;30% of cases in an attempt to reach an accurate diagnosis (44, 46). 
+[sentNum: 204]Psychosocial consequences of screening mammog­raphy, such as anxiety and distress, have been identified, reviewed, and are generally short-lived and not severe (47&#x2013;50). 
+[sentNum: 205]Studies evaluating the effect of false-positive results suggest that women in the United States are highly tolerant of false-positive mammograms, and that women who experience a false-positive mammogram are more likely than women with a normal result to adhere to routine screening in the future. 
+[sentNum: 206]Women with false-positive results were more likely to have anxiety about developing breast cancer,butnotata demonstrably pathologic level (50, 51). 
+[sentNum: 207]What are the factors that increase a woman&#x2019;s relative risk of breast cancer? 
+[sentNum: 208]Most women in whom invasive breast cancer is diag­nosed do not have unique identifiable risk factors; however, women with certain characteristics do have an increased lifetime prevalence of breast cancer compared with the general population (52, 53). 
+[sentNum: 209]The incidence of breast cancer increases with advancing age (2). 
+[sentNum: 210]Because women at high risk need to be appropriately counseled regarding increased surveillance or breast cancer risk reduction, physicians should periodically assess breast cancer risk. 
+[sentNum: 211]The goal of this risk assessment is to catego­rize the woman&#x2019;s risk level as average for her age versus elevated or high risk. 
+[sentNum: 212]Risk assessment should not be used to consider a woman ineligible for screening appropriate for her age, but rather to identify those who may qualify for enhanced screening, such as addition of MRI screen­ing or more frequent clinical breast examinations and risk reduction strategies. 
+[sentNum: 213]Reproductive Risk Factors 
+[sentNum: 214]Certain reproductive factors also influence breast can­cer risk, including age at menarche, age at first birth, breastfeeding, parity, and age at menopause (Table 4). 
+[sentNum: 215]Agreater number of reproductive years, later age at first birth, and lower parity or nulliparity generally increase breast cancer risk. 
+[sentNum: 216]Familial Risk Factors 
+[sentNum: 217]Another important consideration in breast cancer risk assessment is family history to identify cases of breast cancer, ovarian cancer, prostate cancer, and other types of cancerinfirst-degree relatives(parents, sibling, child), second-degreerelatives,andthird-degreerelatives,includ­ingthe age of onsetfor thefamily members with cancer. 
+[sentNum: 218]Based on thisfamilyhistory, women maybe eligiblefor testingforBRCA genemutationsorforreferraltoagenetic counselorforfurther evaluation and consideration oftest-
+[sentNum: 219]Table 4. 
+[sentNum: 220]Factors That Increase the Relative Risk of Breast Cancer in Women 
+[sentNum: 221]Relative Risk 	Factor 
+[sentNum: 222]&gt;4.0	 Female 
+[sentNum: 223]Age (65+ vs &lt;65years, although risk increases across all ages until age 80) Certain inherited genetic mutations for breast 
+[sentNum: 224]cancer(BRCA1 and/or BRCA2) 
+[sentNum: 225]Two or more first-degree relatives with breast cancer diagnosed at an early age Personal history of breast cancer High breast tissue density Biopsy-confirmed atypical hyperplasia 
+[sentNum: 226]2.1&#x2013;4.0	 One first-degree relative with breast cancer High-dose radiation to chest High bone density (postmenopausal) 
+[sentNum: 227]1.1&#x2013;2.0	 Lateageatfirstfull-termpregnancy(&gt;30years) Factors that affect 
+[sentNum: 228]Early menarche(&lt;12 years) 
+[sentNum: 229]circulating hormones Late menopause(&gt;55 years) No full-term pregnancies Never breastfeda child Recent oral contraceptive use Recent and long-term use of estrogen and	
+[sentNum: 230]progestin Obesity (postmenopausal) 
+[sentNum: 231]Other factors	 Personal history of endometrial or ovarian	 cancer Alcohol consumption Height (tall) High socioeconomic status Ashkenazi Jewish heritage 
+[sentNum: 232]Reprinted with permission from American Cancer Society. 
+[sentNum: 233]Breast Cancer Facts &amp; Figures 2009-2010. 
+[sentNum: 234]Atlanta: American Cancer Society, Inc. 
+[sentNum: 235]Adapted with permission from Hulka BS, Moorman PG. 
+[sentNum: 236]Breast cancer: hormones and other risk factors. 
+[sentNum: 237]Maturitas. 
+[sentNum: 238]Feb28 2001;38(1):103&#x2013;113; discussion 113&#x2013;106. 
+[sentNum: 239]ing(seePracticeBulletinNo.103
+[sentNum: 240]103,Hereditary Breast and Ovarian Cancer Syndrome,April2009). 
+[sentNum: 241]Combined Factors 
+[sentNum: 242]The Gail Model is a risk assessment tool that uses patient age, some reproductive factors, limited family history (breast cancer in first-degree female relatives), and a history of breast biopsies to estimate 5-year and lifetime breast cancer risks. 
+[sentNum: 243]This model has been validated in Caucasian women and studied extensively in African American women. 
+[sentNum: 244]The assessment can be completed in less than a minute, and is available at www.cancer.gov/ bcrisktool. 
+[sentNum: 245]Women estimated to have a 5-year breast cancer risk of 1.7% or greater (equivalent to the average riskfora womenaged60years)ora lifetimeriskof20% or greater may be offered enhanced screening, including a clinical breast examination every6&#x2013;12 months, yearly mammography, and instruction in breast self-examina­tion. 
+[sentNum: 246]The Gail model is not a good risk assessment tool when there is a strong family history of breast cancer in women other than the mother and sisters of the patient or a family history of cancer other than breast cancer (eg, ovarian cancer). 
+[sentNum: 247]Breast MRI is not typically recom­mended based on the Gail Model. 
+[sentNum: 248]What screening is appropriate for women at high risk? 
+[sentNum: 249]ForwomenwhotestpositiveforBRCA1 or BRCA2 muta­tions, enhanced screening should be recommended and riskreductionmethodsdiscussed.Enhancedscreeningfor these womenincludestwice-yearly clinicalbreast exami­nations, annual mammography, annual breast MRI, and instructioninbreast self-examination.(
+[sentNum: 250](Details regarding the management of women with BRCA mutations are reviewedinPracticeBulletinNo.103
+[sentNum: 251]103, Hereditary Breast and Ovarian Cancer Syndrome, April 2009.)
+[sentNum: 252]) Women whohavefirst-degree relatives with these mutationsbut who are untested aregenerally managed asif they carry these mutations untiltheirBRCA statusisknown. 
+[sentNum: 253]Women who are estimated to have a lifetime risk of breast cancer of 20% or greater, based on risk models that rely largely on family history (such as BRCAPRO, BODACEA, or Claus), but who are either untested or test negative for BRCA gene mutations, can be offered enhanced screening as described previously for carriers of the BRCA mutation. 
+[sentNum: 254]Risk-reduction strategies also may be considered for these women. 
+[sentNum: 255]Other women considered at high risk of develop­ment of future cases of breast cancer are those who received thoracic irradiation (typically as a treatment for lymphoma) between the ages 10 years and 30 years. 
+[sentNum: 256]These women should be advised to receive annual mam­mography, annual MRI, and screening clinical breast examination every 6&#x2013;12 months beginning 8&#x2013;10 years after they received treatment or at age 25 years, which­ever occurs last. 
+[sentNum: 257]Women with a personal history of high-risk breast biopsyresults,including atypicalhyperplasia andlobular carcinoma in situ are at increased risk of future breast cancer. 
+[sentNum: 258]These women should receive enhanced screen­ing, including annual mammography, clinical breast examination every 6&#x2013;12 months, and instruction in breastself-examination.YearlybreastMRIalsohasbeen recommendedfor women with ahistory oflobular carci­nomain situby some organizations(43).Women
+[sentNum: 259]Women with a personal history of ductal carcinoma in situ or invasive breast cancer should be monitored similarly, although MRIis notroutinely recommendedinthispopulation. 
+[sentNum: 260]Isthere an upper age range at whichthe risks of mammography outweighthebenefits? 
+[sentNum: 261]Aconsensus of recommendations on this issue does not exist. 
+[sentNum: 262]Medical comorbidity and life expectancy should be considered in a breast cancer screening program for women aged 75 years or older because the benefit of screening mammography decreases compared with the harms of overtreatment with advancing age. 
+[sentNum: 263]Women aged 75 years or older should, in consultation with their physicians, decide whether or not to continue mammo­graphic screening (17). 
+[sentNum: 264]Figure1illustrates the progressively increasing inci-	 dence and mortality rates of invasive breast cancer by race and age up to 84 years (3). 
+[sentNum: 265]Most of the screening mammography clinical trials had an upper age limit criteria ranging from 64 years to 74 years. 
+[sentNum: 266]However, a meta-analysis concluded that screening mammography in women aged 70&#x2013;79 years is moderately cost-effective and yields a small increase in life expectancy (54). 
+[sentNum: 267]Summary of Recommendations and Conclusions 
+[sentNum: 268]The following recommendations are based on lim­ited and inconsistent scientific evidence (Level B): 
+[sentNum: 269]Based on the incidence of breast cancer, the sojourn time for breast cancer growth, and the potential reduction in breast cancer mortality, the College recommends that women aged 40 years and older be offered screening mammography annually. 
+[sentNum: 270]Thefollowingrecommendations arebasedprimar­ilyon consensus and expert opinion(LevelC): 
+[sentNum: 271]Clinical breast examination should be performed annually for women aged 40 years and older. 
+[sentNum: 272]For women aged 20&#x2013;39 years, clinical breast exam­inations are recommended every 1&#x2013;3 years. 
+[sentNum: 273]Breast self-awareness should be encouraged and can include breast self-examination. 
+[sentNum: 274]Women should report any changes in their breasts to their health care providers. 
+[sentNum: 275]Women should be educated on the predictive value of screening mammography and the potential for false-positive results and false-negative results. 
+[sentNum: 276]Women should be informed of the potential for 
+[sentNum: 277]600	
+[sentNum: 278]500	
+[sentNum: 279]400	
+[sentNum: 280]300	
+[sentNum: 281]200	
+[sentNum: 282]100	
+[sentNum: 283]0	 Age Fig. 1. 
+[sentNum: 284]Female Breast Cancer&#x2014;Incidence and Mortality Rates by Age and Race, United States, 2002&#x2013;2006. 
+[sentNum: 285]Data from Incidence&#x2014;North American Association of Central Cancer Registries, 2009. 
+[sentNum: 286]Mortality&#x2013;&#x2013;National Center for Health Statistics, Centers for Disease Control and Prevention, 2009. 
+[sentNum: 287]Reprinted with permission from American Cancer Society. 
+[sentNum: 288]Breast Cancer Facts&amp; Figures 2009&#x2013;2010. 
+[sentNum: 289]Atlanta: 
+[sentNum: 290]Rate per 100,000 
+[sentNum: 291]American Cancer Society, Inc. 
+[sentNum: 292]additional imaging or biopsies that may be recom­mended based on screening results. 
+[sentNum: 293]Women who are estimated to have a lifetime risk of breast cancer of 20% or greater, based on risk mod­els that rely largely on family history (such as BRCAPRO, BODACEA, or Claus), but who are either untested or test negative for BRCA gene mutations, can be offered enhanced screening. 
+[sentNum: 294]Breast MRI is not recommended for screening women at average risk of developing breast cancer. 
+[sentNum: 295]For women whotestpositiveforBRCA1 and BRCA2 mutations, enhanced screening should be recom­mended and risk reduction methodsdiscussed. 
+[sentNum: 296]References 
+[sentNum: 297]1.	
+[sentNum: 298]Jemal A, Siegel R, Ward E, Hao Y, Xu J, Thun MJ. 
+[sentNum: 299]Cancer statistics, 2009. 
+[sentNum: 300]CA CancerJ Clin 2009;59:225&#x2013; 
+[sentNum: 301]49. 
+[sentNum: 302](Level II-3) 
+[sentNum: 303]2.	
+[sentNum: 304]Altekruse SF, Kosary CL, Krapcho M, Neyman N, Aminou R, WaldronW et al, editors. 
+[sentNum: 305]SEER cancer stat-	istics review,1975-2007.Bethesda
+[sentNum: 306]Bethesda(MD):NationalCancer Institute; 2011. 
+[sentNum: 307]Available at: http://seer.cancer.gov/csr/	 1975_2007. 
+[sentNum: 308]Retrieved February 17, 2011. 
+[sentNum: 309](Level II-3) 
+[sentNum: 310]3.	
+[sentNum: 311]American Cancer Society. 
+[sentNum: 312]Breast cancer facts&amp; figures: 2009-2010. 
+[sentNum: 313]Atlanta (GA): ACS; 2009. 
+[sentNum: 314]Available at: http://	 www.cancer.org/acs/groups/content/@nho/documents/ document/f861009final90809pdf.pdf. 
+[sentNum: 315]Retrieved February 17, 2011. 
+[sentNum: 316](Level II-3) 
+[sentNum: 317]4.	
+[sentNum: 318]Ravdin PM, Cronin KA, Howlader N, Berg CD, Chlebowski RT, Feuer EJ, et al. The decrease in breast-cancer incidence in 2003 in the United States. 
+[sentNum: 319]N Engl J Med 2007;356:1670&#x2013;4. 
+[sentNum: 320](Level III) 
+[sentNum: 321]5.	
+[sentNum: 322]Glass AG, Lacey JV Jr, Carreon JD, Hoover RN. 
+[sentNum: 323]Breast	 cancer incidence, 1980-2006: combined roles of meno­pausal hormone therapy, screening mammography, and estrogen receptor status. 
+[sentNum: 324]J Natl Cancer Inst 2007;99:	 1152&#x2013;61. 
+[sentNum: 325](Level II-3) 
+[sentNum: 326]6.	
+[sentNum: 327]Rosen PP, Groshen S, Kinne DW. 
+[sentNum: 328]Survival and prog­nostic factors in node-negative breast cancer: results of long-term follow-up studies. 
+[sentNum: 329]J Natl Cancer Inst Monogr 1992;(11):159&#x2013;62. 
+[sentNum: 330](Level III) 
+[sentNum: 331]7.	
+[sentNum: 332]TabarL,ChenHH,DuffySW,YenMF,ChiangCF,DeanPB,	 et al.Anovel method for predictionof long-term outcome of women with T1a, T1b, and 10-14 mm invasive breast cancers: a prospective study [published erratum appears in Lancet 2000;355:1372]. 
+[sentNum: 333]Lancet 2000;355:429&#x2013;33. 
+[sentNum: 334](Level II-3) 
+[sentNum: 335]8.	
+[sentNum: 336]TabarL,DeanPB, KaufmanCS,DuffySW,ChenHH.A new era in the diagnosis of breast cancer. 
+[sentNum: 337]Surg Oncol Clin NAm 2000;9:233&#x2013;77. 
+[sentNum: 338](Level III) 
+[sentNum: 339]9.	
+[sentNum: 340]Joensuu H, Pylkkanen L, Toikkanen S. Late mortal­ity from pT1N0M0 breast carcinoma. 
+[sentNum: 341]Cancer 1999;85:	 2183&#x2013;9. 
+[sentNum: 342](Level II-3) 
+[sentNum: 343]10.	
+[sentNum: 344]Lopez MJ, Smart CR. 
+[sentNum: 345]Twenty-year follow-up of mini­mal breast cancer from the Breast Cancer Detection Demonstration Project. 
+[sentNum: 346]Surg Oncol Clin N Am 1997;6:	 393&#x2013;401. 
+[sentNum: 347](Level II-3) 
+[sentNum: 348]11.	
+[sentNum: 349]Arnesson LG, Smeds S, Fagerberg G. Recurrence-free survival in patients with small breast cancer. 
+[sentNum: 350]An analy­sis of cancers 10 mm or less detected clinically and by screening. 
+[sentNum: 351]EurJSurg 1994;160:271&#x2013;6. 
+[sentNum: 352](LevelI) 
+[sentNum: 353]12.	
+[sentNum: 354]Macdonald I. The natural history of mammary carcinoma. 
+[sentNum: 355]AmJSurg 1966;111:435&#x2013;42. 
+[sentNum: 356](Level III) 
+[sentNum: 357]13.	
+[sentNum: 358]Gullino PM. 
+[sentNum: 359]Natural history of breast cancer. 
+[sentNum: 360]Progression from hyperplasia to neoplasia as predicted by angiogen­esis. 
+[sentNum: 361]Cancer 1977;39:2697&#x2013;703. 
+[sentNum: 362](Level III) 
+[sentNum: 363]14.	
+[sentNum: 364]Wertheimer MD, Costanza ME, Dodson TF, D&#x2019;Orsi C, Pastides H, Zapka JG. 
+[sentNum: 365]Increasing the effort toward breast cancer detection. 
+[sentNum: 366]JAMA 1986;255:1311&#x2013;5. 
+[sentNum: 367](Level III) 
+[sentNum: 368]15.	
+[sentNum: 369]Walter SD, Day NE. 
+[sentNum: 370]Estimation of the duration of a pre-clinical disease state using screening data. 
+[sentNum: 371]Am J Epidemiol 1983;118:865&#x2013;86. 
+[sentNum: 372](Level III) 
+[sentNum: 373]16.	
+[sentNum: 374]SmithRA,DuffySW,GabeR,TabarL,YenAM,ChenTH.	
+[sentNum: 375]The randomized trials of breast cancer screening: what have we learned? 
+[sentNum: 376]Radiol Clin North Am 2004;42:793&#x2013; 806; v. 
+[sentNum: 377](Level III) 
+[sentNum: 378]17.	
+[sentNum: 379]Nelson HD, Tyne K, Naik A, Bougatsos C, Chan BK, Humphrey L. Screening for breast cancer: an update for the U.S. Preventive Services Task Force. 
+[sentNum: 380]U.S. Preventive Services Task Force. 
+[sentNum: 381]Ann Intern Med 2009;151:727-37; W237&#x2013;42. 
+[sentNum: 382](Level III) 
+[sentNum: 383]18.	
+[sentNum: 384]Humphrey LL, Helfand M, Chan BK, Woolf SH. 
+[sentNum: 385]Breast cancer screening: a summary of the evidence for the 
+[sentNum: 386]U.S. Preventive Services Task Force. 
+[sentNum: 387]Ann Intern Med 2002;137:347&#x2013;60. 
+[sentNum: 388](Level III) 
+[sentNum: 389]19.	
+[sentNum: 390]Kerlikowske K, Grady D, Rubin SM, Sandrock C, Ernster VL. 
+[sentNum: 391]Efficacy of screening mammography.Ameta-analy­sis. 
+[sentNum: 392]JAMA 1995;273:149&#x2013;54. 
+[sentNum: 393](Meta-analysis) 
+[sentNum: 394]20.	
+[sentNum: 395]Hendrick RE, Smith RA, Rutledge JH, 3rd, Smart CR. 
+[sentNum: 396]Benefitofscreeningmammographyinwomenaged40-49: a new meta-analysis of randomized controlledtrials.JNatl CancerInstMonogr1997;(22):87&#x2013;92.(
+[sentNum: 397](Meta-analysis) 
+[sentNum: 398]21.	
+[sentNum: 399]Olsen O, Gotzsche PC. 
+[sentNum: 400]Cochrane review on screening for breast cancer with mammography [published erra­tum appears in Lancet 2006;367:474]. 
+[sentNum: 401]Lancet 2001;358:	 1340&#x2013;2. 
+[sentNum: 402](Level III) 
+[sentNum: 403]22.	
+[sentNum: 404]Nystrom L, Andersson I, Bjurstam N, Frisell J, Nordenskjold B, Rutqvist LE. 
+[sentNum: 405]Long-term effects of mam­mography screening: updated overview of the Swedish randomised trials [published erratum appears in Lancet 2002;360:724]. 
+[sentNum: 406]Lancet 2002;359:909&#x2013;19. 
+[sentNum: 407](Level III) 
+[sentNum: 408]23.	
+[sentNum: 409]Screening for breast cancer: U.S. Preventive Services Task Force recommendation statement. 
+[sentNum: 410]US Preventive Services Task Force [published errata appear in Ann Intern Med 2010;152:199&#x2013;200; Ann Intern Med 2010;152:688]. 
+[sentNum: 411]Ann Intern Med 2009;151:716&#x2013;26;W-236. 
+[sentNum: 412](Level III) 
+[sentNum: 413]24.	
+[sentNum: 414]Mandelblatt J, Saha S, Teutsch S, Hoerger T, Siu AL, Atkins D, et al. The cost-effectiveness of screening mam­mography beyond age 65 years: a systematic review for the U.S. Preventive Services Task Force. 
+[sentNum: 415]Cost Work Group of the U.S. Preventive Services Task Force. 
+[sentNum: 416]Ann Intern Med 2003;139:835&#x2013;42. 
+[sentNum: 417](Level III) 
+[sentNum: 418]25.	
+[sentNum: 419]Saslow D, Boetes C, Burke W, Harms S, Leach MO, Lehman CD, et al. American Cancer Society guidelines forbreast screening withMRI as an adjunct to mammog­raphy. 
+[sentNum: 420]American Cancer Society Breast Cancer Advisory Group [published erratum appears in CA Cancer J Clin 2007;57:185].CACancerJClin2007;57:75&#x2013;89.(
+[sentNum: 421](LevelIII) 
+[sentNum: 422]26.	
+[sentNum: 423]Pisano ED, Gatsonis C, Hendrick E, Yaffe M, Baum JK,	 Acharyya S, et al. Diagnostic performance of digital 
+[sentNum: 424]versus film mammography for breast-cancer screen­ing. 
+[sentNum: 425]Digital Mammographic Imaging Screening Trial (DMIST) Investigators Group [published erratum appears in N Engl J Med 2006;355:1840]. 
+[sentNum: 426]N Engl J Med 2005;	 353:1773&#x2013;83. 
+[sentNum: 427](Level II-3) 
+[sentNum: 428]27.	
+[sentNum: 429]Skaane P, Hofvind S, Skjennald A. Randomized trial of screen-film versus full-field digital mammography with soft-copy reading in population-based screening program: follow-up and final results of Oslo II study. 
+[sentNum: 430]Radiology 2007;244:708&#x2013;17. 
+[sentNum: 431](LevelI) 
+[sentNum: 432]28.	
+[sentNum: 433]VinnicombeS,PintoPereiraSM,McCormackVA,ShielS,	 Perry N, Dos Santos Silva IM. 
+[sentNum: 434]Full-field digital versus screen-film mammography: comparison within the UK breast screening program and systematic review of pub­lished data. 
+[sentNum: 435]Radiology 2009;251:347&#x2013;58. 
+[sentNum: 436](Level III) 
+[sentNum: 437]29.	
+[sentNum: 438]Coates RJ, Uhler RJ, Brogan DJ, Gammon MD, Malone KE, Swanson CA, et al. Patterns and predictors of the breast cancer detection methods in women under age 45 yearsofage (United States).CCC cancer causes&amp;control 2001;12(5):431&#x2013;42. 
+[sentNum: 439](Level II-2) 
+[sentNum: 440]30.	
+[sentNum: 441]Newcomer L, Newcomb P, Trentham-Dietz A, Storer B, Yasui Y, Daling J, et al. Detection method and breast car­cinoma histology. 
+[sentNum: 442]Cancer 2002;95(3):470&#x2013;7. 
+[sentNum: 443](Level II-3) 
+[sentNum: 444]31.	
+[sentNum: 445]Auvinen A, Elovainio L, Hakama M. Breast self-exam­ination and survival from breast cancer: a prospective follow-up study. 
+[sentNum: 446]Breast Cancer Res Treat 1996;38:161&#x2013;8. 
+[sentNum: 447](Level II-2) 
+[sentNum: 448]32.	
+[sentNum: 449]Thomas DB, Gao DL, Ray RM, Wang WW, Allison CJ,	 Chen FL, et al. Randomized trial of breast self-examina­tion in Shanghai: final results. 
+[sentNum: 450]J Natl Cancer Inst 2002;	 94:1445&#x2013;57. 
+[sentNum: 451](LevelI) 
+[sentNum: 452]33.	
+[sentNum: 453]Kosters JP, Gotzsche PC. 
+[sentNum: 454]Regular self-examination or clinical examination for early detection of breast can­cer. 
+[sentNum: 455]Cochrane Database of Systematic Reviews 2003, Issue 2. 
+[sentNum: 456]Art. 
+[sentNum: 457]No.:
+[sentNum: 458]: CD003373. 
+[sentNum: 459]DOI: 10.1002/14651858. 
+[sentNum: 460]CD003373. 
+[sentNum: 461](Meta-analysis) 
+[sentNum: 462]34.	
+[sentNum: 463]Baxter N. Preventive health care, 2001 update: should womenberoutinelytaughtbreastself-examinationtoscreen for breast cancer? 
+[sentNum: 464]Canadian Task Force on Preventive HealthCare.CMAJ2001;164:1837&#x2013;46.(
+[sentNum: 465](LevelIII) 
+[sentNum: 466]35.	
+[sentNum: 467]Bobo JK, Lee NC, Thames SF. 
+[sentNum: 468]Findings from 752,081 clinical breast examinations reported to a national screen­ing program from 1995 through 1998.JNatl Cancer Inst 2000;92:971&#x2013;6. 
+[sentNum: 469](Level II-3) 
+[sentNum: 470]36.	
+[sentNum: 471]Shen Y, Zelen M. Screening sensitivity and sojourn time from breast cancer early detection clinical trials: mammograms and physical examinations. 
+[sentNum: 472]J Clin Oncol 2001;19:3490&#x2013;9. 
+[sentNum: 473](Level III) 
+[sentNum: 474]37.	
+[sentNum: 475]Jatoi I. Breast cancer screening. 
+[sentNum: 476]Am J Surg 1999;177:	 518&#x2013;24. 
+[sentNum: 477](Level III) 
+[sentNum: 478]38.	
+[sentNum: 479]Primic-Zakelj M. Screening mammography for early detection of breast cancer. 
+[sentNum: 480]Ann Oncol 1999;10(suppl 6):121&#x2013;7. 
+[sentNum: 481](Level III) 
+[sentNum: 482]39.	
+[sentNum: 483]Fletcher SW, Black W, Harris R, Rimer BK, Shapiro S.	 Report of the International Workshop on Screening for Breast Cancer. 
+[sentNum: 484]J Natl Cancer Inst 1993;85:1644&#x2013;56. 
+[sentNum: 485](Level III) 
+[sentNum: 486]40.	
+[sentNum: 487]Miller AB, To T, Baines CJ, Wall C. Canadian national breast screening study-2: 13-year results of a random-
+[sentNum: 488]ized trial in women aged 50&#x2013;59 years.JNatl Cancer Inst 2000;92:1490&#x2013;9. 
+[sentNum: 489](LevelI) 
+[sentNum: 490]41.	
+[sentNum: 491]ChiarelliAM,MajpruzV,BrownP,TheriaultM,ShumakR,	 Mai V. The contribution of clinical breast examination to the accuracyof breast screening.JNatl Cancer Inst 2009;	 101:1236&#x2013;43. 
+[sentNum: 492](Level II-2) 
+[sentNum: 493]42.	
+[sentNum: 494]SmithRA,SaslowD,SawyerKA,BurkeW,CostanzaME, EvansWP3rd, etal.AmericanCancerSocietyguidelines forbreastcancerscreening:update2003.AmericanCancer SocietyHigh-RiskWorkGroup;AmericanCancerSociety Screening Older Women Work Group; American Cancer Society Mammography Work Group; American Cancer Society Physical Examination Work Group; American CancerSocietyNewTechnologiesWorkGroup;American CancerSocietyBreastCancerAdvisoryGroup.CACancer JClin2003;53:141&#x2013;69.(
+[sentNum: 495](LevelIII) 
+[sentNum: 496]43.	
+[sentNum: 497]National Comprehensive Cancer Network. 
+[sentNum: 498]NCCN Clinical Practice Guidelines in OncologyTM: breast can­cer. 
+[sentNum: 499]Fort Washington (PA): NCCN; 2011. 
+[sentNum: 500](Level III) 
+[sentNum: 501]44.	
+[sentNum: 502]Elmore JG, Barton MB, Moceri VM, Polk S, Arena PJ, Fletcher SW. 
+[sentNum: 503]Ten-year risk of false positive screening mammograms and clinical breast examinations.NEnglJ Med 1998;338:1089&#x2013;96. 
+[sentNum: 504](Level II-3) 
+[sentNum: 505]45.	
+[sentNum: 506]Armstrong K, Moye E, Williams S, Berlin JA, Reynolds EE. 
+[sentNum: 507]Screening mammography in women 40 to 49 years of age: a systematic review for the American College of Physicians. 
+[sentNum: 508]Ann Intern Med 2007;146:516&#x2013;26. 
+[sentNum: 509](Level III) 
+[sentNum: 510]46.	
+[sentNum: 511]Harris R. Variation of benefits and harms of breast cancer screening with age. 
+[sentNum: 512]J Natl Cancer Inst Monogr 1997;(22):139&#x2013;43. 
+[sentNum: 513](Level III) 
+[sentNum: 514]47.	
+[sentNum: 515]Rimer BK, Bluman LG. 
+[sentNum: 516]The psychosocial conse­quences of mammography. 
+[sentNum: 517]J Natl Cancer Inst Monogr 1997;(22):131&#x2013;8. 
+[sentNum: 518](Level III) 
+[sentNum: 519]48.	
+[sentNum: 520]Lerman C, Trock B, Rimer BK, Boyce A, Jepson C,	 Engstrom PF. 
+[sentNum: 521]Psychological and behavioral implica­tions of abnormal mammograms. 
+[sentNum: 522]Ann Intern Med 1991;	 114:657&#x2013;61. 
+[sentNum: 523](Level III) 
+[sentNum: 524]49.	
+[sentNum: 525]BrettJ,BankheadC,HendersonB,WatsonE,AustokerJ.	
+[sentNum: 526]The psychological impact of mammographic screening. 
+[sentNum: 527]A systematic review. 
+[sentNum: 528]Psychooncology 2005;14:917&#x2013;38. 
+[sentNum: 529](Level III) 
+[sentNum: 530]50.	
+[sentNum: 531]Brewer NT, Salz T, Lillie SE. 
+[sentNum: 532]Systematic review: the long-term effects of false-positive mammograms. 
+[sentNum: 533]Ann 
+[sentNum: 534]Intern Med 2007;146:502&#x2013;10. 
+[sentNum: 535](Meta-analysis) 
+[sentNum: 536]51.	
+[sentNum: 537]SchwartzLM,WoloshinS,SoxHC,FischhoffB,WelchHG.	
+[sentNum: 538]US women&#x2019;s attitudes to false positive mammography results and detection of ductal carcinoma in situ: cross sectional survey. 
+[sentNum: 539]BMJ 2000;320:1635&#x2013;40. 
+[sentNum: 540](Level III) 
+[sentNum: 541]52.	
+[sentNum: 542]Overmoyer B. Breast cancer screening. 
+[sentNum: 543]Med Clin North Am 1999;83:1443&#x2013;66;vi&#x2013;vii. 
+[sentNum: 544](Level III) 
+[sentNum: 545]53.	
+[sentNum: 546]Agency for Healthcare Research and Quality. 
+[sentNum: 547]Diagnosis andmanagementofspecificbreastabnormalities.Evidence Report/Technology Assessment 33. 
+[sentNum: 548]Rockville (MD): AHRQ;2001.AHRQpublication no.01
+[sentNum: 549]01-E046.(
+[sentNum: 550](LevelIII) 
+[sentNum: 551]54.	
+[sentNum: 552]Kerlikowske K, Salzmann P, Phillips KA, Cauley JA, Cummings SR. Continuing screening mammography in women aged70to79years:impact onlife expectancy and cost-effectiveness.JAMA1999;282:2156&#x2013;63.(
+[sentNum: 553](LevelIII) 
+[sentNum: 554]The MEDLINE database, the Cochrane Library, and the American College of Obstetricians and Gynecologists&#x2019; own internal resources and documents were used to con­duct a literature search to locate relevant articles published between January 1990&#x2013;February 2011. 
+[sentNum: 555]The search was restricted to articles published in the English language. 
+[sentNum: 556]Priority was given to articles reporting results of original research, although review articles and commentaries also were consulted.Abstracts of researchpresented at sympo­sia and scientific conferences were not considered adequate for inclusion in this document. 
+[sentNum: 557]Guidelines published by organizations orinstitutions such as theNationalInstitutes of Health and the American College of Obstetricians and Gynecologists were reviewed, and additional studies were located by reviewing bibliographies of identified articles. 
+[sentNum: 558]When reliable research was not available, expert opinions from obstetrician&#x2013;gynecologists were used. 
+[sentNum: 559]Studies were reviewed and evaluated for quality according to the method outlined by the U.S. Preventive Services Task Force: 
+[sentNum: 560]I Evidence obtained from at least one properly	 designedrandomized controlledtrial. 
+[sentNum: 561]II-1 Evidence obtained from well-designed controlled trials withoutrandomization. 
+[sentNum: 562]II-2 Evidence obtained from well-designed cohort or case&#x2013;control analytic studies,preferablyfrom more than one center or researchgroup. 
+[sentNum: 563]II-3 Evidenceobtainedfrommultipletimeserieswithor withouttheintervention.Dramatic resultsin uncon­trolled experiments also could be regarded as this type of evidence. 
+[sentNum: 564]III	 Opinionsofrespected authorities,based onclinical experience,descriptive studies, or reports of expert committees. 
+[sentNum: 565]Based on the highest level of evidence found in the data, recommendations are provided and graded according to the following categories: 
+[sentNum: 566]Level A&#x2014;Recommendations are based on good and con­
+[sentNum: 567]sistent scientific evidence. 
+[sentNum: 568]Level B&#x2014;Recommendations are based on limited or incon­sistent scientific evidence. 
+[sentNum: 569]Level C&#x2014;Recommendations are based primarily on con­sensus and expert opinion. 
+[sentNum: 570]Copyright August 2011 by the American College of Obstet-	 ricians andGynecologists.All rights reserved.Nopart of this publication may be reproduced, stored in a retrieval system, posted on the Internet, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or	 otherwise, withoutprior writtenpermissionfromthepublisher. 
+[sentNum: 571]Requests for authorization to make photocopies should be directed to Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400. 
+[sentNum: 572]The American College of Obstetricians and Gynecologists 409 12th Street, SW, PO Box 96920, Washington, DC 20090-6920 
+[sentNum: 573]Breast cancer screening. 
+[sentNum: 574]Practice Bulletin No. 
+[sentNum: 575]122. 
+[sentNum: 576]American College of Obstetricians and Gynecologists. 
+[sentNum: 577]Obstet Gynecol 2011;118:	 372&#x2013;82. 

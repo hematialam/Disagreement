@@ -24,15 +24,15 @@ public class extract {
 		Matcher matcher, matcherValue, matcherMM, matcher3;
 		int  sentNum;
 		try {
-			fis = new FileInputStream("ACOG.xml");
-			fis2 = new FileInputStream("ACOG.xml");
+			fis = new FileInputStream("nejmc.xml");
+			fis2 = new FileInputStream("nejmc.xml");
 			reader = new BufferedReader(new InputStreamReader(fis));
 			reader2 = new BufferedReader(new InputStreamReader(fis2));
-			outPreffered = new BufferedWriter(new FileWriter("ACOG_PreferredName.txt"));
-			outSem = new BufferedWriter(new FileWriter("ACOG_Semantic.txt"));
-			outSentence = new BufferedWriter(new FileWriter("ACOG_Sentence.txt"));
-			outPOS = new BufferedWriter(new FileWriter("ACOG_POS.txt"));
-			out = new BufferedWriter(new FileWriter("Pre_ACOG.txt"));
+			outPreffered = new BufferedWriter(new FileWriter("nejmc_PreferredName.txt"));
+			outSem = new BufferedWriter(new FileWriter("nejmc_Semantic.txt"));
+			outSentence = new BufferedWriter(new FileWriter("nejmc_Sentence.txt"));
+			outPOS = new BufferedWriter(new FileWriter("nejmc_POS.txt"));
+			out = new BufferedWriter(new FileWriter("Pre_nejmc.txt"));
 			// System.out.println("Reading File line by line using BufferedReader");
 			String line = reader.readLine();
 			String line2;

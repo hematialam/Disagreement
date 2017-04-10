@@ -1,0 +1,173 @@
+[sentNum: 1]Screening for Breast Cancer CLINICAL GUIDELINE 
+[sentNum: 2]Primary Screening for Breast Cancer With Conventional Mammography 
+[sentNum: 3]Population  Women aged 40 to 49 y  Women aged 50 to 74 y  Women aged =75 y 
+[sentNum: 4]Figure 1. 
+[sentNum: 5]Screening for breast cancer: clinical summary. 
+[sentNum: 6]Grade: B  No recommendation. 
+[sentNum: 7]Grade: I statement (insufficient evidence) 
+[sentNum: 8]Recommendation  The decision to start screening should be an individual one. 
+[sentNum: 9]Grade: C  Screen every 2 years. 
+[sentNum: 10]Screening Tests  Conventional digital mammography has essentially replaced film mammography as the primary method for breast cancer screening in the United States. 
+[sentNum: 11]Conventional digital screening mammography has about the same diagnostic accuracy as film overall, although digital screening seems to have comparatively higher sensitivity but the same or lower specificity in women age &lt;50 y. 
+[sentNum: 12]Risk Assessment  These recommendations apply to asymptomatic women aged =40 y who do not have preexisting breast cancer or a previously diagnosed high-risk breast lesion and who are not at high risk for breast cancer because of a known underlying genetic mutation (such as a BRCA1 or BRCA2 gene mutation or other familial breast cancer syndrome) or a history of chest radiation at a young age. 
+[sentNum: 13]Increasing age is the most important risk factor for most women. 
+[sentNum: 14]The balance of benefits and harms is likely to improve as women move from their early to late 40s. 
+[sentNum: 15]Screening Interval  For most women, biennial mammography screening provides the best overall balance of benefit and harms. 
+[sentNum: 16]Starting and Stopping Ages  For women who are at average risk for breast cancer, most of the benefit of mammography results from biennial screening during ages 50 to 74 y. 
+[sentNum: 17]While screening mammography in women aged 40 to 49 y may reduce the risk for breast cancer death, the number of deaths averted is smaller than that in older women and the number of false-positive results and unnecessary biopsies is larger. 
+[sentNum: 18]Evidence on mammography screening in women aged =75 y is insufficient, and the balance of benefits and harms cannot be determined. 
+[sentNum: 19]Other Relevant USPSTF Recommendations  The USPSTF has made recommendations about the use of medications to reduce women&#x2019;s risk for breast cancer, as well as risk assessment, genetic counseling, and genetic testing for BRCA1- or BRCA2-related cancer (including breast cancer). 
+[sentNum: 20]Balance of Benefits and Harms  The net benefit of screening mammography in women aged 40 to 49 y, while positive, is small. 
+[sentNum: 21]The net benefit of screening mammography in women aged 50 to 74 y is moderate. 
+[sentNum: 22]Screening Method  Primary screening with DBT  Adjunctive screening with breast ultrasonography, MRI, DBT, or other methods in women who have dense breasts 
+[sentNum: 23]Recommendation  No recommendation. 
+[sentNum: 24]These recommendations are available on the USPSTF Web site (www.uspreventiveservicestaskforce.org). 
+[sentNum: 25]Screening for Breast Cancer With Methods Other Than Conventional Mammography 
+[sentNum: 26]Benefits  From the limited data available, DBT seems to reduce recall rates (i.e., follow-up for additional imaging or testing) and increase cancer detection rates compared with conventional digital mammography alone. 
+[sentNum: 27]Limited data suggests that ultrasonography or MRI will detect additional breast cancer in women who have dense breasts. 
+[sentNum: 28]Grade: I statement (insufficient evidence)  No recommendation. 
+[sentNum: 29]Grade: I statement (insufficient evidence) 
+[sentNum: 30]Current study designs cannot determine the degree to which the additional cases of cancer detected would have become clinically significant (i.e., the degree of overdiagnosis). 
+[sentNum: 31]Most positive adjunctive breast cancer screening test results are false positive. 
+[sentNum: 32]DBT also detects additional breast cancer in the short term. 
+[sentNum: 33]Harms  As currently practiced in most settings, DBT exposes women to about twice the amount of radiation as conventional digital mammography. 
+[sentNum: 34]For a summary of the evidence systematically reviewed in making this recommendation, the full recommendation statement, and supporting documents, please go to www.uspreventiveservicestaskforce.org. 
+[sentNum: 35]The USPSTF concludes that the evidence on DBT The USPSTF concludes that the evidence on ad-as a primary screening method for breast cancer is in-junctive screening for breast cancer using breast ultra-suf.cient, and the balance of bene.ts and harms can-sound, MRI, DBT, or other methods in women identi­not be determined. 
+[sentNum: 36]Balance of Benefits and Harms  Evidence is insufficient, and the balance of benefits and harms cannot be determined. 
+[sentNum: 37]Evidence is insufficient, and the balance of benefits and harms cannot be determined. 
+[sentNum: 38]164 No. 
+[sentNum: 39]4 &#x2022; 16 February 2016 281 
+[sentNum: 40].ed to have dense breasts on an otherwise negative 
+[sentNum: 41]www.annals.org Annals of Internal Medicine &#x2022; Vol. 
+[sentNum: 42]Harms of One-Time Mammography Screening per 10 000 Women Screened: Breast Cancer Surveillance Consortium Registry Data 
+[sentNum: 43]Variable Ages 40&#x2013;49 y Ages 50&#x2013;59 y Ages 60&#x2013;69 y Ages 70&#x2013;74 y 
+[sentNum: 44]CLINICAL GUIDELINE Screening for Breast Cancer 
+[sentNum: 45]Table 2. 
+[sentNum: 46]False-negative test results (missed cancers), n  10  11  12  13 
+[sentNum: 47]Risk Factors That May In.uence When to Start Screening 
+[sentNum: 48]False-positive test results (false alarms), n  1212  932  808  696 
+[sentNum: 49]Breast biopsies, n  164  159  165  175 
+[sentNum: 50]This approach has not been formally tested in a clinical trial; therefore, there is no directevidencethatitwouldresultinnet bene.tsimilar to that of women aged 50 to 74 years. 
+[sentNum: 51]However, given the increased burden of disease and potential likeli­hood of bene.t, women aged 40 to 49 years who have a known .rst-degree relative (parent, child, or sibling) with breast cancer may consider initiating screening earlier than age 50 years. 
+[sentNum: 52]Advancing age is the most important risk factor for breast cancer in most women, but epidemiologic data from the BCSC suggest that having a .rst-degree rela­tive with breast cancer is associated with an approxi­mately 2-fold increased risk for breast cancer inwomen aged 40 to 49 years (2, 9). 
+[sentNum: 53]Further, the CISNET models suggest that for women with about a 2-fold increased risk for breast cancer, starting annual digital screening at age 40 years results in a similar harm-to-bene.t ratio (based on number of false-positive results or overdiag­nosedcasesper1000breast cancerdeaths avoided) as beginning biennial digital screening at age 50 years in average-risk women (7, 8). 
+[sentNum: 54]How Often to Screen 
+[sentNum: 55]Once a woman has decided to begin screening, the next decision is how often to undergo screening. 
+[sentNum: 56]Many other risk factors have been associated with breast cancer in epidemiologic studies, but most of these relationships are weak or inconsistent and would not likely in.uence how women value the tradeoffs of the potential bene.ts and harms of screening. 
+[sentNum: 57]Risk calculators, such as the National Cancer Institute's Breast Cancer Risk Assessment Tool (available at www.cancer.gov/BCRISKTOOL), have good calibration between predicted and actual out­comes in groups of women but are not accurate at pre­dicting an individual woman's risk for breast cancer (10). 
+[sentNum: 58]Table 3. 
+[sentNum: 59]Lifetime Bene.ts and Harms of Biennial Screening Mammography per 1000 Women Screened: Model Results Compared With No Screening* 
+[sentNum: 60]No clinical trials compared annual mammography with a longer interval in women of any age. 
+[sentNum: 61]In the random-
+[sentNum: 62]Life-years gained  152 (99&#x2013;195)  122 (75&#x2013;154) 
+[sentNum: 63]False-positive test results, n  1529 (1100&#x2013;1976)  953 (830&#x2013;1325) 
+[sentNum: 64]Variable Ages Ages 40&#x2013;74 y 50&#x2013;74 y 
+[sentNum: 65]Fewer breast cancer deaths, n  8 (5&#x2013;10)  7 (4&#x2013;9) 
+[sentNum: 66]* Values reported are medians (ranges). 
+[sentNum: 67]ized trials that demonstrated the effectiveness of mam­mography in reducing breast cancer deaths in women aged 40 to 74 years, screening intervals ranged from 12 to 33 months (2, 3). 
+[sentNum: 68]Unnecessary breast biopsies, n  213 (153&#x2013;276)  146 (121&#x2013;205) 
+[sentNum: 69]Overdiagnosed breast tumors, n  21 (12&#x2013;38)  19 (11&#x2013;34) 
+[sentNum: 70]Regardless of the starting age for screening, the models consistently predict a small incremental in­crease in the number of breast cancer deaths averted when moving from biennial to annual mammography, but also a large increase in the number of harms (Table 4) (7, 8). 
+[sentNum: 71]The USPSTF concludes that for most women, biennial mammography screening provides the best overall balance of bene.t and harms. 
+[sentNum: 72]There was no clear trend for greater bene.t in trials of annual mammography, but other differences between the trials preclude certainty that no difference in bene.t exists. 
+[sentNum: 73]Available observa­tional evidence evaluating the effects of varying mam­mography intervals found no difference in the number ofbreast cancerdeaths between womenaged50years or older who were screened biennially versus annually (2, 3). 
+[sentNum: 74]In its 2009 recommendation (11), the USPSTF extended the recommendation for screening mammography to age 74 years based on the extrapo­lation that much of the bene.t seen in women aged 60 to 69 years should continue in this age range, and modeling done at the time supported this assumption. 
+[sentNum: 75]Current CISNET models suggest that women aged 70 to 74 years with moderate to severe comorbid condi­tions that negatively affect their life expectancy are unlikely to bene.t from mammography (7, 8, 12). 
+[sentNum: 76]When to Consider Stopping Screening 
+[sentNum: 77]Clinical trial data for women aged 70 to 74 years are inconclusive. 
+[sentNum: 78]Screening in Women Aged 75 Years or Older 
+[sentNum: 79]The USPSTF found insuf.cient evidence to assess the balance of bene.ts and harms of screening mam­mography in women aged 75 years or older. 
+[sentNum: 80]Mod­erate comorbid conditions include cardiovascular dis­ease, paralysis, and diabetes. 
+[sentNum: 81]Severe comorbid condi­tions include (but are not limited to) AIDS, chronic obstructive pulmonary disease, liver disease, chronic renal failure, dementia, congestive heart failure, and combinations of moderate comorbid conditions, as well as myocardial infarction, ulcer, and rheumatologic disease (12). 
+[sentNum: 82]164 No. 
+[sentNum: 83]4 &#x2022; 16 February 2016 www.annals.org 
+[sentNum: 84]CISNET models suggestthat biennial mammography screening may potentially continue to offer a net bene.t after age 74yearsamongthosewithnoorlowcomorbidity(7,8), but no randomized trials of screening included women in this age group (2, 3). 
+[sentNum: 85]284 Annals of Internal Medicine &#x2022; Vol. 
+[sentNum: 86]1.06 to 3.39]) or a breast tumor larger than 20 mm (odds ratio, 2.39 [CI, 1.37 to 3.18]) in women aged 40 to 49 years with extremely dense breasts (BI-RADS cat­egory d) compared with annual screening; this risk was not seen in women aged 50 to 74 years (19). 
+[sentNum: 87]No signif­icant differences in lymph node involvement were ob­served in either age group. 
+[sentNum: 88]CLINICAL GUIDELINE Screening for Breast Cancer 
+[sentNum: 89]stage cancer (stage IIB or greater) (odds ratio, 2.39 [CI, 
+[sentNum: 90]Screening more frequently (that is, an­nually vs. biennially) further increases the probability that a woman will experience one of these screening-related harms. 
+[sentNum: 91]Data from the BCSC indicate that the cumulative probability that a woman aged 40 to 49 years with extremely dense breasts screened annually for a decade will receive a false-positive result is about 69%, compared with about 21% for biennial screening. 
+[sentNum: 92]Information about morbid­ity or mortality end points is not available, so whether these women ultimately fared any differently in their clinical outcomes is not known (17, 19). 
+[sentNum: 93]All women aged 40 to 74 years with increased breast density are at increased risk for a false-positive result, an unnecessary breast biopsy, or a false-negative result compared with women with average breast density. 
+[sentNum: 94]Potential Bene.ts. 
+[sentNum: 95]Current evidence on adjunctive screeningisverylimited,butitsuggeststhatfor women identi.ed to have dense breasts on an otherwise neg­ative mammogram, ultrasonography or MRI will detect additional breast cancer but will also result in a higher numberoffalse-positiveresults.Data onDBTin women with dense breasts are limited, but in the short term, DBT also detects additional breast cancer. 
+[sentNum: 96]Similarly, unnecessary breast biopsy rates are 12% for annual screening versus 3% for biennial screening (17, 18). 
+[sentNum: 97]Adjunctive Screening 
+[sentNum: 98]Although adjunctive screening may de­tectmorebreastcancer,these cancersmayfallinto1of 3 categories: 1) those for which earlier detection leads to improved outcomes, 2) those that would have had thesameoutcomewhendetectedlater,or 3)thosethat areoverdiagnosedandwouldnothavecaused ahealth problem during a woman's lifetime and may result in harms from unnecessary treatment. 
+[sentNum: 99]Existing data do notallowforestimationoftheproportionof cancer that falls into each category; therefore, the bene.ts on health cannot be estimated. 
+[sentNum: 100]Most of the additional cancer detected by these methods are inva­sive tumors rather than ductal carcinoma in situ (DCIS) (17, 18). 
+[sentNum: 101]A short-term increase in the number of cancer cases detected does not allow for the conclusion that adjunctive screening reduces treatment-related mor­bidity or breast cancer deaths or improves women's quality of life. 
+[sentNum: 102]Com­pared with mammography alone, adjunctive screening with ultrasonography or MRI seems to increase recall and biopsy rates. 
+[sentNum: 103]Data on the effects of DBT on recall and biopsy rates in women with dense breasts are too limited to draw conclusions (17, 18). 
+[sentNum: 104]Potential Harms. 
+[sentNum: 105]Most positive adjunctive breast cancer screening test results are false positive. 
+[sentNum: 106]At the present time, 24 states re­quire patient noti.cation of breast density status when mammography is performed; in some states, legisla­tion also includes language to be sent to women in­forming them that they should consider adjunctive screening (17). 
+[sentNum: 107]No clinical practice guidelines explicitly recommend adjunctive screening in women identi.ed tohavedensebreastson anotherwisenegative screen­ing mammogram (17). 
+[sentNum: 108]The effects of DBT on overdiagnosis rates are unknown. 
+[sentNum: 109]Current Practice. 
+[sentNum: 110]It is an independent risk factor for developing (but not dying of) breast cancer, and it reduces mammography's abil­ity to .nd and accurately identify breast cancer. 
+[sentNum: 111]Many women will move between &#x201c;dense&#x201d; and &#x201c;nondense&#x201d; breast classi.cations with sequential screening mam­mograms, and these reclassi.cations are not primarily due to physiologic causes. 
+[sentNum: 112]Assessment 
+[sentNum: 113]Increased breast density is very common. 
+[sentNum: 114]Other Approaches to Prevention 
+[sentNum: 115]The USPSTF has made recommendations about the use of medications to reduce women's risk for breast cancer, as well as risk assessment, genetic coun­seling, and genetic testing for BRCA1-or BRCA2­related cancer (including breast cancer). 
+[sentNum: 116]More evidence is needed to better understand how the frequency of screening might affect important health outcomes in women with dense breasts. 
+[sentNum: 117]Overall, many important questions re­main about the potential role of breast density in indi­vidualizing screening approaches, and the current evi­dence isinsuf.cienttorecommend aspeci.cscreening strategy for women with increased breast density. 
+[sentNum: 118]Research Needs and Gaps 
+[sentNum: 119]Trial data are too limited to directly inform the question of what the best screening strategy is for women or how clinicians can best tailor that strategy to the individual. 
+[sentNum: 120]These recom­mendations are available on the USPSTF Web site (www.uspreventiveservicestaskforce.org). 
+[sentNum: 121]OTHER CONSIDERATIONS 
+[sentNum: 122]Current estimates of the magnitude of overdiag­nosis associated with mammography screening vary widely. 
+[sentNum: 123]Researchers in the .eld must work together to critically evaluate and ultimately agree on uniform def­initions and standards to optimally measure and moni­tor overdiagnosis and overtreatment in breast cancer screening programs. 
+[sentNum: 124]Overdiagnosis and resulting overtreatment of breast cancer that would otherwise not have become a threat to a woman's health during her lifetime is the most important harm associated with breast cancer screening. 
+[sentNum: 125]Because it is impossible to determine for any individual patient whether a diagnosed cancer will or will not progress, measurements of overdiagnosis are not straightforward but rather are indirectly quanti­.ed. 
+[sentNum: 126]164 No. 
+[sentNum: 127]4 &#x2022; 16 February 2016 www.annals.org 
+[sentNum: 128]In addition, research is critically needed to identify ways to reduce the occurrence of overdiagnosis and subsequent overtreatment associated with breast can­
+[sentNum: 129]286 Annals of Internal Medicine &#x2022; Vol. 
+[sentNum: 130]Harms of Early Detection and Treatment 
+[sentNum: 131]Primary Screening With Conventional Mammography 
+[sentNum: 132]CLINICAL GUIDELINE Screening for Breast Cancer 
+[sentNum: 133]breasts on breast cancer rates, quality of life, or mortal­ity (17, 18). 
+[sentNum: 134]Stud­ies show a fairly consistent association between a false-positive screening mammogram and increased breast cancer&#x2013;speci.c distress, anxiety, and apprehension, particularly in women who have an associated proce­dure, such as .ne-needle aspiration or breast biopsy. 
+[sentNum: 135]These effects improve over time for most women (2, 4). 
+[sentNum: 136]Screening mammography has several potential harms. 
+[sentNum: 137]The most common is a false-positive result, which can lead to psychological harms, as well as addi­tional testing and invasive follow-up procedures. 
+[sentNum: 138]Overdiagnosis occurs when the breast tumor does not progress or when the woman dies of a competing cause of death before the breast cancer advances to the point of causing symp­toms. 
+[sentNum: 139]Overdiagnosis is not the same as misdiagnosis. 
+[sentNum: 140]Table 5 summarizes BCSC data on the cumulative probability of a woman (at varying starting ages and intervals) receiving at least 1 false-positive mammo­gram or a recommendation for what turns out to be a false-positive biopsy over a 10-year period (39). 
+[sentNum: 141]The most serious harm of screening mammogra­phyisthediagnosisandtreatmentofbreast cancerthat would never have become a threat to a woman's health, or even apparent, during her lifetime (overdiag­nosis and overtreatment). 
+[sentNum: 142]Researchers have used multiple data sources to attempt to quantify overdiagnosis rates associated with mammography screening, including RCTs, pathology and imaging studies, ecologic and cohort studies, and decision modeling.Toadditionallycomplicatematters,thereisa lack of consensus concerning the optimal method for calculating the magnitude of overdiagnosis, and inves­tigators differ in their approaches (6, 40). 
+[sentNum: 143]This has re­sulted in a wide range of estimates in the available lit­erature (0% to 54%) (2, 4). 
+[sentNum: 144]Misdiagnosis is when a cancer is incorrectly classi.ed by an individual pathologist; overdiagnosis, on the other hand, happens when there is general agreement by pathologists on how to classify the cancer, but the tumor does not go on to behave as expected based on its appearance. 
+[sentNum: 145]It is not possible to directly observe for any individual woman whether she has or does not have an overdiagnosed tumor; it is only possible to in­directly estimate the frequency of overdiagnosis that may occur across a screened population. 
+[sentNum: 146]CISNET deci­sion models also investigated the degree of overdiag­nosis likely to result from a screening mammography program.The6decisionmodelsreportedawiderange of estimates of the magnitude of overdiagnosis associ­ated with screening mammography (1.4% to 24.9% of invasive cancer and 30.5% to 84.5% of DCIS, depend­ing on the screening strategy) (7, 8). 
+[sentNum: 147]Assumptions in several of the models may have increased the likeli­hood of underestimating the true burden of overdiag­nosis associated with screening mammography. 
+[sentNum: 148]Of theavailable clinical trials, 3RCTs inwhich there was no mammography screening of the control groups attheendofthestudy(Malmo¨ MammographicScreen­ing Trial I and the Canadian National Breast Screening Study 1 and 2) provided the least-biased estimates, as they had the advantage of having comparable groups at baseline, adequate follow-up beyond the screening period to distinguish between earlier diagnosis and overdiagnosis, and clear distinction between which groupsreceivedscreeningandwhichdidnot(ifscreen­ing was also provided to the control group, then over­diagnosiscouldalso occurinthispopulation)(6).These
+[sentNum: 149]These older trials likely underestimate the actual magnitude of overdiagnosis associated with modern screening mammography programs, given the increasing sensi­tivity of newer technologies, but together, they suggest that over a 10-year period, approximately 19% of breast cancers are overdiagnosed (2, 4). 
+[sentNum: 150]Recurrent radiation exposure from a lifetime pro­gramofmammographyscreeningmayslightlyincrease theriskforbreastcancer,although noempiricalstudies have directly measured this effect. 
+[sentNum: 151]Simulation models performed in support of this scienti.c report estimate that the mean lifetime attributable risk (LAR) of radiation-induced breast cancer from biennial screen­ing mammography in women aged 50 to 74 years is 3 cases per 10 000 women screened. 
+[sentNum: 152]Most importantly, 4 of the 6 models assumed that all diag­nosed invasive cancer can progress to lethality; only 1 (model W) allowed for the possibility of cancer with &#x201c;limited malignant potential,&#x201d; whereby the tumor stops progressing at an early invasive stage. 
+[sentNum: 153]In addition, 1 of the models omitted DCIS. 
+[sentNum: 154]Of note, women with large breasts, who may re­quire extra views&#x2014;and thus higher radiation doses&#x2014;for complete mammography examination, seem to be at increased risk for radiation-induced breast cancer or breast cancer death. 
+[sentNum: 155]Based on information from the Digital Mammography Imaging Screening Trial (which compared the test characteristics of .lm vs. digital mammography) (41), as no representative population-based data areavailable, anestimated 5% to6%ofU.S. 
+[sentNum: 156]The mean LAR of breast cancer death is 0.5 deaths per 10000 women screened. 
+[sentNum: 157]If biennial screening begins at age 40 in­stead of 50 years, the mean LAR of developing breast cancer increases to 4 cases per 10 000 women screened, and the number of breast cancer deaths in­creases to about 1 per 10 000 women screened (25, 26). 
+[sentNum: 158]Primary Screening With DBT 
+[sentNum: 159]Currently, DBT is most frequently performed in combination with conventional digital mammography; 
+[sentNum: 160]women will require additional views during screening for complete breast examination. 
+[sentNum: 161]For biennial screen­ing in women aged 50 to 74 years, the mean LAR of developing breast cancer is an estimated 6 versus 2 cases per 10 000 screened women with and without largebreasts,respectively;the mean LARofbreast can­cer death is 1 versus 0.4 deaths per 10000 screened womenwithandwithoutlargebreasts,respectively(25, 26). 
+[sentNum: 162]4 &#x2022; 16 February 2016 www.annals.org 
+[sentNum: 163]Screening for Breast Cancer CLINICAL GUIDELINE 
+[sentNum: 164]290 Annals of Internal Medicine &#x2022; Vol. 
+[sentNum: 165]164 No. 
+[sentNum: 166]The U.S. Congress mandates that the Agency for Healthcare Research and Quality support the operations of the USPSTF. 
+[sentNum: 167]Disclosures: Dr. Phillips disclosed that he has received past grants and contracts from NCI and CDC for research on pat­terns of use of screening tests for breast and other cancers in primary care. 
+[sentNum: 168]strued as an of.cial position of the Agency for Healthcare Re­search and Quality or the U.S. Department of Health and Human Services. 
+[sentNum: 169]Financial Support: The USPSTF is an independent, voluntary body. 
+[sentNum: 170]Forms can be viewed at www.acponline.org/authors/icmje/ Con.ictOfInterestForms.do?msNum
+[sentNum: 171]msNum=M15-2886. 
+[sentNum: 172]Dr. owens discloses that he has received travel reimbursement from the USPSTF. 
+[sentNum: 173]Authors followed the policy regarding con.icts of interest described at www.uspreventive servicestaskforce.org/Page/Name/methods-and-processes. 
