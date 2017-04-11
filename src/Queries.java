@@ -63,18 +63,18 @@ public class Queries {
 	        
 	        float merged_score = 0;
 	        BufferedWriter out=null;
-			out = new BufferedWriter(new FileWriter("Search-Output.txt"));
+			out = new BufferedWriter(new FileWriter("Search-Output-ACOG.txt"));
 			try {
 				fis_sent1 = new FileInputStream("ACOG_sentence.txt");
-				fis_sent2 = new FileInputStream("ACS_sentence.txt");
+				fis_sent2 = new FileInputStream("Queries_sentence.txt");
 				reader_sent1 = new BufferedReader(new InputStreamReader(fis_sent1));
 				reader_sent2 = new BufferedReader(new InputStreamReader(fis_sent2));
 				fis_type1 = new FileInputStream("ACOG_semantic.txt");
-				fis_type2 = new FileInputStream("ACS_semantic.txt");
+				fis_type2 = new FileInputStream("Queries_semantic.txt");
 				reader_type1 = new BufferedReader(new InputStreamReader(fis_type1));
 				reader_type2 = new BufferedReader(new InputStreamReader(fis_type2));
 				fis_name1 = new FileInputStream("ACOG_PreferredName.txt");
-				fis_name2 = new FileInputStream("ACS_preferredName.txt");
+				fis_name2 = new FileInputStream("Queries_preferredName.txt");
 				reader_name1 = new BufferedReader(new InputStreamReader(fis_name1));
 				reader_name2 = new BufferedReader(new InputStreamReader(fis_name2));
 				
@@ -109,6 +109,9 @@ public class Queries {
 	        line_query_name=reader_name2.readLine();
 	        
 	        while(line_query_sent!=null){
+	        	String[] prefered_query = line_query_name.split("//");
+	            String[] types_query = line_query_type.split(" ");
+	            	
 	        // 2. query
 	        String querystr_sent = args.length > 0 ? args[0] : "Breast";
 	        String querystr_type = args.length > 0 ? args[0] : "Breast";
@@ -177,7 +180,7 @@ public class Queries {
 	        
 	        
 	        // 4. display results
-	        out.write("Found " + hits_sent.length + " hits for: "+line_query_sent);
+	        out.write("Found 10 " + " hits for: "+line_query_sent);
 	        out.newLine();
 //	        out.write("Found " + hits_sent.length + " hits for: "+line_query_name);
 //	        out.newLine();
@@ -202,11 +205,29 @@ public class Queries {
 //	            out.write((i + 1)+ ". "  +" "+hits_type[i].score+ "\t" + d.get("title"));
 //	            out.newLine();
 //	        }
-	        for(int i=0;i<10;++i) {
+	        for(int i=0;i<20;++i) {
 	            int docId = doc_number[i];
 	            Document d = searcher_sent.doc(docId);
-	            out.write((i + 1)+ ". " +" "+doc_score[i]+ "\t" + d.get("title"));
-	            out.newLine();
+	            String[] prefered = searcher_name.doc(docId).get("title").split("//");
+	            String[] types = searcher_type.doc(docId).get("title").split(" ");
+	            
+	            for (int j = 0; j < (prefered.length-1); j++)
+		        {
+		               for(int k = 0; k < (prefered_query.length-1); k++)
+		               {
+		            	   if ( types_query[k].contains("[diap]")||types_query[k].contains("[topp]")||types_query[k].contains("[hlca]")||types_query[k].contains("[lbpr]"))
+		            	   {
+		            		   
+		            		   if (types_query[k].contains(types[j])||types[j].contains(types_query[k]))
+		            		   if(prefered_query[k].trim().toLowerCase().contains(prefered[j].trim().toLowerCase())||prefered[j].trim().toLowerCase().contains(prefered_query[k].trim().toLowerCase()))
+		            		   {
+		            			out.write((i + 1)+ ". " +" "+doc_score[i]+ "\t" + d.get("title")+prefered_query[k]+types_query[k]);
+		           	            out.newLine();
+		            		   }
+		            	   }
+		               }
+		        }
+	            
 	        }
 	        // reader can only be closed when there
 	        // is no need to access the documents any more.
