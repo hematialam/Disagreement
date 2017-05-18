@@ -1,0 +1,30 @@
+Found 10  hits for: [sentNum: 1]Did it recommend mammography screening for women aged 40-49 with average risk?
+Found 10  hits for: [sentNum: 2]Did it recommend mammography screening for women aged 50-74 with average risk?
+Found 10  hits for: [sentNum: 3]Did it recommend mammography screening for women aged 75 or older with average risk?
+Found 10  hits for: [sentNum: 4]Did it recommend mammography screening for women with dense breast?
+Found 10  hits for: [sentNum: 5]Did it recommend MRI screening for women aged 40-49 with average risk?
+1. 1 1.7388837	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No
+8. 1 1.1126803	[sentNum: 68]Women of any age: Annual mammography, MRI, tomosynthesis, or regular systematic breast self-examinationNo
+9. 1 1.0719893	[sentNum: 85]One third of surveyed primary care physicians screen with ultrasonography and MRI, in addition to mammography, in women who are not at increased risk for breast cancer. No
+Found 10  hits for: [sentNum: 6]Did it recommend MRI screening for women aged 50-74 with average risk?
+1. 1 1.6337116	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No
+5. 1 1.0547844	[sentNum: 68]Women of any age: Annual mammography, MRI, tomosynthesis, or regular systematic breast self-examinationNo
+7. 1 0.9983895	[sentNum: 85]One third of surveyed primary care physicians screen with ultrasonography and MRI, in addition to mammography, in women who are not at increased risk for breast cancer. No
+Found 10  hits for: [sentNum: 7]Did it recommend MRI screening for women aged 75 or older with average risk?
+1. 1 1.8665993	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No
+7. 1 1.182986	[sentNum: 68]Women of any age: Annual mammography, MRI, tomosynthesis, or regular systematic breast self-examinationNo
+8. 1 1.161365	[sentNum: 85]One third of surveyed primary care physicians screen with ultrasonography and MRI, in addition to mammography, in women who are not at increased risk for breast cancer. No
+Found 10  hits for: [sentNum: 8]Did it recommend MRI screening for women with dense breast?
+1. 1 1.9500697	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No
+2. 1 1.7685442	[sentNum: 68]Women of any age: Annual mammography, MRI, tomosynthesis, or regular systematic breast self-examinationNo
+5. 1 1.5153749	[sentNum: 85]One third of surveyed primary care physicians screen with ultrasonography and MRI, in addition to mammography, in women who are not at increased risk for breast cancer. No
+Found 10  hits for: [sentNum: 9]Did it recommend DBT screening for women aged 40-49 with average risk?
+5. 1 1.295335	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No
+Found 10  hits for: [sentNum: 10]Did it recommend DBT screening for women aged 50-74 with average risk?
+3. 1 1.3433745	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No
+20. 1 0.5324491	[sentNum: 55]Reasons for not recommending more intensive strategies (such as annual screening, screening younger or older age groups, screening persons of any age with a life expectancy less than 10 years, and screening with more sensitive tests) include concerns that they would lead to few benefits but large increases in harms, such as falsepositive screening test results and overdiagnosis and overtreatment of lesions that would never have progressed to cause clinical problems (16&#x2013;20). No
+Found 10  hits for: [sentNum: 11]Did it recommend DBT screening for women aged 75 or older with average risk?
+4. 1 1.2898939	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No
+20. 1 0.4996413	[sentNum: 55]Reasons for not recommending more intensive strategies (such as annual screening, screening younger or older age groups, screening persons of any age with a life expectancy less than 10 years, and screening with more sensitive tests) include concerns that they would lead to few benefits but large increases in harms, such as falsepositive screening test results and overdiagnosis and overtreatment of lesions that would never have progressed to cause clinical problems (16&#x2013;20). Yes
+Found 10  hits for: [sentNum: 12]Did it recommend DBT screening for women with dense breast?
+2. 1 1.7195897	[sentNum: 53]No group recommends regular systematic breast selfexamination, magnetic resonance imaging (MRI), or tomosynthesis screening for average-risk women. No

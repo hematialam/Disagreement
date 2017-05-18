@@ -1,0 +1,16 @@
+Found 10  hits for: [sentNum: 1]Did it recommend mammography screening for women aged 40-49 with average risk?
+YES [sentNum: 507]Screening mammography in women 40 to 49 years of age: a systematic review for the American College of Physicians.
+Found 10  hits for: [sentNum: 2]Did it recommend mammography screening for women aged 50-74 with average risk?
+Found 10  hits for: [sentNum: 3]Did it recommend mammography screening for women aged 75 or older with average risk?
+YES [sentNum: 263]Women aged 75 years or older should, in consultation with their physicians, decide whether or not to continue mammographic screening (17).
+Found 10  hits for: [sentNum: 4]Did it recommend mammography screening for women with dense breast?
+Found 10  hits for: [sentNum: 5]Did it recommend MRI screening for women aged 40-49 with average risk?
+Found 10  hits for: [sentNum: 6]Did it recommend MRI screening for women aged 50-74 with average risk?
+Found 10  hits for: [sentNum: 7]Did it recommend MRI screening for women aged 75 or older with average risk?
+Found 10  hits for: [sentNum: 8]Did it recommend MRI screening for women with dense breast?
+Found 10  hits for: [sentNum: 9]Did it recommend DBT screening for women aged 40-49 with average risk?
+YES [sentNum: 178]Based on the incidence of breast cancer, the sojourn time for breast cancer growth, and the potential for reduction in breast cancer mortality, the College recommends that women aged 40 years and older be offered screening mammography annually.
+Found 10  hits for: [sentNum: 10]Did it recommend DBT screening for women aged 50-74 with average risk?
+Found 10  hits for: [sentNum: 11]Did it recommend DBT screening for women aged 75 or older with average risk?
+YES [sentNum: 178]Based on the incidence of breast cancer, the sojourn time for breast cancer growth, and the potential for reduction in breast cancer mortality, the College recommends that women aged 40 years and older be offered screening mammography annually.
+Found 10  hits for: [sentNum: 12]Did it recommend DBT screening for women with dense breast?

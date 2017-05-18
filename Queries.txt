@@ -1,0 +1,12 @@
+Did it recommend mammography screening for women aged 40-49 with average risk?
+Did it recommend mammography screening for women aged 50-74 with average risk?
+Did it recommend mammography screening for women aged 75 or older with average risk?
+Did it recommend mammography screening for women with dense breast?
+Did it recommend MRI screening for women aged 40-49 with average risk?
+Did it recommend MRI screening for women aged 50-74 with average risk?
+Did it recommend MRI screening for women aged 75 or older with average risk?
+Did it recommend MRI screening for women with dense breast?
+Did it recommend DBT screening for women aged 40-49 with average risk?
+Did it recommend DBT screening for women aged 50-74 with average risk?
+Did it recommend DBT screening for women aged 75 or older with average risk?
+Did it recommend DBT screening for women with dense breast?

@@ -1,0 +1,12 @@
+[sentNum: 1]VBD // PRP // VB // NN // NN // IN // NNS // JJ // CD // : // CD // IN // JJ // NN // . // 
+[sentNum: 2]VBD // PRP // VB // NN // NN // IN // NNS // JJ // CD // : // CD // IN // JJ // NN // . // 
+[sentNum: 3]VBD // PRP // VB // NN // NN // IN // NNS // JJ // CD // CC // JJR // IN // JJ // NN // . // 
+[sentNum: 4]VBD // PRP // VB // NN // NN // IN // NNS // IN // JJ // NN // . // 
+[sentNum: 5]VBD // PRP // VB // NNP // VBG // IN // NNS // JJ // CD // : // CD // IN // JJ // NN // . // 
+[sentNum: 6]VBD // PRP // VB // NNP // VBG // IN // NNS // JJ // CD // : // CD // IN // JJ // NN // . // 
+[sentNum: 7]VB // NNP // VBG // IN // NNS // JJ // CD // CC // JJR // IN // JJ // NN // . // VBD // PRP // 
+[sentNum: 8]VBD // PRP // VB // NNP // VBG // IN // NNS // IN // JJ // NN // . // 
+[sentNum: 9]VBD // PRP // VB // NNP // VBG // IN // NNS // JJ // CD // : // CD // IN // JJ // NN // . // 
+[sentNum: 10]VBD // PRP // VB // NNP // VBG // IN // NNS // JJ // CD // : // CD // IN // JJ // NN // . // 
+[sentNum: 11]VBD // PRP // VB // NNP // VBG // IN // NNS // JJ // CD // CC // JJR // IN // JJ // NN // . // 
+[sentNum: 12]VBD // PRP // VB // NNP // VBG // IN // NNS // IN // JJ // NN // . // 

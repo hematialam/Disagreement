@@ -43,6 +43,7 @@ public class Queries {
 	        Directory index_name = new RAMDirectory();
 	        IndexWriterConfig config_name = new IndexWriterConfig(analyzer);
 	        IndexWriter w_name = new IndexWriter(index_name, config_name);
+	        Directory index_POS = new RAMDirectory();
 	        
 	        
 	        FileInputStream fis_sent1 = null;
@@ -57,26 +58,34 @@ public class Queries {
 	        FileInputStream fis_name2 = null;
 	        BufferedReader reader_name1 = null;
 	        BufferedReader reader_name2 = null;
-	        
+//	        FileInputStream fis_pos1 = null;
+//	        FileInputStream fis_pos2 = null;
+//	        BufferedReader reader_pos1 = null;
+//	        BufferedReader reader_pos2 = null;
+//	        
 	        
 	        
 	        
 	        float merged_score = 0;
 	        BufferedWriter out=null;
-			out = new BufferedWriter(new FileWriter("Search-Output-ACOG.txt"));
+			out = new BufferedWriter(new FileWriter("Search-Output-nejmc.txt"));
 			try {
-				fis_sent1 = new FileInputStream("ACOG_sentence.txt");
+				fis_sent1 = new FileInputStream("nejmc_sentence.txt");
 				fis_sent2 = new FileInputStream("Queries_sentence.txt");
 				reader_sent1 = new BufferedReader(new InputStreamReader(fis_sent1));
 				reader_sent2 = new BufferedReader(new InputStreamReader(fis_sent2));
-				fis_type1 = new FileInputStream("ACOG_semantic.txt");
+				fis_type1 = new FileInputStream("nejmc_semantic.txt");
 				fis_type2 = new FileInputStream("Queries_semantic.txt");
 				reader_type1 = new BufferedReader(new InputStreamReader(fis_type1));
 				reader_type2 = new BufferedReader(new InputStreamReader(fis_type2));
-				fis_name1 = new FileInputStream("ACOG_PreferredName.txt");
+				fis_name1 = new FileInputStream("nejmc_PreferredName.txt");
 				fis_name2 = new FileInputStream("Queries_preferredName.txt");
 				reader_name1 = new BufferedReader(new InputStreamReader(fis_name1));
 				reader_name2 = new BufferedReader(new InputStreamReader(fis_name2));
+				//fis_pos1 = new FileInputStream("ACOG_POS.txt");
+				//fis_pos2 = new FileInputStream("Queries_POS.txt");
+				//reader_pos1 = new BufferedReader(new InputStreamReader(fis_name1));
+				//reader_pos2 = new BufferedReader(new InputStreamReader(fis_name2));
 				
 				
 				String line_index_sent;
@@ -85,6 +94,9 @@ public class Queries {
 				line_index_type = reader_type1.readLine();
 				String line_index_name;
 				line_index_name = reader_name1.readLine();
+				String line_index_POS;
+				//line_index_POS = reader_POS1.readLine();
+				
 				while (line_index_sent != null) {
 				
 					 addDoc(w_sent, line_index_sent, "");
@@ -107,6 +119,8 @@ public class Queries {
 	        line_query_type=reader_type2.readLine();
 	        String line_query_name;
 	        line_query_name=reader_name2.readLine();
+	        String line_query_POS;
+	        //line_query_POS=reader_POS2.readLine();
 	        
 	        while(line_query_sent!=null){
 	        	String[] prefered_query = line_query_name.split("//");
@@ -210,23 +224,51 @@ public class Queries {
 	            Document d = searcher_sent.doc(docId);
 	            String[] prefered = searcher_name.doc(docId).get("title").split("//");
 	            String[] types = searcher_type.doc(docId).get("title").split(" ");
-	            
-	            for (int j = 0; j < (prefered.length-1); j++)
+	            int candidate = 0;
+	            int term=0;
+	            int flag=0;
+	            for (int k = 0; k < (prefered_query.length-1); k++)
 		        {
-		               for(int k = 0; k < (prefered_query.length-1); k++)
+	            	if ( types_query[k].contains("[tmco]"))
+	            	   {
+		               for(int j = 0; j < (prefered.length-1); j++)
 		               {
-		            	   if ( types_query[k].contains("[diap]")||types_query[k].contains("[topp]")||types_query[k].contains("[hlca]")||types_query[k].contains("[lbpr]"))
-		            	   {
-		            		   
 		            		   if (types_query[k].contains(types[j])||types[j].contains(types_query[k]))
 		            		   if(prefered_query[k].trim().toLowerCase().contains(prefered[j].trim().toLowerCase())||prefered[j].trim().toLowerCase().contains(prefered_query[k].trim().toLowerCase()))
 		            		   {
-		            			out.write((i + 1)+ ". " +" "+doc_score[i]+ "\t" + d.get("title")+prefered_query[k]+types_query[k]);
-		           	            out.newLine();
+		            			flag =1;
+		           	            
+		            		   
+		            		   }
+		            	   }
+		               }
+	            	if ( types_query[k].contains("[diap]")||types_query[k].contains("[topp]")||types_query[k].contains("[hlca]")||types_query[k].contains("[lbpr]"))
+	            	   {term ++;
+		               for(int j = 0; j < (prefered.length-1); j++)
+		               {
+		            		   if (types_query[k].contains(types[j])||types[j].contains(types_query[k]))
+		            		   if(prefered_query[k].trim().toLowerCase().contains(prefered[j].trim().toLowerCase())||prefered[j].trim().toLowerCase().contains(prefered_query[k].trim().toLowerCase()))
+		            		   {
+		            			   //if (candidate==0)
+		            				   candidate ++;
+
 		            		   }
 		            	   }
 		               }
 		        }
+	            //if (flag==1)
+	            if (candidate >= 1)
+	            {	
+	            	out.write((i + 1)+ ". " +candidate+" "+doc_score[i]+ "\t" + d.get("title"));
+	            	if (flag==1)
+	            		out.write("Yes");
+	            	else
+	            		out.write("No");
+	            	
+	            	out.newLine();
+	            	
+	            }
+   	            
 	            
 	        }
 	        // reader can only be closed when there

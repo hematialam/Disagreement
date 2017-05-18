@@ -1,577 +1,577 @@
-[sentNum: 1]American College of Obstetricians and Gynecologists // 
-[sentNum: 2]Physicians, Women // Health Care // 
-[sentNum: 3]Practice Experience // 
-[sentNum: 4]replaces - RoleLinkType // Numbers // Numbers // Practice Experience // 
-[sentNum: 5]Screening for cancer // Thoracic mammary region // 
-[sentNum: 6]Diagnosis // Most // Woman // Primary malignant neoplasm // Cause of death.secondary:Find:Pt:^Patient:Nom // United States // From // Leading // Woman // American // Singular // Second Primary Cancers // 1+ Score // Malignant neoplasm of lung // 
-[sentNum: 7]Mortality Vital Statistics // Malignant neoplasm of breast // Aspects of disease screening // Reduced // 
-[sentNum: 8]Practice Experience // Purpose // Act Class - review // To // Guideline [Publication Type] // Screening for malignant neoplasm of breast // Used by // Evidence of // Supportive assistance // To // New // Recommendation // Modality // Aspects of disease screening // 
-[sentNum: 9]Aspects of disease screening // Surrounding (qualifier value) // 
-[sentNum: 10]Background // 
-[sentNum: 11]incidence of cases // 
-[sentNum: 12]account - ActClass // Malignant neoplasm of breast // Case unit dose // New // 2+ Score // Woman // 
-[sentNum: 13]Risk // Female Breast Carcinoma // 2+ Score // Table - furniture // 3+ Score // 
-[sentNum: 14]2010s // New // Approximate // Invasive // Case unit dose // Diagnosis // Malignant neoplasm of breast // Attribution // Cessation of life // Malignant neoplasm of breast // 
-[sentNum: 15]Add - instruction imperative // Case unit dose // New // Malignant neoplasm of breast // In situ // 2010s // Reporting // 3+ Score // 
-[sentNum: 16]GPR162 gene // Decrease // per year // incidence of cases // Within // Body position // Malignant neoplasm of breast // Decreased // Reflecting // Hormone replacement therapy // Use of // Use of // Decreased // 3/5 // Screening mammography // 
-[sentNum: 17]Relationships // Malignant neoplasm of breast // Decreasing // Mortality Vital Statistics // Reflecting // 1990s // Screening for malignant neoplasm of breast // Bilateral // Therapeutic procedure // Better // 3+ Score // 
-[sentNum: 18]Component object // Aspects of disease screening // Malignant neoplasm of breast // Guideline [Publication Type] // Current (present time) // 
-[sentNum: 19]Including (qualifier) // Screening for malignant neoplasm of breast // Elements // Three // Entire breast // 1+ Score, WHO // Mammography // Diagnostic Imaging // Clinical Breast Examination // Integer +2 // Patients // &lt;3 (qualifier value) // Screening - procedure intent // subscriber - self // 
-[sentNum: 20]Table - furniture // 
-[sentNum: 21]Age // Probability // Specific qualifier value // Invasive Breast Carcinoma // 
-[sentNum: 22]Probability // Malignant neoplasm of breast // 
-[sentNum: 23]
-[sentNum: 24]Current age // year // Following // 1+ Score, WHO // 
-[sentNum: 25]
-[sentNum: 26]
-[sentNum: 27]/40 // Arabic numeral 69 // 
-[sentNum: 28]
-[sentNum: 29]
-[sentNum: 30]
-[sentNum: 31]Lifetime Risk // 
-[sentNum: 32]Primary malignant neoplasm // Free (available (qualifier)) // Beginning // At // Data Type Interval // Age // 
-[sentNum: 33]Case unit dose // Base - General Qualifier // Diagnosis // 
-[sentNum: 34]Money or percentage indicator - Percentage // Numbers // And // Equal // Negation // Round shape // 
-[sentNum: 35]Probability // Use of // Derivation // Computer software // National Cancer Institute // Version // 
-[sentNum: 36]Reprint // American Cancer Society // Authorization documentation // 
-[sentNum: 37]2010s // Malignant neoplasm of breast // 
-[sentNum: 38]American Cancer Society // Atlanta // 
-[sentNum: 39]Entire breast // Breast Self-Examination // Self awareness // 
-[sentNum: 40]Relative // Appropriate // Elements // Transcription Initiation // Age // Frequencies (time pattern) // Cessation // Aspects of disease screening // 
-[sentNum: 41]Committee // Gynecologist // Practice Experience // 
-[sentNum: 42]Committee // Practice Experience // Gynecologist // Practice Experience // Massive // Helping Behavior // 
-[sentNum: 43]Design // Information // Manufactured aid // To // Decision Making // Practitioner // Obstetrical // Appropriate // care activity // Gynecologic // 
-[sentNum: 44]Negation // Guidelines // Course // Exclusive // Interventional procedure // Therapeutic procedure // 
-[sentNum: 45]Within // Variant // Base - General Qualifier // Practice Experience // Patient need for (contextual qualifier) // Persons // Limitation // Resources // Health care facility // Unique // Practice Experience // Type - attribute // 
-[sentNum: 46]controversy // 
-[sentNum: 47]Table - furniture // Current (present time) // Outlines (document) // Guidelines // Screening procedure // Organization administrative structures // Major medical // 
-[sentNum: 48]College // American College of Obstetricians and Gynecologists // Inclusion // Continuous // strategy // Three // Screening procedure // Malignant neoplasm of breast // 
-[sentNum: 49]Screening mammography // 
-[sentNum: 50]Mammography // Indication of (contextual qualifier) // 
-[sentNum: 51]Neoplasm // Early // Detection // Small // Phase // More // Entire breast // Treated with // Probably // per year // In addition to // Localized // Continuance of life // &lt;3 (qualifier value) // N-(1-oxyl-2,2,5,5-tetramethyl-3-pyrrolidinyl)maleimide // 
-[sentNum: 52]year // Post // One // Follow-Up Studies // Present // Initially // Less Than // Neoplasm // Primary operation // Cure (remedy) // Axilla // Mastectomy // 
-[sentNum: 53]Confirmation // Scientific Study // In addition to // Result // Patients // &lt;90 // per year // Experience // Disease-Free Survival // Long // Neoplasm // Period (temporal qualifier) // Less Than // Measured // Mammography // Detection // Neoplasm // Probability // Neoplasm Metastasis // Negation // Treated with // Diagnosis // 
-[sentNum: 54]estimation &lt;subjective> // Mathematics // Ductal Breast Carcinoma // Usual // Population Mean // Constant (qualifier) // Temporal periods of day // Doubling // year // Presentation // size // Palpable // 
-[sentNum: 55]Mass of body structure // Screening mammography // Approximate // Measured // Phase // Preclinical // Palpable // 
-[sentNum: 56]concept // To // Referral placed // Time // Sojourn // Primary malignant neoplasm // Time Interval // Aspects of disease screening // Detection // Symptomatic // 
-[sentNum: 57]Sojourn // Individual // Time // Primary malignant neoplasm // Type - attribute // More // Varies // Aggressive course // biological // Short Value // Neoplasm // Time // Sojourn // 
-[sentNum: 58]Predictor // Greater // Time // Sojourn // Appearance // Malignant neoplasm of breast // Age // To // 
-[sentNum: 59]Population Mean // Estimated // Time // Sojourn // Female Breast Carcinoma // Preposition For // Age // Increase // Population Mean // year // year // Sojourn // 2/5 // year // Arabic numeral 69 // year // 3/5 // year // year // year // year // 
-[sentNum: 60]Population Mean // Time // Sojourn // Detected (finding) // Screening for malignant neoplasm of breast // Sojourn // Neoplasm // Period (temporal qualifier) // 
-[sentNum: 61]Individual // Type - attribute // Probably // Short Value // Primary malignant neoplasm // Time // Sojourn // Probably // More // Frequent // Benefits // Comparison // Aspects of disease screening // Neoplasm // Slow // Preclinical // Largest // Interval // 
-[sentNum: 62]Aspects of disease screening // Design // Egypt // Probability // To // Primary malignant neoplasm // Detected (finding) // Interval // Preclinical // Largest // treatment options // Better // Result // 
-[sentNum: 63]Mammography // Evaluation // 
-[sentNum: 64]Meta-Analysis (publications) // Recent // United States // Behavior // Advisory Committees // Preventive service healthcare // Eight // Review [Publication Type] // Within // Randomized Controlled Trials as Topic // Screening mammography // 
-[sentNum: 65]Study // Scientific Study // Limitation // Fair (qualifier) // Rating (action) // United States // Quality // Advisory Committees // Preventive service healthcare // Reduction - action // Act Class - review // Relationships // Malignant neoplasm of breast // Arabic numeral 69 // 
-[sentNum: 66]Table - furniture // 
-[sentNum: 67]Recommendation // Screening for malignant neoplasm of breast // 
-[sentNum: 68]Clinical // Mammography // Awareness // Breast self-examination technique education // 
-[sentNum: 69]Age-Years // American College of Obstetricians and Gynecologists // Old age // /40 // year // Annual // year // 1+ Score, WHO // /40 // Age // Annual // Old // High risk of // consider // Recommendation // Patients // 
-[sentNum: 70]Age-Years // American Cancer Society // Old age // /40 // year // Annual // year // 1+ Score, WHO // Age-Years // Optional // Recommendation // Old age // 
-[sentNum: 71]year // /40 // Annual // Old age // 
-[sentNum: 72]/40 // National Comprehensive Cancer Network // Old age // year // year // Annual // year // 1+ Score, WHO // Recommendation // Recommendation // 
-[sentNum: 73]/40 // Age-Years // Annual // Old age // 
-[sentNum: 74]/40 // National Cancer Institute // Old // year // year // Phase I/II Trial // Negation // Recommendation // Recommendation // 
-[sentNum: 75]United States // Advisory Committees // Preventive service healthcare // Insufficient (qualifier) // Age-Years // Negation // Evidence of // Recommendation // 
-[sentNum: 76]Aspects of disease screening // 
-[sentNum: 77]Mortality Vital Statistics // Consistent with // Meta Analysis (statistical procedure) // Previous // 18/22 // 
-[sentNum: 78]Relative Risk // Mortality Vital Statistics // Malignant neoplasm of breast // Aspects of disease screening // Woman // Age // Woman // Woman // year // year // Age // Woman // Arabic numeral 68 // Arabic numeral 69 // Age // year // 
-[sentNum: 79]Evidence of // Mortality Vital Statistics // Insufficient (qualifier) // Woman // Reduction - action // year // Age // Table - furniture // Old // 
-[sentNum: 80]Malignant neoplasm of breast // increasing incidence // Age // Woman // Young // More // Age-Years // Woman // Aspects of disease screening // To // One // PREVENT (product) // Relationships // Malignant neoplasm of breast // Comparison // Cessation of life // Woman // Old // Table - furniture // 
-[sentNum: 81]Numbers // Aspects of disease screening // Needs // Round shape // Over (spatial) // And // Aspects of disease screening // Follow-up status // year // PREVENT (product) // To // Malignant neoplasm of female breast // One // 1+ Score // year // Woman // Comparison // year // Age // 
-[sentNum: 82]Delta (difference) // This // Needs // Numbers // PREVENT (product) // Aspects of disease screening // Cessation of life // One // United States // Indication of (contextual qualifier) // Advisory Committees // Preventive service healthcare // Recommendation // Negation // Aspects of disease screening // Routine // year // Woman // Mortality Vital Statistics // Similarity // Arabic numeral 23 // Reduction - action // 
-[sentNum: 83]Research Design // Delta (difference) // Evaluation // Clinical Trials, Randomized // Randomized Controlled Trials as Topic // Aspects of disease screening // Providing (action) // Negation // Comparison // Meaning // Aspects of disease screening // Different // Term (temporal) // strategy // Cognitive function: initiation // Age // Frequencies (time pattern) // 
-[sentNum: 84]Lacking // Evidence of // Clear // Light Emitting Diode Device Component // Problem // Preventive service healthcare // United States // Surgical construction // Advisory Committees // Model // Aspects of disease screening // Different // Comparison // Helping Behavior // strategy // National citizen // Professional guide // Recommendation // Aspects of disease screening // 
-[sentNum: 85]Model // Six // Independence // Created By // Part of // Groups // Intervention regimes // National Cancer Institute // Consortium or Network // Surveillance Modeling // 
-[sentNum: 86]Creation // Model // shared attribute // Use of // Age // Set scale // Variable (uniformity) // Specific qualifier value // objective (goal) // In addition to // Screening - procedure intent // Efficient // Gain // strategy // Reduction - action // Mortality Vital Statistics // Life // Gain // Additional // year // Screening mammography // 
-[sentNum: 87]Aspects of disease screening // Seven // Use of // Aspects of disease screening // Eight // Present // strategy // Efficient // To // Mortality Vital Statistics // Reduced // Six // And // strategy // Eight // Beginning // Screening - procedure intent // Age-Years // 
-[sentNum: 88]Act Class - review // Conclude Resin // strategy // % live // More // Extent // Commit Operation // Woman // Aspects of disease screening // Arabic numeral 69 // Old // Extent // year // Woman // Aspects of disease screening // /40 // Age // year // 
-[sentNum: 89]Benefits // Life // Numbers // Gain // year // Aspects of disease screening // Aspects of disease screening // /40 // Age Started // Within // year // Eight // Four // strategy // 
-[sentNum: 90]annual screening // strategy // Efficient // Malignant neoplasm of breast // Reduced // Increasing // Mortality Vital Statistics // year // Life // Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider} // Gain // More // Journalist // Resources // 
-[sentNum: 91]Imaging Techniques // 
-[sentNum: 92]Accepted // Ultrasonography // Evaluation procedure // Imaging Techniques // 
-[sentNum: 93]CDISC SDTM Evaluator Terminology // utilization qualifier // Mammography finding // Inconclusive (qualifier value) // Patients // Young // Woman // Other // Breast tissue sample // Dense // Tissue Specimen Code // Guide device // Method of biopsy // Core needle biopsy // Well Differentiated // And // Cyst // Mass of body structure // Solid // 
-[sentNum: 94]Negation // Disease Screening // Recommendation // Preposition For // Diagnostic Radiology Modality // Average // Woman // Malignant neoplasm of breast // Risk // 
-[sentNum: 95]Options // Ultrasonography // Disease Screening // Additional // Woman // Present // Magnetic Resonance Imaging // High risk of // Disease Screening // 
-[sentNum: 96]Table - furniture // 
-[sentNum: 97]Relative Risk // Pooled Sample // Mortality Vital Statistics // Malignant neoplasm of breast // Screening mammography // From // Age // Clinical Trials // 
-[sentNum: 98]1+ Score, WHO // PREVENT (product) // 
-[sentNum: 99]death age // Malignant neoplasm of breast // 
-[sentNum: 100]Including (qualifier) // Clinical Trials // Mortality Vital Statistics // N not otherwise specified Antibody // Costa Rica // Costa Rica // 
-[sentNum: 101]
-[sentNum: 102]
-[sentNum: 103]Arabic numeral 68 // Arabic numeral 69 // 
-[sentNum: 104]Not available // 1+ Score, WHO // 
-[sentNum: 105]Costa Rica // Abbreviations // Data Type Interval // credibility // Needs // Numbers // Relative Risk // Trial Screening // year // 
-[sentNum: 106]health insurance plan // New York (geographic location) // Largest // National citizen // CANADIAN // Screening Study // Entire breast // Two // Swedish // Clinical Trials // County // Clinical Trials // 2+ Score // Age // Clinical Trials // Clinical Trials // 
-[sentNum: 107]CANADIAN // Entire breast // National citizen // Swedish // Screening Study // County // Two // 2+ Score // Clinical Trials // Clinical Trials // 
-[sentNum: 108]Clinical Trials // 
-[sentNum: 109]Two // Swedish // Clinical Trials // County // 
-[sentNum: 110]Two // Swedish // Clinical Trials // County // 
-[sentNum: 111]Authorization documentation // Reprint // KNG1 gene // K Prime // Trial Screening // 
-[sentNum: 112]Malignant neoplasm of breast // United States // Update // Advisory Committees // Preventive service healthcare // 
-[sentNum: 113]Intern // 
-[sentNum: 114]Negation // Magnetic Resonance Imaging // Receive // Contrast // Gadolinium // Claustrophobia // History of allergies // BARRIER // 
-[sentNum: 115]Magnetism // Mammography // diagnostic use // Duration (temporal concept) // Financial cost // Contrast Media // Injection of therapeutic agent // geographic population // Prohibit // 
-[sentNum: 116]Problem // American Cancer Society // Use of // Guideline [Publication Type] // Preposition For // Magnetic Resonance Imaging // High risk of // Disease Screening // Female Breast Carcinoma // Woman // Including (qualifier) // Risk // Woman // 
-[sentNum: 117]
-[sentNum: 118]Known // BRCA2 Gene Mutation // 
-[sentNum: 119]
-[sentNum: 120]BRCA2 Gene Mutation // Testing // Negation // Self // 
-[sentNum: 121]
-[sentNum: 122]Lifetime Risk // Largest // Malignant neoplasm of breast // Scientific Equipment // Risk Assessment // Family History Domain // Base - General Qualifier // 
-[sentNum: 123]
-[sentNum: 124]To // History of radiation therapy // Age-Years // Anterior thoracic region // year // 
-[sentNum: 125]
-[sentNum: 126]Genetic syndrome // Lithium Cation // Including (qualifier) // Hamartoma Syndrome, Multiple // Syndrome // One // Ruvalcaba Syndrome // First Degree Relative // Adverse Event Associated with Syndromes // 
-[sentNum: 127]Conclude Resin // Laboratory Order Panels // Evidence of // Insufficient (qualifier) // Magnetic Resonance Imaging // Recommendation // Preposition For // Aspects of disease screening // Personal Attribute // Woman // Carcinoma in Situ // History of malignant neoplasm of breast // Mammographic breast density // Atypical hyperplasia // 
-[sentNum: 128]Negation // Multisection:Finding:Point in time:Breast:Narrative:MRI // Aspects of disease screening // Recommendation // At risk // Woman // Malignant neoplasm of breast // Average // 
-[sentNum: 129]Computers // Ultrasonography, Doppler, Color // Detection // Helping Behavior // Digital breast tomosynthesis // Positron-Emission Tomography // promise // Show // Clinical // Choose (action) // Mammography // To // Breast Carcinoma // 
-[sentNum: 130]Negation // Romania // consider // Mammography // Tines // 
-[sentNum: 131]Digital Mammography // 
-[sentNum: 132]Digital // Diagnostic Imaging // Mammography finding // Reporting // Screening Study // 
-[sentNum: 133]per year // 2+ Score // Period (temporal qualifier) // Study // Study // Woman // Site // From // Canada // United States // 
-[sentNum: 134]Digital Mammography // Participant // Randomization // Film Mammography // Order (arrangement) // 
-[sentNum: 135]Diagnostic Accuracy // film (photographic) // Digital Mammography // Entire // Similarity // geographic population // 
-[sentNum: 136]Digital Mammography // film (photographic) // Upper // Woman // Mammography // year // Young // Dense // Woman // Pauses:Number = Count/Time:Duration of the study:Heart:Quantitative:EKG // Dense breasts NOS // Woman // Perimenopausal // 
-[sentNum: 137]Reporting // research outcome // 
-[sentNum: 138]Screening - procedure intent // Clinical Trials, Randomized // Full field // film (photographic) // Population Programs // Digital Mammography // Disease Screening // Base - General Qualifier // Age // Woman // Mammography // Woman // Digital Mammography // N not otherwise specified Antibody // N not otherwise specified Antibody // 
-[sentNum: 139]Woman // Cancer Detection // Women's Groups // P Blood group antibodies // Mammography // Population Group // 
-[sentNum: 140]Recent // Data // Meta-Analysis (publications) // Large // Eight // Scientific Study // Randomization // Overall Publication Type // Present // Mammography // Digital // Value Above Reference Range // Slightly // Rating (action) // Detection // Woman // Film Mammography // year // Age // Young // 
-[sentNum: 141]Clinical // Recommendation // consideration // 
-[sentNum: 142]Breast Self-Examination // Menopause // Self awareness // Entire breast // Effectiveness // Screening procedure // 
-[sentNum: 143]Performance // Breast Self-Examination // Breast // Nation // Consistent with // Present // Persons // systematic // Basis - conceptual entity // Regular // Monthly (qualifier value) // 
-[sentNum: 144]Physicians // CTSE gene // ethylene diurea // Performed // Patients // Focal // prevention through information dissemination // Intervention regimes // 
-[sentNum: 145]Appropriate // High Risk Populations // Certain (qualifier value) // Woman // And // To // Choose (action) // Approach // Followed by // 
-[sentNum: 146]Biological Evolution // Current (present time) // concept // Educational process of instructing // Awareness // Self-Examination // 
-[sentNum: 147]American Cancer Society // College // Self awareness // Entire breast // Normal appearance (finding) // Nes (fish) // Breast // Emotions // 
-[sentNum: 148]Approximate // concept // Half // One // Old // Case unit dose // Case unit dose // Within // Detection // year // FRZB gene // Woman // 
-[sentNum: 149]Self Efficacy // Add - instruction imperative // Science of Statistics // Wiskott-Aldrich Syndrome // 
-[sentNum: 150]Self awareness // Entire breast // Breast Self-Examination // Include (action) // 
-[sentNum: 151]desires // Woman // Performed // To // Examination of breast // Self awareness // strategy // Part // Techniques // Appropriate // Examination by method // Negation // 
-[sentNum: 152]Reporting // Woman // Health Personnel // Breast changes // 
-[sentNum: 153]strategy // Respiratory Therapist, Registered - Patient Education // Study Start Date // Negation // Awareness // Entire breast // Part of // Exist // strategy // Screening procedure // Negative Finding // Woman // Clinical Breast Examination // Mammography // Exclusion // Experimental Result // Malignant neoplasm of breast // Pressure- physical agent // 
-[sentNum: 154]Case unit dose // New // Screening procedure // Primary malignant neoplasm // Entire breast // Interval // Prompt // Self awareness // Negation // Woman // Reporting // Deferred // Base - General Qualifier // Breast changes // Group reassurance // False Negative Result Medical Device Problem // Screening procedure // Recent // 
-[sentNum: 155]Self awareness // Entire breast // To // Aim (idea) // Detection // subscriber - self // Symptom Evaluation // Prompt // Overall Publication Type // Relate - vinyl resin // morbidity aspects // Malignant neoplasm of breast // Mortality Vital Statistics // 
-[sentNum: 156]Effect // Self awareness // Entire breast // Negation // Educational Status // Study // 
-[sentNum: 157]Recommendation // Breast Self-Examination // education evaluation // Arabic numeral 23 // 
-[sentNum: 158]CER tumor staging notation // Regular // Woman // Detection // Breast Self-Examination // subscriber - self // Arabic numeral 31 // Breast self-examination technique education // Receive // Follow-Up Report // In addition to // Screening for malignant neoplasm of breast // No Information Available // Delta (difference) // Reporting // Relationships // Malignant neoplasm of breast // Cessation of life // 
-[sentNum: 159]
-[sentNum: 160]Review, Systematic // Including (qualifier) // Scientific Publication // Clinical Trials // Entire breast // Population Based Study // Large // Breast Self-Examination // Russia // Intervention regimes // 
-[sentNum: 161]Clinical Trials // Biopsy // Twice (Numerical Qualifier) // Experimental Result // Benign // Screening procedure // Performed // Control Groups // Population Group // 
-[sentNum: 162]Advisory Committees // CANADIAN // Recommendation // preventive health care // Breast Self-Examination // Educational process of instructing // Fair (qualifier) // Base - General Qualifier // Breast Self-Examination // Evidence of // Good // Benefits // Evidence of // 
-[sentNum: 163]Act Class - review // Evidence of // Additional // Practice Experience // Patients // Worried // Increase // Mental Depression // Anxiety // Breast Self-Examination // Associated with // 
-[sentNum: 164]Mammography // Screening procedure // False Negative // Clinical Breast Examination // Woman // Primary malignant neoplasm // Primary malignant neoplasm // Woman // 
-[sentNum: 165]Primary malignant neoplasm // College // Educational process of instructing // Consortium or Network // Elderly (population group) // Woman // Old // year // Self awareness // Entire breast // 
-[sentNum: 166]Screening for cancer // Clinical // 
-[sentNum: 167]Frequent // Somalia // Performed // 
-[sentNum: 168]Use of // National citizen // Data // early detection of cervical cancer // Entire breast // Clinical Breast Examination // Program // Community // Performed // Woman // {Setting} // /40 // Elderly (population group) // Old // year // Clinical Breast Examination // Conclude Resin // Cancer Detection // alone - group size // Specificity // In addition to // 
-[sentNum: 169]Five // Population Group // Primary malignant neoplasm // Case unit dose // Clinical Breast Examination // Detection // Formed // 
-[sentNum: 170]Physical findings // Abnormal Reference Range // Entire breast // Normal // Mammography // Primary malignant neoplasm // Case unit dose // Screening procedure // Detection // 
-[sentNum: 171]Conclude Resin // Journalist // Clinical // Add - instruction imperative // Better // Examination of breast // Early Diagnosis // 
-[sentNum: 172]Numerous // Supportive assistance // Review [Publication Type] // Clinical // Combined // Mammography // Examination of breast // Screening for malignant neoplasm of breast // 
-[sentNum: 173]Study // Statistical sensitivity // Better // Comparison // Breast Cancer Detection Research // In addition to // Mammography // Mammography // Clinical Breast Examination // alone - group size // 
-[sentNum: 174]False Discovery Rate // Population Group // Value Above Reference Range // Clinical Breast Examination // Receive // Single Group Study // Mammography // 
-[sentNum: 175]Availability of // Base - General Qualifier // College // Evidence of // National Comprehensive Cancer Network // American Cancer Society // Examination of breast // Recommendation // Annual // Performed // Elderly (population group) // Woman // year // /40 // Old // 
-[sentNum: 176]Numerical value // Clinical // Aspects of disease screening // Preposition For // Examination of breast // Low Prevalence // Woman // Woman // Malignant neoplasm of breast // year // Elderly (population group) // Clear // Negation // American Cancer Society // College // Continuous // National Comprehensive Cancer Network // Recommendation // To // Female breast // Clinical // 1+ Score // Nation // year // 
-[sentNum: 177]Mammography // Frequent // Beginning // Performed // Mammography // 
-[sentNum: 178]incidence of cases // Base - General Qualifier // Sojourn // Malignant neoplasm of breast // Malignant neoplasm of breast // Time // Potential // growth aspects // Cancer Death Rate // Reduction mammaplasty // Recommendation // College // Age // Woman // year // /40 // Offered // Old // Mammography // Disease Screening // Annual // 
-[sentNum: 179]Screening Tests // Educational process of instructing // Woman // False Negative Result Medical Device Problem // Predictive Value // 
-[sentNum: 180]Informed // Woman // Additional // Potential // Biopsy // Imaging Techniques // Base - General Qualifier // Recommendation // Growth Inhibition Screening Result // 
-[sentNum: 181]Physicians // Patients // Work // Disease Screening // best (quality) // Valine // Risk // Woman // Undifferentiated (Embryonal) Sarcoma // More // Disease Screening // Acceptable // Appropriate // strategy // 
-[sentNum: 182]Average // Woman // Risk // Maintenance // Disease Screening // Disease Screening // Most // Woman // Testing // annual screening // 
-[sentNum: 183]Various patch test substance // Offered // Population Group // Timing // Recommendation // Frequencies (time pattern) // Initiation // Aspects of disease screening // 
-[sentNum: 184]Population Group // Change values // Place // Scientific Publication // consideration // Cost Effectiveness // Evidence of // Accurate (qualifier) // Efficiency // Statistical sensitivity // Specificity // False Negative Result Medical Device Problem // False Positive // Compliance behavior // Positive Predictive Value of Diagnostic Test // health care resources // Availability of // Needs // Health Care // Advocate (person) // Expert Opinion // 
-[sentNum: 185]Recommendation // Summary (document) // Table - furniture // Present // 
-[sentNum: 186]National Comprehensive Cancer Network // American Cancer Society // annual screening // Recommendation // Beginning // Mammography // /40 // Age-Years // 
-[sentNum: 187]United States // Contrast // Advisory Committees // Preventive service healthcare // Changing // Recent // MEND ashed powder // Guideline [Publication Type] // Woman // Mammography // year // Elderly (population group) // 
-[sentNum: 188]Woman // Routine // Negation // year // Advisory Committees // Recommendation // Woman // Aspects of disease screening // year // Young // Patient Base // Individualized // Specific qualifier value // Values // Arabic numeral 23 // Benefits // 
-[sentNum: 189]National Comprehensive Cancer Network // American Cancer Society // Preventive service healthcare // United States // Agree // Advisory Committees // Relationships // Screening mammography // Elderly (population group) // Female Breast Carcinoma // year // /40 // Base - General Qualifier // Old // Availability of // Meta Analysis (statistical procedure) // Screening mammography // Randomized Controlled Trials as Topic // Table - furniture // Vision // 
-[sentNum: 190]Preventive service healthcare // United States // Arrival - action // Advisory Committees // Conclusion // Different // Aspects of disease screening // Routine // Place // Woman // Weight // Greater // Lower - spatial qualifier // Upon - dosing instruction fragment // Population Group // disorder prevalence // Mammography // Positive Predictive Value of Diagnostic Test // Numbers // Increase // To // Needs // To // Screening - procedure intent // One // PREVENT (product) // Relationships // Malignant neoplasm of breast // Cessation of life // 
-[sentNum: 191]Add - instruction imperative // Preventive service healthcare // United States // Woman // Advisory Committees // Screening for malignant neoplasm of breast // Within // False Positive // Practice Experience // High // Mammography // Status post // Woman // Aspects of disease screening // year // Diagnostic Imaging // Additional // psychological distress // Biopsy // 
-[sentNum: 192]Additional // Burden // Perception // Laboratory Procedures // Woman // Greater // /40 // Elderly (population group) // Less Than // year // Practice Experience // Probably // Less Than // Malignant neoplasm of breast // Benefits // Probably // Arabic numeral 23 // Aspects of disease screening // 
-[sentNum: 193]Disease Response // Within // HERPUD1 gene // Programming Parameter // Routine // Data Port // Woman // Aspects of disease screening // Note:Finding:Point in time:{Setting}:Document:Nursing // /40 // Primary malignant neoplasm // incidence of cases // /40 // Less Than // Human Age Group // per year // Old // Woman // incidence of cases // year // Within // Primary malignant neoplasm // 1+ Score // Woman // Negation // Integer +2 // Within // High // /40 // Woman // Arabic numeral 69 // 1+ Score // Integer +2 // 1+ Score // 
-[sentNum: 194]Woman // Add - instruction imperative // Screening mammography // Routine // parable // /40 // Reduction - action // Mortality Vital Statistics // Woman // Comparison // Screening mammography // Routine // Reduction - action // Reduction - action // 
-[sentNum: 195]per year // Each (qualifier value) // Malignant neoplasm of breast // United States // Woman // Diagnosis // year // Young // 
-[sentNum: 196]Aspects of disease screening // Frequencies (time pattern) // Preventive service healthcare // United States // Recommendation // Advisory Committees // Base - General Qualifier // Decision // Aspects of disease screening // National Cancer Institute // Prediction // Model // Aspects of disease screening // Within // Reduction - action // Mortality Vital Statistics // Aspects of disease screening // Main // 
-[sentNum: 197]strategy // This // Experimental Result // Positive Finding // Arabic numeral 23 // 
-[sentNum: 198]Model Number // Annual // Aspects of disease screening // strategy // Anterior // Aspects of disease screening // Within // 
-[sentNum: 199]Consequence of // Potential // Screening mammography // 
-[sentNum: 200]Potential // Malignant neoplasm of breast // Result // Mammography // Screening - procedure intent // False Positive // include - SetOperator // False Negative // gram // overdiagnosis // Mammography // 
-[sentNum: 201]Risk // Concern // Egypt // Exposure to radiation // Exposure to radiation // Malignant neoplasm of breast // Improvement // Decreased // Technology // Techniques // Experience // Clinical // 
-[sentNum: 202]Mammography // False Positive // Further // Congenital Abnormality // Verification // Evaluation // Negation // Lesion // Continuous // Primary malignant neoplasm // Concern // 
-[sentNum: 203]False Positive // Diagnostic Mammography // Screening mammography // Ultrasonography // View // Case unit dose // biopsy characteristics // Reaching // Attempt // Diagnostic Accuracy // 
-[sentNum: 204]Treatment/Psychosocial Effects // Aspects of disease screening // Consequence of // Distress // Anxiety // Reviewed // Identified // % live // Short // Severe (severity modifier) // Negation // 
-[sentNum: 205]Evaluation // Scientific Study // False Positive // Effect // Woman // suggestion // High // United States // False Positive // Tolerant // Woman // Mammography // False Positive // Experience // More // Mammography // Woman // Probably // Immobile // Normal result // Aspects of disease screening // Routine // Future // 
-[sentNum: 206]Woman // More // False Positive // Anxiety // Probably // Pathologic // Malignant neoplasm of breast // Disease classification level // 
-[sentNum: 207]Factor // Woman // Increase // Malignant neoplasm of breast // Relative Risk // 
-[sentNum: 208]Female Breast Carcinoma // Most // Nose // Invasive // Unique // Negation // Act Code - risk factors // Identified // Certain (qualifier value) // Woman // Increase // Characteristics // Malignant neoplasm of breast // Prevalence aspects // General Population // Comparison // 
-[sentNum: 209]Malignant neoplasm of breast // Incidence // Advance // Increase // Integer +2 // Age // 
-[sentNum: 210]High risk of // Woman // To // Patient need for (contextual qualifier) // Increase // Counsel - legal // Reduction mammaplasty // Medical Surveillance // Physicians // Cancer Risk // Assessed // Periodic // Risk // Malignant neoplasm of breast // 
-[sentNum: 211]Risk Assessment // Act Mood - Goal // Risk // Woman // Average // Levels (qualifier value) // High // Age // High risk of // 
-[sentNum: 212]Risk Assessment // Used by // Negation // consider // To // Disease Screening // Woman // Age // Appropriate // Disease Screening // Enhance (action) // Magnetic Resonance Imaging // Add - instruction imperative // More // Screening procedure // Clinical Breast Examination // Frequent // strategy // Risk Reduction // 
-[sentNum: 213]Risk // Reproductive History // 
-[sentNum: 214]Entire breast // Certain (qualifier value) // Risk // CER tumor staging notation // Age at menarche // Including (qualifier) // First Birth // Age // Parity:Number:Point in time:^Patient:Quantitative:Reported // Breast Feeding // Table - furniture // Age at menopause:Time:Point in time:^Patient:Quantitative // 
-[sentNum: 215]REPRODUCTIVE // Numbers // Age // year // Lower - spatial qualifier // First Birth // Nulliparity // Parity:Number:Point in time:^Patient:Quantitative:Reported // Malignant neoplasm of breast // Increase // Risk // 
-[sentNum: 216]Familial risk factor // 
-[sentNum: 217]Entire breast // consideration // Family history // Assessment for risk of cancer // Malignant neoplasm of breast // Case unit dose // Malignant neoplasm of prostate // Malignant neoplasm of ovary // Type - attribute // Other relative // parent // Degree or extent // Child // Sibling - RoleCode // Age // Second Suffix // Malignant Neoplasms // member // 
-[sentNum: 218]Woman // Base - General Qualifier // consideration // Evaluation // 
-[sentNum: 219]Table - furniture // 
-[sentNum: 220]Factor // Relative Risk // Increase // Woman // Malignant neoplasm of breast // 
-[sentNum: 221]Factor // Relative Risk // 
-[sentNum: 222]Woman // 
-[sentNum: 223]Age // Risk // Arabic numeral 65 // Age // Increase // Breast Cancer, Familial // Definitely Related to Intervention // Mutation // 
-[sentNum: 224]BRCA2 gene // 
-[sentNum: 225]More // Two // Malignant neoplasm of breast // Number of First Degree Relatives (Affected) // Early // Diagnosis // Social and personal history // Age // Cancer confirmed // Atypical hyperplasia of breast // Body tissue // Abnormally high // Biopsy // density // 
-[sentNum: 226]First Degree Relative // One // Malignant neoplasm of breast // With - dosing instruction fragment // Bone Density // High-LET Radiotherapy // Postmenopausal state // 
-[sentNum: 227]Factor // Affect (mental function) // 
-[sentNum: 228]Early menarche // year // 
-[sentNum: 229]Circulating // Late // Hormones // Arabic numeral 55 // Menopause // Full Term finding // year // Never (frequency) // Pregnancy // Recent // Offspring // Recent // ORAL CONTRACEPTIVE INGESTION // Use of // Long-term // Estrogens // 
-[sentNum: 230]Progestins // Postmenopausal state // Obesity // 
-[sentNum: 231]Factor // Other Personal Medical History // Endometrial // Personal Attribute // Alcohol consumption // Malignant neoplasm of ovary // Precursor T-Cell Lymphoblastic Leukemia-Lymphoma // Height // Socioeconomic Status // Abnormally high // Heritage // Ashkenazi Jew, follower of religion // 
-[sentNum: 232]Authorization documentation // Reprint // American Cancer Society // 
-[sentNum: 233]Malignant neoplasm of breast // 2010s // 
-[sentNum: 234]Atlanta // American Cancer Society // 
-[sentNum: 235]Adapt (substance) // Moorman // Authorization documentation // Prostaglandin measurement // 
-[sentNum: 236]Malignant neoplasm of breast // risk factors // Hormones // 
-[sentNum: 237]
-[sentNum: 238]Discussion (procedure) // 1+ Score, WHO // 
-[sentNum: 239]
-[sentNum: 240]Breast // Hereditary // Syndrome // Malignant neoplasm of ovary // 
-[sentNum: 241]Factor // Combined // 
-[sentNum: 242]Risk Assessment // Gail Risk Model // utilization qualifier // Scientific Equipment // Age // Patients // Limited (extensiveness) // Reproductive History // Malignant neoplasm of breast // Family history // Woman // Number of First Degree Relatives (Affected) // Biopsy of breast // History of previous events // &gt;5 // Estimated // Lifetime Risk // per year // Malignant neoplasm of breast // 
-[sentNum: 243]Model // Woman // Caucasoid Race // African American // Study // Woman // 
-[sentNum: 244]Assessed // /minute // Complete // Internet // Availability of // RAB3D gene // Primary malignant neoplasm // 
-[sentNum: 245]Estimated // Woman // A 7 // To // Malignant neoplasm of breast // per year // Greater // Risk // Average // Equal // Offered // Greater // Aspects of disease screening // Enhance (action) // Clinical Breast Examination // Including (qualifier) // per year // month // Educational process of instructing // Mammography // subscriber - self // Entire breast // 
-[sentNum: 246]Negation // Gail Risk Model // Risk Assessment // Good // Strong // Scientific Equipment // Present // Family history of breast cancer // Mother (person) // Woman // Patients // Sister // Malignant neoplasm of breast // Family history of cancer // Malignant neoplasm of ovary // Egypt // 
-[sentNum: 247]Negation // Multisection:Finding:Point in time:Breast:Narrative:MRI // Base - General Qualifier // MEND ashed powder // Gail Risk Model // 
-[sentNum: 248]Disease Screening // Woman // Appropriate // High risk of // 
-[sentNum: 249]BRCA2 gene // Disease Screening // Enhance (action) // Annual // Recommendation // Annual // Nation // Annual // Mammography // Self-Examination // Multisection:Finding:Point in time:Breast:Narrative:MRI // 
-[sentNum: 250]Management procedure // Details // Mutation // Woman // 
-[sentNum: 251]Entire breast // Hereditary // Syndrome // Ovarian Carcinoma // 
-[sentNum: 252]Degree or extent // Woman // Management procedure // Relative (related person) // Carrying // aldosterone secretion inhibitory factor // Mutation // 
-[sentNum: 253]Woman // To // Estimated // Malignant neoplasm of breast // Lifetime Risk // Base - General Qualifier // Largest // Model // Risk // BRCAPRO // Family history // Negative // Testing // Mutation // brca gene // Enhance (action) // Offered // described // Disease Screening // Mutation Carrier // 
-[sentNum: 254]Risk Reduction // consider // strategy // Woman // 
-[sentNum: 255]Woman // High risk of // consider // Case unit dose // Future // Receive // Malignant neoplasm of breast // Therapeutic procedure // Therapeutic radiology procedure // Age-Years // Lymphoma // year // 
-[sentNum: 256]Woman // Receive // To // Mammography // Annual // Magnetic Resonance Imaging // Annual // Clinical Breast Examination // Disease Screening // month // Distance vision 6/12 // year // Beginning // Therapeutic procedure // Receive // Occurrence // Age-Years // Last // 
-[sentNum: 257]Social and personal history // Female breast // High risk of // Carcinoma in Situ // Including (qualifier) // Increase // are unit of measure // Future // Risk // Malignant neoplasm of breast // 
-[sentNum: 258]Woman // Enhance (action) // Receive // Including (qualifier) // Screening procedure // Mammography // Annual // Distance vision 6/12 // Clinical Breast Examination // Educational process of instructing // month // Organization administrative structures // Woman // 
-[sentNum: 259]Personal Attribute // Woman // Ductal // H/O: carcinoma // Invasive Breast Carcinoma // In situ // Anti-Mullerian Hormone Receptor Type II // Preventive monitoring // 
-[sentNum: 260]Age // Upper // Risk // Range // Mammography // 
-[sentNum: 261]Recommendation // Negation // Problem // Exist // 
-[sentNum: 262]Medical // Life Expectancy // Comorbidity // Screening for malignant neoplasm of breast // consider // Woman // Program // year // Old age // Benefits // Old // Decrease // Screening mammography // Advance // Comparison // Age // 
-[sentNum: 263]Woman // year // Old age // Within // Old // Physicians // Consultation // Continuous // Negation // Disease Screening // 
-[sentNum: 264]Increasing // Invasive // Mortality Vital Statistics // Racial group // Malignant neoplasm of breast // &lt;3 (qualifier value) // Age-Years // 
-[sentNum: 265]Mammography // Most // Upper // Trial Screening // Limited (extensiveness) // Age // Range // criteria // year // year // 
-[sentNum: 266]Conclude Resin // Meta-Analysis (publications) // Woman // Screening mammography // year // Old age // Cost Effectiveness // Moderation // Increase // Small // Life Expectancy // 
-[sentNum: 267]Summary (document) // Conclusion // Recommendation // 
-[sentNum: 268]Recommendation // Following // PDLIM5 gene // Base - General Qualifier // Science // Inconsistent // Levels (qualifier value) // Evidence of // 
-[sentNum: 269]incidence of cases // Base - General Qualifier // Sojourn // Malignant neoplasm of breast // Malignant neoplasm of breast // Time // Potential // growth aspects // Malignant neoplasm of breast // Reduction - action // College // Mortality Vital Statistics // Woman // Recommendation // /40 // Old age // Old // year // Aspects of disease screening // Offered // Annual // Mammography // 
-[sentNum: 270]Expert Opinion // Consensus // 
-[sentNum: 271]Performed // Clinical Breast Examination // Woman // Annual // /40 // Old age // Old // year // 
-[sentNum: 272]Old age // Woman // Clinical Breast Examination // year // 1+ Score // Recommendation // year // 
-[sentNum: 273]Entire breast // Include (action) // Self awareness // Breast Self-Examination // 
-[sentNum: 274]Woman // Breast changes // Report (document) // Health Personnel // 
-[sentNum: 275]Woman // Predictive Value // Educational process of instructing // Potential // Screening mammography // False Negative Result Medical Device Problem // False Positive // 
-[sentNum: 276]Informed // Woman // Potential // 
-[sentNum: 277]
-[sentNum: 278]
-[sentNum: 279]
-[sentNum: 280]
-[sentNum: 281]
-[sentNum: 282]
-[sentNum: 283]Age // 1+ Score // Fig Flavor // 
-[sentNum: 284]incidence of cases // Female Breast Carcinoma // Age // Death Rate // United States // Racial group // 
-[sentNum: 285]incidence of cases // Data // North American Association of Central Cancer Registries // 
-[sentNum: 286]Mortality Vital Statistics // Centers for Disease Control and Prevention (U.S.) // National Center for Health Statistics (U.S.) // 
-[sentNum: 287]Authorization documentation // Reprint // American Cancer Society // 
-[sentNum: 288]Malignant neoplasm of breast // 2010s // 
-[sentNum: 289]Atlanta // 
-[sentNum: 290]Rate // 
-[sentNum: 291]American Cancer Society // 
-[sentNum: 292]Imaging Techniques // Additional // MEND ashed powder // Biopsy // Growth Inhibition Screening Result // Base - General Qualifier // 
-[sentNum: 293]Estimated // Woman // Lifetime Risk // To // Largest // Malignant neoplasm of breast // Risk // Base - General Qualifier // Family History Domain // Diabetes Mellitus, Non-Insulin-Dependent // Testing // BRCAPRO // brca gene // Negative // Offered // Mutation // Disease Screening // Enhance (action) // 
-[sentNum: 294]Negation // Multisection:Finding:Point in time:Breast:Narrative:MRI // Disease Screening // Recommendation // At risk // Woman // Malignant neoplasm of breast // Average // 
-[sentNum: 295]BRCA2 Gene Mutation // Woman // Disease Screening // Enhance (action) // Risk Reduction // MEND ashed powder // 
-[sentNum: 296]Reference Object // 
-[sentNum: 297]1+ Score, WHO // 
-[sentNum: 298]Act Code - Ward // R prime // MJ // hydroxylamine oxidase activity // 
-[sentNum: 299]Science of Statistics // Primary malignant neoplasm // 
-[sentNum: 300]CLIN // 
-[sentNum: 301]
-[sentNum: 302]Level 3 // 
-[sentNum: 303]Integer +2 // 
-[sentNum: 304]Chloride Ion // R prime // M+ (tumor staging) // Editor // 
-[sentNum: 305]Surveillance, Epidemiology, and End Results (SEER) Program // Stat (do immediately) // Primary malignant neoplasm // Act Class - review // 
-[sentNum: 306]Institutes // 
-[sentNum: 307]HTTP // Availability of // Primary malignant neoplasm // Surveillance, Epidemiology, and End Results (SEER) Program // RAB3D gene // 
-[sentNum: 308]
-[sentNum: 309]Level 3 // 
-[sentNum: 310]&lt;3 (qualifier value) // 
-[sentNum: 311]American Cancer Society // 
-[sentNum: 312]2010s // Malignant neoplasm of breast // 
-[sentNum: 313]Atlanta // 
-[sentNum: 314]Availability of // Internet // HTTP // Professional Organization or Group // Primary malignant neoplasm // Contents // Groups // Act Relationship Type - documents // 
-[sentNum: 315]
-[sentNum: 316]Level 3 // 
-[sentNum: 317]
-[sentNum: 318]Decrease // Ej // incidence of cases // Malignant neoplasm of breast // United States // 
-[sentNum: 319]N not otherwise specified Antibody // EXOG gene // 
-[sentNum: 320]Level III // 
-[sentNum: 321]Integer +5 // 
-[sentNum: 322]Glass (substance) // Doctor of Law // Junior // U2AF1 wt Allele // 
-[sentNum: 323]Malignant neoplasm of breast // 1980s // incidence of cases // Social Role // Psychotherapy, Multiple // Hormones // Pauses:Number = Count/Time:Duration of the study:Heart:Quantitative:EKG // Mammography // Aspects of disease screening // Encounter due to estrogen receptor status // 
-[sentNum: 324]Primary malignant neoplasm // 
-[sentNum: 325]Level 3 // 
-[sentNum: 326]
-[sentNum: 327]
-[sentNum: 328]Continuance of life // Negative Lymph Node // Factor // research outcome // Malignant neoplasm of breast // Longterm Follow-up // 
-[sentNum: 329]Primary malignant neoplasm // 
-[sentNum: 330]Level III // 
-[sentNum: 331]
-[sentNum: 332]Test Method // Result // Long-term // Tumor stage T1a // Woman // Invasive Breast Carcinoma // Tumor stage T1b // Published Erratum // Prospective Studies // Lancet // Appearance // 2000s // 
-[sentNum: 333]Lancet // 2000s // 
-[sentNum: 334]Level 3 // 
-[sentNum: 335]
-[sentNum: 336]Diagnosis Study // New // Malignant neoplasm of breast // 
-[sentNum: 337]Surg // Laboratory Vendor Name // CLIN // 2000s // 
-[sentNum: 338]Level III // 
-[sentNum: 339]
-[sentNum: 340]Late // Protons // Breast Carcinoma // 
-[sentNum: 341]Primary malignant neoplasm // 
-[sentNum: 342]Level 3 // 
-[sentNum: 343]
-[sentNum: 344]MJ // Creatinine measurement // 
-[sentNum: 345]twenty twenty // follow-up // per year // CD8A wt Allele // Mini // Breast Cancer Detection Research // Malignant neoplasm of breast // Project // 
-[sentNum: 346]Surg // CLIN // 
-[sentNum: 347]Level 3 // 
-[sentNum: 348]
-[sentNum: 349]Surviving free of recurrence of neoplastic disease // Gram per Deciliter // Small breast // Patients // Primary malignant neoplasm // 
-[sentNum: 350]PDGFB wt Allele // Less Than // Primary malignant neoplasm // And // Detection // Aspects of disease screening // 
-[sentNum: 351]
-[sentNum: 352]
-[sentNum: 353]
-[sentNum: 354]Iodides // H/O: carcinoma // Natural // Breast // 
-[sentNum: 355]
-[sentNum: 356]Level III // 
-[sentNum: 357]
-[sentNum: 358]
-[sentNum: 359]History of malignant neoplasm of breast // Natural // 
-[sentNum: 360]Hyperplasia // Disease Progression // Prediction // Neoplasm // Electrospray Ionization // angiogen // 
-[sentNum: 361]Primary malignant neoplasm // 
-[sentNum: 362]Level III // 
-[sentNum: 363]
-[sentNum: 364]Protons // 
-[sentNum: 365]Increasing // Breast Cancer Detection Research // Exertion // 
-[sentNum: 366]F11R gene // 
-[sentNum: 367]Level III // 
-[sentNum: 368]
-[sentNum: 369]ELANE wt Allele // day // 
-[sentNum: 370]Preclinical // Statistical Estimation // Geographic state // illness length // Disease Screening // Use of // Data // 
-[sentNum: 371]
-[sentNum: 372]Level III // 
-[sentNum: 373]
-[sentNum: 374]
-[sentNum: 375]Malignant neoplasm of breast // Clinical Trials, Randomized // Learning // Aspects of disease screening // 
-[sentNum: 376]North // CLIN // 
-[sentNum: 377]Level III // 
-[sentNum: 378]
-[sentNum: 379]Potassium Ion // Screening for malignant neoplasm of breast // KNG1 gene // United States // Update // Advisory Committees // Preventive service healthcare // 
-[sentNum: 380]Preventive service healthcare // United States // Advisory Committees // 
-[sentNum: 381]Intern // 
-[sentNum: 382]Level III // 
-[sentNum: 383]
-[sentNum: 384]M NOS ANTIBODY // Saint Helena Islands // KNG1 gene // 
-[sentNum: 385]Summary (document) // Screening for malignant neoplasm of breast // Evidence of // 
-[sentNum: 386]United States // Advisory Committees // Preventive service healthcare // 
-[sentNum: 387]Intern // 
-[sentNum: 388]Level III // 
-[sentNum: 389]
-[sentNum: 390]Fuchsin acid stain // K Prime // MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS // San Marino // 
-[sentNum: 391]Screening mammography // Efficacy Study // PDGFB wt Allele // 
-[sentNum: 392]F11R gene // 
-[sentNum: 393]Meta Analysis (statistical procedure) // 
-[sentNum: 394]
-[sentNum: 395]Respiratory Domain // Axial R // Smith (occupation) // Third // HFE2 gene // Creatinine measurement // 
-[sentNum: 396]New // Randomization // Meta Analysis (statistical procedure) // 
-[sentNum: 397]Meta Analysis (statistical procedure) // 
-[sentNum: 398]
-[sentNum: 399]PROC wt Allele // 
-[sentNum: 400]Aspects of disease screening // Act Class - review // Malignant neoplasm of breast // Preposition For // Publishing // Mammography // Tums // ESRRA gene // Lancet // Appearance // 
-[sentNum: 401]Lancet // 
-[sentNum: 402]Level III // 
-[sentNum: 403]
-[sentNum: 404]HPS4 gene // Iodides // 
-[sentNum: 405]Mammography // Longterm Effects // Update // Trial Screening // Swedish // overview // Published Erratum // Clinical Trials // Lancet // Appearance // 
-[sentNum: 406]Lancet // 
-[sentNum: 407]Level III // 
-[sentNum: 408]Arabic numeral 23 // 
-[sentNum: 409]Screening for malignant neoplasm of breast // Preventive service healthcare // United States // Recommendation // Advisory Committees // Statement // 
-[sentNum: 410]Preventive service healthcare // Published Erratum // Advisory Committees // Intern // Appearance // Intern // 2010s // 2010s // 
-[sentNum: 411]Intern // 
-[sentNum: 412]Level III // 
-[sentNum: 413]
-[sentNum: 414]Vorinostat // Aspects of disease screening // Cost Effectiveness // Age-Years // Mammography // Review, Systematic // Arabic numeral 65 // Preventive service healthcare // United States // Advisory Committees // 
-[sentNum: 415]Financial cost // Groups // Work // Preventive service healthcare // United States // Advisory Committees // 
-[sentNum: 416]Intern // 
-[sentNum: 417]Level III // 
-[sentNum: 418]
-[sentNum: 419]Morphology Findings Domain // Guideline [Publication Type] // American Cancer Society // Aspects of disease screening // 
-[sentNum: 420]American Cancer Society // Groups // Malignant neoplasm of breast // Appearance // Published Erratum // CLIN // Malignant Neoplasms // 
-[sentNum: 421]
-[sentNum: 422]
-[sentNum: 423]M NOS ANTIBODY // Endocrine System Findings Domain // Diagnostic // SLC14A1 gene // Digital // performance - action // 
-[sentNum: 424]Screening for malignant neoplasm of breast // Film Mammography // 
-[sentNum: 425]Mammography // digital imaging // Research Personnel // Screening Study // Published Erratum // User Group // EXOG gene // Appearance // 1840s // 
-[sentNum: 426]N+ (tumor staging) // EXOG gene // 
-[sentNum: 427]Level 3 // 
-[sentNum: 428]
-[sentNum: 429]Screening - procedure intent // Clinical Trials, Randomized // Full field // film (photographic) // Soft // Digital Mammography // Reading (activity) // Copy (object) // Base - General Qualifier // Population Programs // follow-up // Disease Screening // research outcome // Diagnosis Type - Final // 
-[sentNum: 430]Radiology studies // 
-[sentNum: 431]
-[sentNum: 432]
-[sentNum: 433]C19orf26 gene // Immune System Findings Domain // Silvan // 
-[sentNum: 434]Digital // Full field // Film Mammography // Screening - procedure intent // Entire breast // Comparison // Program // Disease Screening // Taverns // Review, Systematic // Data // 
-[sentNum: 435]Radiology studies // 
-[sentNum: 436]Level III // 
-[sentNum: 437]
-[sentNum: 438]Djibouti // Kenya // Gammon // Predictor // Patterns // Method of detection // Malignant neoplasm of breast // Age // Woman // Cancer Control // United States // Integer +5 // Etiology // 
-[sentNum: 439]Level 2 // 
-[sentNum: 440]
-[sentNum: 441]newcomer // Entire breast // Method of detection // Histology // Automobiles // 
-[sentNum: 442]&lt;3 (qualifier value) // Primary malignant neoplasm // 
-[sentNum: 443]Level 3 // 
-[sentNum: 444]Arabic numeral 31 // 
-[sentNum: 445]Breast Self-Examination // M+ (tumor staging) // Malignant neoplasm of breast // Continuance of life // Follow-Up Studies // Longitudinal Studies // 
-[sentNum: 446]Observation Result // Malignant neoplasm of breast // Treatment intent // 
-[sentNum: 447]Level 2 // 
-[sentNum: 448]
-[sentNum: 449]Radiation // Per Deciliter // EAR WAX, WET/DRY // Rostromedial auditory cortex // Clinical Trials, Randomized // Chen // Self // Entire breast // Experimental Result // Diagnosis Type - Final // 
-[sentNum: 450]Primary malignant neoplasm // 
-[sentNum: 451]
-[sentNum: 452]
-[sentNum: 453]PROC wt Allele // 
-[sentNum: 454]Self-Examination // Regular // Examination of breast // Clinical // CER tumor staging notation // Early Diagnosis // 
-[sentNum: 455]Review, Systematic // Databases // Problem // 
-[sentNum: 456]Arts // 
-[sentNum: 457]
-[sentNum: 458]
-[sentNum: 459]Digital Object Identifier // 
-[sentNum: 460]
-[sentNum: 461]Meta Analysis (statistical procedure) // 
-[sentNum: 462]
-[sentNum: 463]Update // preventive health care // Malignant neoplasm of breast // 
-[sentNum: 464]CANADIAN // preventive health care // Advisory Committees // 
-[sentNum: 465]
-[sentNum: 466]
-[sentNum: 467]North Carolina // SLC14A1 gene // 
-[sentNum: 468]Clinical Breast Examination // Procedure findings:Finding:Point in time:^Patient:Narrative // National citizen // Reporting // Program // Screening procedure // Primary malignant neoplasm // From // 2000s // 
-[sentNum: 469]Level 3 // 
-[sentNum: 470]
-[sentNum: 471]Aspects of disease screening // M NOS ANTIBODY // Sojourn // Statistical sensitivity // Screening for malignant neoplasm of breast // Time // Mammography // Clinical Trial [Publication Type] // Physical Examination // 
-[sentNum: 472]CLIN // 
-[sentNum: 473]Level III // 
-[sentNum: 474]
-[sentNum: 475]Iodides // Screening for malignant neoplasm of breast // 
-[sentNum: 476]Surg // 
-[sentNum: 477]Level III // 
-[sentNum: 478]
-[sentNum: 479]M+ (tumor staging) // Screening for malignant neoplasm of breast // Screening mammography // 
-[sentNum: 480]
-[sentNum: 481]Level III // 
-[sentNum: 482]
-[sentNum: 483]fletchers' // African race // BLOOD GROUP--SWANN SYSTEM // KNG1 gene // Right // International // Report (document) // On (qualifier value) // Educational workshop // Screening for malignant neoplasm of breast // 
-[sentNum: 484]Primary malignant neoplasm // 
-[sentNum: 485]Level III // 
-[sentNum: 486]/40 // 
-[sentNum: 487]T prime // Miller // CANADIAN // Walls of a building // Entire breast // National citizen // per year // Screening Study // Randomization // Experimental Result // 
-[sentNum: 488]Woman // Clinical Trials // year // Elderly (population group) // 2000s // Primary malignant neoplasm // 
-[sentNum: 489]
-[sentNum: 490]
-[sentNum: 491]Contribution // Mycobacterium avium Complex // Examination of breast // Clinical // Screening for malignant neoplasm of breast // 
-[sentNum: 492]Level 2 // 
-[sentNum: 493]
-[sentNum: 494]Older Population // Aspects of disease screening // American Cancer Society // Women, Working // Work // Mammography // American Cancer Society // User Group // Work // Physical Examination // American // User Group // Arabic numeral 69 // American // 
-[sentNum: 495]
-[sentNum: 496]
-[sentNum: 497]National Comprehensive Cancer Network // 
-[sentNum: 498]National Comprehensive Cancer Network // Entire breast // Clinical Practice Guideline // CER tumor staging notation // 
-[sentNum: 499]Washington state // National Comprehensive Cancer Network // Pairing Events Domain // 
-[sentNum: 500]Level III // 
-[sentNum: 501]
-[sentNum: 502]POLK gene // BLOOD GROUP--SWANN SYSTEM // fletchers' // 
-[sentNum: 503]per year // Toxic Epidermal Necrolysis // False Positive // Risk // Clinical Breast Examination // Screening mammography // 
-[sentNum: 504]Level 3 // 
-[sentNum: 505]
-[sentNum: 506]Potassium Ion // City of Berlin // 
-[sentNum: 507]Screening mammography // /40 // Woman // Age-Years // To // American College of Physicians // Review, Systematic // 
-[sentNum: 508]Intern // 
-[sentNum: 509]Level III // 
-[sentNum: 510]
-[sentNum: 511]Variant // Right // Screening for malignant neoplasm of breast // Benefits // Age // 
-[sentNum: 512]Primary malignant neoplasm // 
-[sentNum: 513]Level III // 
-[sentNum: 514]
-[sentNum: 515]KNG1 gene // 
-[sentNum: 516]Mammography // Psychosocial // 
-[sentNum: 517]Primary malignant neoplasm // 
-[sentNum: 518]Level III // 
-[sentNum: 519]
-[sentNum: 520]KNG1 gene // 
-[sentNum: 521]Psychiatric problem // Mammography abnormal // Behavior // 
-[sentNum: 522]Intern // 
-[sentNum: 523]Level III // 
-[sentNum: 524]
-[sentNum: 525]
-[sentNum: 526]Screening mammography // Psychological Impact // 
-[sentNum: 527]Review, Systematic // 
-[sentNum: 528]
-[sentNum: 529]Level III // 
-[sentNum: 530]
-[sentNum: 531]Nuchal Translucency Screen // Brewer // 
-[sentNum: 532]Longterm Effects // Review, Systematic // Mammography // False Positive // 
-[sentNum: 533]
-[sentNum: 534]Intern // 
-[sentNum: 535]Meta Analysis (statistical procedure) // 
-[sentNum: 536]
-[sentNum: 537]
-[sentNum: 538]Attitude // Woman // Mammography // False Positive // Noninfiltrating Intraductal Carcinoma // Detection // Cross-Sectional Studies // 
-[sentNum: 539]2000s // /40 // 
-[sentNum: 540]Level III // 
-[sentNum: 541]
-[sentNum: 542]Screening for malignant neoplasm of breast // 
-[sentNum: 543]CLIN // Roman numeral VII // North // 
-[sentNum: 544]Level III // 
-[sentNum: 545]
-[sentNum: 546]United States Agency for Healthcare Research and Quality // 
-[sentNum: 547]Evidence of // Diagnosis Study // Technology // Evaluation Report // 
-[sentNum: 548]United States Agency for Healthcare Research and Quality // 
-[sentNum: 549]
-[sentNum: 550]
-[sentNum: 551]
-[sentNum: 552]Potassium Ion // Screening mammography // Continuous // IMPACT gene // Woman // Cost Effectiveness // Expectation // 
-[sentNum: 553]
-[sentNum: 554]Databases // MEDLINE // American College of Obstetricians and Gynecologists // Libraries // Resources // Internal - CodeSystemType // Used by // Documents // Publications // Entire duct // To // Search - action // Article // Relevance // 1990s // Scientific Publication // 
-[sentNum: 555]Restricted // Search - action // Scientific Publication // Article // English Language // 
-[sentNum: 556]Priority // Article // Entity Name Part Type - given // Original // Reporting // Review [Publication Type] // research outcome // Published Comment // Article // Abstract Summary // Consultation // Science // Sia // Negation // Conferences // Sufficient // consider // Documents // Inclusion // 
-[sentNum: 557]Scientific Publication // Guideline [Publication Type] // Health // Organization administrative structures // Review [Publication Type] // American College of Obstetricians and Gynecologists // Scientific Study // Additional // Bibliography // Review [Publication Type] // Article // Identified // 
-[sentNum: 558]Research Activities // Reliability (characteristic) // Expert Opinion // Not available // Used by // Obstetrician and gynecologist // 
-[sentNum: 559]Review [Publication Type] // Scientific Study // Quality // Evaluation // United States // Methods // Advisory Committees // Preventive service healthcare // 
-[sentNum: 560]Evidence of // Iodides // Smaller // Obtain // One // 
-[sentNum: 561]Evidence of // Good // Obtain // CDISC Trial Design Class // Control function // 
-[sentNum: 562]Obtain // Evidence of // Design // Good // Clinical Study Case // Cohort // Scientific Study // control aspects // Central // One // 
-[sentNum: 563]Type - attribute // research study // Evidence of // 
-[sentNum: 564]III (suffix) // Base - General Qualifier // Authority // Description // Practice Experience // Report (document) // Scientific Study // Committee // 
-[sentNum: 565]Base - General Qualifier // Levels of Evidence // Highest // Recommendation // Data found // Grade // Providing (action) // Followed by // Agreement // Categories // 
-[sentNum: 566]Levels (qualifier value) // Base - General Qualifier // Recommendation // Good // 
-[sentNum: 567]Science // Evidence of // 
-[sentNum: 568]Levels (qualifier value) // Base - General Qualifier // Recommendation // Science // Limited (extensiveness) // Evidence of // 
-[sentNum: 569]Levels (qualifier value) // Base - General Qualifier // Recommendation // Expert Opinion // 
-[sentNum: 570]Html Link Type - copyright // College // American // Reservation (action) // Rights // Storage // Publications // System // Retrieval // Internet // Post // Manufactured form // Transmitted by // Authorization Mode - Electronic // Means // Photocopying // Mechanical Methods // Records // 
-[sentNum: 571]Request for // Make - Instruction Imperative // Authorization documentation // Direct type of relationship // Photocopying // Clearance [PK] // Html Link Type - copyright // Intrinsic drive // Central // 
-[sentNum: 572]Street address // American College of Obstetricians and Gynecologists // Oral // BLOOD GROUP--SWANN SYSTEM // Washington state // Box // 
-[sentNum: 573]Screening for malignant neoplasm of breast // 
-[sentNum: 574]Practice Experience // 
-[sentNum: 575]
-[sentNum: 576]American College of Obstetricians and Gynecologists // 
-[sentNum: 577]
+American College of Obstetricians and Gynecologists // 
+Physicians, Women // Health Care // 
+Practice Experience // 
+replaces - RoleLinkType // Numbers // Numbers // Practice Experience // 
+Screening for cancer // Thoracic mammary region // 
+Diagnosis // Most // Woman // Primary malignant neoplasm // Cause of death.secondary:Find:Pt:^Patient:Nom // United States // From // Leading // Woman // American // Singular // Second Primary Cancers // 1+ Score // Malignant neoplasm of lung // 
+Mortality Vital Statistics // Malignant neoplasm of breast // Aspects of disease screening // Reduced // 
+Practice Experience // Purpose // Act Class - review // To // Guideline [Publication Type] // Screening for malignant neoplasm of breast // Used by // Evidence of // Supportive assistance // To // New // Recommendation // Modality // Aspects of disease screening // 
+Aspects of disease screening // Surrounding (qualifier value) // 
+Background // 
+incidence of cases // 
+account - ActClass // Malignant neoplasm of breast // Case unit dose // New // 2+ Score // Woman // 
+Risk // Female Breast Carcinoma // 2+ Score // Table - furniture // 3+ Score // 
+2010s // New // Approximate // Invasive // Case unit dose // Diagnosis // Malignant neoplasm of breast // Attribution // Cessation of life // Malignant neoplasm of breast // 
+Add - instruction imperative // Case unit dose // New // Malignant neoplasm of breast // In situ // 2010s // Reporting // 3+ Score // 
+GPR162 gene // Decrease // per year // incidence of cases // Within // Body position // Malignant neoplasm of breast // Decreased // Reflecting // Hormone replacement therapy // Use of // Use of // Decreased // 3/5 // Screening mammography // 
+Relationships // Malignant neoplasm of breast // Decreasing // Mortality Vital Statistics // Reflecting // 1990s // Screening for malignant neoplasm of breast // Bilateral // Therapeutic procedure // Better // 3+ Score // 
+Component object // Aspects of disease screening // Malignant neoplasm of breast // Guideline [Publication Type] // Current (present time) // 
+Including (qualifier) // Screening for malignant neoplasm of breast // Elements // Three // Entire breast // 1+ Score, WHO // Mammography // Diagnostic Imaging // Clinical Breast Examination // Integer +2 // Patients // &lt;3 (qualifier value) // Screening - procedure intent // subscriber - self // 
+Table - furniture // 
+Age // Probability // Specific qualifier value // Invasive Breast Carcinoma // 
+Probability // Malignant neoplasm of breast // 
+
+Current age // year // Following // 1+ Score, WHO // 
+
+
+/40 // Arabic numeral 69 // 
+
+
+
+Lifetime Risk // 
+Primary malignant neoplasm // Free (available (qualifier)) // Beginning // At // Data Type Interval // Age // 
+Case unit dose // Base - General Qualifier // Diagnosis // 
+Money or percentage indicator - Percentage // Numbers // And // Equal // Negation // Round shape // 
+Probability // Use of // Derivation // Computer software // National Cancer Institute // Version // 
+Reprint // American Cancer Society // Authorization documentation // 
+2010s // Malignant neoplasm of breast // 
+American Cancer Society // Atlanta // 
+Entire breast // Breast Self-Examination // Self awareness // 
+Relative // Appropriate // Elements // Transcription Initiation // Age // Frequencies (time pattern) // Cessation // Aspects of disease screening // 
+Committee // Gynecologist // Practice Experience // 
+Committee // Practice Experience // Gynecologist // Practice Experience // Massive // Helping Behavior // 
+Design // Information // Manufactured aid // To // Decision Making // Practitioner // Obstetrical // Appropriate // care activity // Gynecologic // 
+Negation // Guidelines // Course // Exclusive // Interventional procedure // Therapeutic procedure // 
+Within // Variant // Base - General Qualifier // Practice Experience // Patient need for (contextual qualifier) // Persons // Limitation // Resources // Health care facility // Unique // Practice Experience // Type - attribute // 
+controversy // 
+Table - furniture // Current (present time) // Outlines (document) // Guidelines // Screening procedure // Organization administrative structures // Major medical // 
+College // American College of Obstetricians and Gynecologists // Inclusion // Continuous // strategy // Three // Screening procedure // Malignant neoplasm of breast // 
+Screening mammography // 
+Mammography // Indication of (contextual qualifier) // 
+Neoplasm // Early // Detection // Small // Phase // More // Entire breast // Treated with // Probably // per year // In addition to // Localized // Continuance of life // &lt;3 (qualifier value) // N-(1-oxyl-2,2,5,5-tetramethyl-3-pyrrolidinyl)maleimide // 
+year // Post // One // Follow-Up Studies // Present // Initially // Less Than // Neoplasm // Primary operation // Cure (remedy) // Axilla // Mastectomy // 
+Confirmation // Scientific Study // In addition to // Result // Patients // &lt;90 // per year // Experience // Disease-Free Survival // Long // Neoplasm // Period (temporal qualifier) // Less Than // Measured // Mammography // Detection // Neoplasm // Probability // Neoplasm Metastasis // Negation // Treated with // Diagnosis // 
+estimation &lt;subjective> // Mathematics // Ductal Breast Carcinoma // Usual // Population Mean // Constant (qualifier) // Temporal periods of day // Doubling // year // Presentation // size // Palpable // 
+Mass of body structure // Screening mammography // Approximate // Measured // Phase // Preclinical // Palpable // 
+concept // To // Referral placed // Time // Sojourn // Primary malignant neoplasm // Time Interval // Aspects of disease screening // Detection // Symptomatic // 
+Sojourn // Individual // Time // Primary malignant neoplasm // Type - attribute // More // Varies // Aggressive course // biological // Short Value // Neoplasm // Time // Sojourn // 
+Predictor // Greater // Time // Sojourn // Appearance // Malignant neoplasm of breast // Age // To // 
+Population Mean // Estimated // Time // Sojourn // Female Breast Carcinoma // Preposition For // Age // Increase // Population Mean // year // year // Sojourn // 2/5 // year // Arabic numeral 69 // year // 3/5 // year // year // year // year // 
+Population Mean // Time // Sojourn // Detected (finding) // Screening for malignant neoplasm of breast // Sojourn // Neoplasm // Period (temporal qualifier) // 
+Individual // Type - attribute // Probably // Short Value // Primary malignant neoplasm // Time // Sojourn // Probably // More // Frequent // Benefits // Comparison // Aspects of disease screening // Neoplasm // Slow // Preclinical // Largest // Interval // 
+Aspects of disease screening // Design // Egypt // Probability // To // Primary malignant neoplasm // Detected (finding) // Interval // Preclinical // Largest // treatment options // Better // Result // 
+Mammography // Evaluation // 
+Meta-Analysis (publications) // Recent // United States // Behavior // Advisory Committees // Preventive service healthcare // Eight // Review [Publication Type] // Within // Randomized Controlled Trials as Topic // Screening mammography // 
+Study // Scientific Study // Limitation // Fair (qualifier) // Rating (action) // United States // Quality // Advisory Committees // Preventive service healthcare // Reduction - action // Act Class - review // Relationships // Malignant neoplasm of breast // Arabic numeral 69 // 
+Table - furniture // 
+Recommendation // Screening for malignant neoplasm of breast // 
+Clinical // Mammography // Awareness // Breast self-examination technique education // 
+Age-Years // American College of Obstetricians and Gynecologists // Old age // /40 // year // Annual // year // 1+ Score, WHO // /40 // Age // Annual // Old // High risk of // consider // Recommendation // Patients // 
+Age-Years // American Cancer Society // Old age // /40 // year // Annual // year // 1+ Score, WHO // Age-Years // Optional // Recommendation // Old age // 
+year // /40 // Annual // Old age // 
+/40 // National Comprehensive Cancer Network // Old age // year // year // Annual // year // 1+ Score, WHO // Recommendation // Recommendation // 
+/40 // Age-Years // Annual // Old age // 
+/40 // National Cancer Institute // Old // year // year // Phase I/II Trial // Negation // Recommendation // Recommendation // 
+United States // Advisory Committees // Preventive service healthcare // Insufficient (qualifier) // Age-Years // Negation // Evidence of // Recommendation // 
+Aspects of disease screening // 
+Mortality Vital Statistics // Consistent with // Meta Analysis (statistical procedure) // Previous // 18/22 // 
+Relative Risk // Mortality Vital Statistics // Malignant neoplasm of breast // Aspects of disease screening // Woman // Age // Woman // Woman // year // year // Age // Woman // Arabic numeral 68 // Arabic numeral 69 // Age // year // 
+Evidence of // Mortality Vital Statistics // Insufficient (qualifier) // Woman // Reduction - action // year // Age // Table - furniture // Old // 
+Malignant neoplasm of breast // increasing incidence // Age // Woman // Young // More // Age-Years // Woman // Aspects of disease screening // To // One // PREVENT (product) // Relationships // Malignant neoplasm of breast // Comparison // Cessation of life // Woman // Old // Table - furniture // 
+Numbers // Aspects of disease screening // Needs // Round shape // Over (spatial) // And // Aspects of disease screening // Follow-up status // year // PREVENT (product) // To // Malignant neoplasm of female breast // One // 1+ Score // year // Woman // Comparison // year // Age // 
+Delta (difference) // This // Needs // Numbers // PREVENT (product) // Aspects of disease screening // Cessation of life // One // United States // Indication of (contextual qualifier) // Advisory Committees // Preventive service healthcare // Recommendation // Negation // Aspects of disease screening // Routine // year // Woman // Mortality Vital Statistics // Similarity // Arabic numeral 23 // Reduction - action // 
+Research Design // Delta (difference) // Evaluation // Clinical Trials, Randomized // Randomized Controlled Trials as Topic // Aspects of disease screening // Providing (action) // Negation // Comparison // Meaning // Aspects of disease screening // Different // Term (temporal) // strategy // Cognitive function: initiation // Age // Frequencies (time pattern) // 
+Lacking // Evidence of // Clear // Light Emitting Diode Device Component // Problem // Preventive service healthcare // United States // Surgical construction // Advisory Committees // Model // Aspects of disease screening // Different // Comparison // Helping Behavior // strategy // National citizen // Professional guide // Recommendation // Aspects of disease screening // 
+Model // Six // Independence // Created By // Part of // Groups // Intervention regimes // National Cancer Institute // Consortium or Network // Surveillance Modeling // 
+Creation // Model // shared attribute // Use of // Age // Set scale // Variable (uniformity) // Specific qualifier value // objective (goal) // In addition to // Screening - procedure intent // Efficient // Gain // strategy // Reduction - action // Mortality Vital Statistics // Life // Gain // Additional // year // Screening mammography // 
+Aspects of disease screening // Seven // Use of // Aspects of disease screening // Eight // Present // strategy // Efficient // To // Mortality Vital Statistics // Reduced // Six // And // strategy // Eight // Beginning // Screening - procedure intent // Age-Years // 
+Act Class - review // Conclude Resin // strategy // % live // More // Extent // Commit Operation // Woman // Aspects of disease screening // Arabic numeral 69 // Old // Extent // year // Woman // Aspects of disease screening // /40 // Age // year // 
+Benefits // Life // Numbers // Gain // year // Aspects of disease screening // Aspects of disease screening // /40 // Age Started // Within // year // Eight // Four // strategy // 
+annual screening // strategy // Efficient // Malignant neoplasm of breast // Reduced // Increasing // Mortality Vital Statistics // year // Life // Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider} // Gain // More // Journalist // Resources // 
+Imaging Techniques // 
+Accepted // Ultrasonography // Evaluation procedure // Imaging Techniques // 
+CDISC SDTM Evaluator Terminology // utilization qualifier // Mammography finding // Inconclusive (qualifier value) // Patients // Young // Woman // Other // Breast tissue sample // Dense // Tissue Specimen Code // Guide device // Method of biopsy // Core needle biopsy // Well Differentiated // And // Cyst // Mass of body structure // Solid // 
+Negation // Disease Screening // Recommendation // Preposition For // Diagnostic Radiology Modality // Average // Woman // Malignant neoplasm of breast // Risk // 
+Options // Ultrasonography // Disease Screening // Additional // Woman // Present // Magnetic Resonance Imaging // High risk of // Disease Screening // 
+Table - furniture // 
+Relative Risk // Pooled Sample // Mortality Vital Statistics // Malignant neoplasm of breast // Screening mammography // From // Age // Clinical Trials // 
+1+ Score, WHO // PREVENT (product) // 
+death age // Malignant neoplasm of breast // 
+Including (qualifier) // Clinical Trials // Mortality Vital Statistics // N not otherwise specified Antibody // Costa Rica // Costa Rica // 
+
+
+Arabic numeral 68 // Arabic numeral 69 // 
+Not available // 1+ Score, WHO // 
+Costa Rica // Abbreviations // Data Type Interval // credibility // Needs // Numbers // Relative Risk // Trial Screening // year // 
+health insurance plan // New York (geographic location) // Largest // National citizen // CANADIAN // Screening Study // Entire breast // Two // Swedish // Clinical Trials // County // Clinical Trials // 2+ Score // Age // Clinical Trials // Clinical Trials // 
+CANADIAN // Entire breast // National citizen // Swedish // Screening Study // County // Two // 2+ Score // Clinical Trials // Clinical Trials // 
+Clinical Trials // 
+Two // Swedish // Clinical Trials // County // 
+Two // Swedish // Clinical Trials // County // 
+Authorization documentation // Reprint // KNG1 gene // K Prime // Trial Screening // 
+Malignant neoplasm of breast // United States // Update // Advisory Committees // Preventive service healthcare // 
+Intern // 
+Negation // Magnetic Resonance Imaging // Receive // Contrast // Gadolinium // Claustrophobia // History of allergies // BARRIER // 
+Magnetism // Mammography // diagnostic use // Duration (temporal concept) // Financial cost // Contrast Media // Injection of therapeutic agent // geographic population // Prohibit // 
+Problem // American Cancer Society // Use of // Guideline [Publication Type] // Preposition For // Magnetic Resonance Imaging // High risk of // Disease Screening // Female Breast Carcinoma // Woman // Including (qualifier) // Risk // Woman // 
+
+Known // BRCA2 Gene Mutation // 
+
+BRCA2 Gene Mutation // Testing // Negation // Self // 
+
+Lifetime Risk // Largest // Malignant neoplasm of breast // Scientific Equipment // Risk Assessment // Family History Domain // Base - General Qualifier // 
+
+To // History of radiation therapy // Age-Years // Anterior thoracic region // year // 
+
+Genetic syndrome // Lithium Cation // Including (qualifier) // Hamartoma Syndrome, Multiple // Syndrome // One // Ruvalcaba Syndrome // First Degree Relative // Adverse Event Associated with Syndromes // 
+Conclude Resin // Laboratory Order Panels // Evidence of // Insufficient (qualifier) // Magnetic Resonance Imaging // Recommendation // Preposition For // Aspects of disease screening // Personal Attribute // Woman // Carcinoma in Situ // History of malignant neoplasm of breast // Mammographic breast density // Atypical hyperplasia // 
+Negation // Multisection:Finding:Point in time:Breast:Narrative:MRI // Aspects of disease screening // Recommendation // At risk // Woman // Malignant neoplasm of breast // Average // 
+Computers // Ultrasonography, Doppler, Color // Detection // Helping Behavior // Digital breast tomosynthesis // Positron-Emission Tomography // promise // Show // Clinical // Choose (action) // Mammography // To // Breast Carcinoma // 
+Negation // Romania // consider // Mammography // Tines // 
+Digital Mammography // 
+Digital // Diagnostic Imaging // Mammography finding // Reporting // Screening Study // 
+per year // 2+ Score // Period (temporal qualifier) // Study // Study // Woman // Site // From // Canada // United States // 
+Digital Mammography // Participant // Randomization // Film Mammography // Order (arrangement) // 
+Diagnostic Accuracy // film (photographic) // Digital Mammography // Entire // Similarity // geographic population // 
+Digital Mammography // film (photographic) // Upper // Woman // Mammography // year // Young // Dense // Woman // Pauses:Number = Count/Time:Duration of the study:Heart:Quantitative:EKG // Dense breasts NOS // Woman // Perimenopausal // 
+Reporting // research outcome // 
+Screening - procedure intent // Clinical Trials, Randomized // Full field // film (photographic) // Population Programs // Digital Mammography // Disease Screening // Base - General Qualifier // Age // Woman // Mammography // Woman // Digital Mammography // N not otherwise specified Antibody // N not otherwise specified Antibody // 
+Woman // Cancer Detection // Women's Groups // P Blood group antibodies // Mammography // Population Group // 
+Recent // Data // Meta-Analysis (publications) // Large // Eight // Scientific Study // Randomization // Overall Publication Type // Present // Mammography // Digital // Value Above Reference Range // Slightly // Rating (action) // Detection // Woman // Film Mammography // year // Age // Young // 
+Clinical // Recommendation // consideration // 
+Breast Self-Examination // Menopause // Self awareness // Entire breast // Effectiveness // Screening procedure // 
+Performance // Breast Self-Examination // Breast // Nation // Consistent with // Present // Persons // systematic // Basis - conceptual entity // Regular // Monthly (qualifier value) // 
+Physicians // CTSE gene // ethylene diurea // Performed // Patients // Focal // prevention through information dissemination // Intervention regimes // 
+Appropriate // High Risk Populations // Certain (qualifier value) // Woman // And // To // Choose (action) // Approach // Followed by // 
+Biological Evolution // Current (present time) // concept // Educational process of instructing // Awareness // Self-Examination // 
+American Cancer Society // College // Self awareness // Entire breast // Normal appearance (finding) // Nes (fish) // Breast // Emotions // 
+Approximate // concept // Half // One // Old // Case unit dose // Case unit dose // Within // Detection // year // FRZB gene // Woman // 
+Self Efficacy // Add - instruction imperative // Science of Statistics // Wiskott-Aldrich Syndrome // 
+Self awareness // Entire breast // Breast Self-Examination // Include (action) // 
+desires // Woman // Performed // To // Examination of breast // Self awareness // strategy // Part // Techniques // Appropriate // Examination by method // Negation // 
+Reporting // Woman // Health Personnel // Breast changes // 
+strategy // Respiratory Therapist, Registered - Patient Education // Study Start Date // Negation // Awareness // Entire breast // Part of // Exist // strategy // Screening procedure // Negative Finding // Woman // Clinical Breast Examination // Mammography // Exclusion // Experimental Result // Malignant neoplasm of breast // Pressure- physical agent // 
+Case unit dose // New // Screening procedure // Primary malignant neoplasm // Entire breast // Interval // Prompt // Self awareness // Negation // Woman // Reporting // Deferred // Base - General Qualifier // Breast changes // Group reassurance // False Negative Result Medical Device Problem // Screening procedure // Recent // 
+Self awareness // Entire breast // To // Aim (idea) // Detection // subscriber - self // Symptom Evaluation // Prompt // Overall Publication Type // Relate - vinyl resin // morbidity aspects // Malignant neoplasm of breast // Mortality Vital Statistics // 
+Effect // Self awareness // Entire breast // Negation // Educational Status // Study // 
+Recommendation // Breast Self-Examination // education evaluation // Arabic numeral 23 // 
+CER tumor staging notation // Regular // Woman // Detection // Breast Self-Examination // subscriber - self // Arabic numeral 31 // Breast self-examination technique education // Receive // Follow-Up Report // In addition to // Screening for malignant neoplasm of breast // No Information Available // Delta (difference) // Reporting // Relationships // Malignant neoplasm of breast // Cessation of life // 
+
+Review, Systematic // Including (qualifier) // Scientific Publication // Clinical Trials // Entire breast // Population Based Study // Large // Breast Self-Examination // Russia // Intervention regimes // 
+Clinical Trials // Biopsy // Twice (Numerical Qualifier) // Experimental Result // Benign // Screening procedure // Performed // Control Groups // Population Group // 
+Advisory Committees // CANADIAN // Recommendation // preventive health care // Breast Self-Examination // Educational process of instructing // Fair (qualifier) // Base - General Qualifier // Breast Self-Examination // Evidence of // Good // Benefits // Evidence of // 
+Act Class - review // Evidence of // Additional // Practice Experience // Patients // Worried // Increase // Mental Depression // Anxiety // Breast Self-Examination // Associated with // 
+Mammography // Screening procedure // False Negative // Clinical Breast Examination // Woman // Primary malignant neoplasm // Primary malignant neoplasm // Woman // 
+Primary malignant neoplasm // College // Educational process of instructing // Consortium or Network // Elderly (population group) // Woman // Old // year // Self awareness // Entire breast // 
+Screening for cancer // Clinical // 
+Frequent // Somalia // Performed // 
+Use of // National citizen // Data // early detection of cervical cancer // Entire breast // Clinical Breast Examination // Program // Community // Performed // Woman // {Setting} // /40 // Elderly (population group) // Old // year // Clinical Breast Examination // Conclude Resin // Cancer Detection // alone - group size // Specificity // In addition to // 
+Five // Population Group // Primary malignant neoplasm // Case unit dose // Clinical Breast Examination // Detection // Formed // 
+Physical findings // Abnormal Reference Range // Entire breast // Normal // Mammography // Primary malignant neoplasm // Case unit dose // Screening procedure // Detection // 
+Conclude Resin // Journalist // Clinical // Add - instruction imperative // Better // Examination of breast // Early Diagnosis // 
+Numerous // Supportive assistance // Review [Publication Type] // Clinical // Combined // Mammography // Examination of breast // Screening for malignant neoplasm of breast // 
+Study // Statistical sensitivity // Better // Comparison // Breast Cancer Detection Research // In addition to // Mammography // Mammography // Clinical Breast Examination // alone - group size // 
+False Discovery Rate // Population Group // Value Above Reference Range // Clinical Breast Examination // Receive // Single Group Study // Mammography // 
+Availability of // Base - General Qualifier // College // Evidence of // National Comprehensive Cancer Network // American Cancer Society // Examination of breast // Recommendation // Annual // Performed // Elderly (population group) // Woman // year // /40 // Old // 
+Numerical value // Clinical // Aspects of disease screening // Preposition For // Examination of breast // Low Prevalence // Woman // Woman // Malignant neoplasm of breast // year // Elderly (population group) // Clear // Negation // American Cancer Society // College // Continuous // National Comprehensive Cancer Network // Recommendation // To // Female breast // Clinical // 1+ Score // Nation // year // 
+Mammography // Frequent // Beginning // Performed // Mammography // 
+incidence of cases // Base - General Qualifier // Sojourn // Malignant neoplasm of breast // Malignant neoplasm of breast // Time // Potential // growth aspects // Cancer Death Rate // Reduction mammaplasty // Recommendation // College // Age // Woman // year // /40 // Offered // Old // Mammography // Disease Screening // Annual // 
+Screening Tests // Educational process of instructing // Woman // False Negative Result Medical Device Problem // Predictive Value // 
+Informed // Woman // Additional // Potential // Biopsy // Imaging Techniques // Base - General Qualifier // Recommendation // Growth Inhibition Screening Result // 
+Physicians // Patients // Work // Disease Screening // best (quality) // Valine // Risk // Woman // Undifferentiated (Embryonal) Sarcoma // More // Disease Screening // Acceptable // Appropriate // strategy // 
+Average // Woman // Risk // Maintenance // Disease Screening // Disease Screening // Most // Woman // Testing // annual screening // 
+Various patch test substance // Offered // Population Group // Timing // Recommendation // Frequencies (time pattern) // Initiation // Aspects of disease screening // 
+Population Group // Change values // Place // Scientific Publication // consideration // Cost Effectiveness // Evidence of // Accurate (qualifier) // Efficiency // Statistical sensitivity // Specificity // False Negative Result Medical Device Problem // False Positive // Compliance behavior // Positive Predictive Value of Diagnostic Test // health care resources // Availability of // Needs // Health Care // Advocate (person) // Expert Opinion // 
+Recommendation // Summary (document) // Table - furniture // Present // 
+National Comprehensive Cancer Network // American Cancer Society // annual screening // Recommendation // Beginning // Mammography // /40 // Age-Years // 
+United States // Contrast // Advisory Committees // Preventive service healthcare // Changing // Recent // MEND ashed powder // Guideline [Publication Type] // Woman // Mammography // year // Elderly (population group) // 
+Woman // Routine // Negation // year // Advisory Committees // Recommendation // Woman // Aspects of disease screening // year // Young // Patient Base // Individualized // Specific qualifier value // Values // Arabic numeral 23 // Benefits // 
+National Comprehensive Cancer Network // American Cancer Society // Preventive service healthcare // United States // Agree // Advisory Committees // Relationships // Screening mammography // Elderly (population group) // Female Breast Carcinoma // year // /40 // Base - General Qualifier // Old // Availability of // Meta Analysis (statistical procedure) // Screening mammography // Randomized Controlled Trials as Topic // Table - furniture // Vision // 
+Preventive service healthcare // United States // Arrival - action // Advisory Committees // Conclusion // Different // Aspects of disease screening // Routine // Place // Woman // Weight // Greater // Lower - spatial qualifier // Upon - dosing instruction fragment // Population Group // disorder prevalence // Mammography // Positive Predictive Value of Diagnostic Test // Numbers // Increase // To // Needs // To // Screening - procedure intent // One // PREVENT (product) // Relationships // Malignant neoplasm of breast // Cessation of life // 
+Add - instruction imperative // Preventive service healthcare // United States // Woman // Advisory Committees // Screening for malignant neoplasm of breast // Within // False Positive // Practice Experience // High // Mammography // Status post // Woman // Aspects of disease screening // year // Diagnostic Imaging // Additional // psychological distress // Biopsy // 
+Additional // Burden // Perception // Laboratory Procedures // Woman // Greater // /40 // Elderly (population group) // Less Than // year // Practice Experience // Probably // Less Than // Malignant neoplasm of breast // Benefits // Probably // Arabic numeral 23 // Aspects of disease screening // 
+Disease Response // Within // HERPUD1 gene // Programming Parameter // Routine // Data Port // Woman // Aspects of disease screening // Note:Finding:Point in time:{Setting}:Document:Nursing // /40 // Primary malignant neoplasm // incidence of cases // /40 // Less Than // Human Age Group // per year // Old // Woman // incidence of cases // year // Within // Primary malignant neoplasm // 1+ Score // Woman // Negation // Integer +2 // Within // High // /40 // Woman // Arabic numeral 69 // 1+ Score // Integer +2 // 1+ Score // 
+Woman // Add - instruction imperative // Screening mammography // Routine // parable // /40 // Reduction - action // Mortality Vital Statistics // Woman // Comparison // Screening mammography // Routine // Reduction - action // Reduction - action // 
+per year // Each (qualifier value) // Malignant neoplasm of breast // United States // Woman // Diagnosis // year // Young // 
+Aspects of disease screening // Frequencies (time pattern) // Preventive service healthcare // United States // Recommendation // Advisory Committees // Base - General Qualifier // Decision // Aspects of disease screening // National Cancer Institute // Prediction // Model // Aspects of disease screening // Within // Reduction - action // Mortality Vital Statistics // Aspects of disease screening // Main // 
+strategy // This // Experimental Result // Positive Finding // Arabic numeral 23 // 
+Model Number // Annual // Aspects of disease screening // strategy // Anterior // Aspects of disease screening // Within // 
+Consequence of // Potential // Screening mammography // 
+Potential // Malignant neoplasm of breast // Result // Mammography // Screening - procedure intent // False Positive // include - SetOperator // False Negative // gram // overdiagnosis // Mammography // 
+Risk // Concern // Egypt // Exposure to radiation // Exposure to radiation // Malignant neoplasm of breast // Improvement // Decreased // Technology // Techniques // Experience // Clinical // 
+Mammography // False Positive // Further // Congenital Abnormality // Verification // Evaluation // Negation // Lesion // Continuous // Primary malignant neoplasm // Concern // 
+False Positive // Diagnostic Mammography // Screening mammography // Ultrasonography // View // Case unit dose // biopsy characteristics // Reaching // Attempt // Diagnostic Accuracy // 
+Treatment/Psychosocial Effects // Aspects of disease screening // Consequence of // Distress // Anxiety // Reviewed // Identified // % live // Short // Severe (severity modifier) // Negation // 
+Evaluation // Scientific Study // False Positive // Effect // Woman // suggestion // High // United States // False Positive // Tolerant // Woman // Mammography // False Positive // Experience // More // Mammography // Woman // Probably // Immobile // Normal result // Aspects of disease screening // Routine // Future // 
+Woman // More // False Positive // Anxiety // Probably // Pathologic // Malignant neoplasm of breast // Disease classification level // 
+Factor // Woman // Increase // Malignant neoplasm of breast // Relative Risk // 
+Female Breast Carcinoma // Most // Nose // Invasive // Unique // Negation // Act Code - risk factors // Identified // Certain (qualifier value) // Woman // Increase // Characteristics // Malignant neoplasm of breast // Prevalence aspects // General Population // Comparison // 
+Malignant neoplasm of breast // Incidence // Advance // Increase // Integer +2 // Age // 
+High risk of // Woman // To // Patient need for (contextual qualifier) // Increase // Counsel - legal // Reduction mammaplasty // Medical Surveillance // Physicians // Cancer Risk // Assessed // Periodic // Risk // Malignant neoplasm of breast // 
+Risk Assessment // Act Mood - Goal // Risk // Woman // Average // Levels (qualifier value) // High // Age // High risk of // 
+Risk Assessment // Used by // Negation // consider // To // Disease Screening // Woman // Age // Appropriate // Disease Screening // Enhance (action) // Magnetic Resonance Imaging // Add - instruction imperative // More // Screening procedure // Clinical Breast Examination // Frequent // strategy // Risk Reduction // 
+Risk // Reproductive History // 
+Entire breast // Certain (qualifier value) // Risk // CER tumor staging notation // Age at menarche // Including (qualifier) // First Birth // Age // Parity:Number:Point in time:^Patient:Quantitative:Reported // Breast Feeding // Table - furniture // Age at menopause:Time:Point in time:^Patient:Quantitative // 
+REPRODUCTIVE // Numbers // Age // year // Lower - spatial qualifier // First Birth // Nulliparity // Parity:Number:Point in time:^Patient:Quantitative:Reported // Malignant neoplasm of breast // Increase // Risk // 
+Familial risk factor // 
+Entire breast // consideration // Family history // Assessment for risk of cancer // Malignant neoplasm of breast // Case unit dose // Malignant neoplasm of prostate // Malignant neoplasm of ovary // Type - attribute // Other relative // parent // Degree or extent // Child // Sibling - RoleCode // Age // Second Suffix // Malignant Neoplasms // member // 
+Woman // Base - General Qualifier // consideration // Evaluation // 
+Table - furniture // 
+Factor // Relative Risk // Increase // Woman // Malignant neoplasm of breast // 
+Factor // Relative Risk // 
+Woman // 
+Age // Risk // Arabic numeral 65 // Age // Increase // Breast Cancer, Familial // Definitely Related to Intervention // Mutation // 
+BRCA2 gene // 
+More // Two // Malignant neoplasm of breast // Number of First Degree Relatives (Affected) // Early // Diagnosis // Social and personal history // Age // Cancer confirmed // Atypical hyperplasia of breast // Body tissue // Abnormally high // Biopsy // density // 
+First Degree Relative // One // Malignant neoplasm of breast // With - dosing instruction fragment // Bone Density // High-LET Radiotherapy // Postmenopausal state // 
+Factor // Affect (mental function) // 
+Early menarche // year // 
+Circulating // Late // Hormones // Arabic numeral 55 // Menopause // Full Term finding // year // Never (frequency) // Pregnancy // Recent // Offspring // Recent // ORAL CONTRACEPTIVE INGESTION // Use of // Long-term // Estrogens // 
+Progestins // Postmenopausal state // Obesity // 
+Factor // Other Personal Medical History // Endometrial // Personal Attribute // Alcohol consumption // Malignant neoplasm of ovary // Precursor T-Cell Lymphoblastic Leukemia-Lymphoma // Height // Socioeconomic Status // Abnormally high // Heritage // Ashkenazi Jew, follower of religion // 
+Authorization documentation // Reprint // American Cancer Society // 
+Malignant neoplasm of breast // 2010s // 
+Atlanta // American Cancer Society // 
+Adapt (substance) // Moorman // Authorization documentation // Prostaglandin measurement // 
+Malignant neoplasm of breast // risk factors // Hormones // 
+
+Discussion (procedure) // 1+ Score, WHO // 
+
+Breast // Hereditary // Syndrome // Malignant neoplasm of ovary // 
+Factor // Combined // 
+Risk Assessment // Gail Risk Model // utilization qualifier // Scientific Equipment // Age // Patients // Limited (extensiveness) // Reproductive History // Malignant neoplasm of breast // Family history // Woman // Number of First Degree Relatives (Affected) // Biopsy of breast // History of previous events // &gt;5 // Estimated // Lifetime Risk // per year // Malignant neoplasm of breast // 
+Model // Woman // Caucasoid Race // African American // Study // Woman // 
+Assessed // /minute // Complete // Internet // Availability of // RAB3D gene // Primary malignant neoplasm // 
+Estimated // Woman // A 7 // To // Malignant neoplasm of breast // per year // Greater // Risk // Average // Equal // Offered // Greater // Aspects of disease screening // Enhance (action) // Clinical Breast Examination // Including (qualifier) // per year // month // Educational process of instructing // Mammography // subscriber - self // Entire breast // 
+Negation // Gail Risk Model // Risk Assessment // Good // Strong // Scientific Equipment // Present // Family history of breast cancer // Mother (person) // Woman // Patients // Sister // Malignant neoplasm of breast // Family history of cancer // Malignant neoplasm of ovary // Egypt // 
+Negation // Multisection:Finding:Point in time:Breast:Narrative:MRI // Base - General Qualifier // MEND ashed powder // Gail Risk Model // 
+Disease Screening // Woman // Appropriate // High risk of // 
+BRCA2 gene // Disease Screening // Enhance (action) // Annual // Recommendation // Annual // Nation // Annual // Mammography // Self-Examination // Multisection:Finding:Point in time:Breast:Narrative:MRI // 
+Management procedure // Details // Mutation // Woman // 
+Entire breast // Hereditary // Syndrome // Ovarian Carcinoma // 
+Degree or extent // Woman // Management procedure // Relative (related person) // Carrying // aldosterone secretion inhibitory factor // Mutation // 
+Woman // To // Estimated // Malignant neoplasm of breast // Lifetime Risk // Base - General Qualifier // Largest // Model // Risk // BRCAPRO // Family history // Negative // Testing // Mutation // brca gene // Enhance (action) // Offered // described // Disease Screening // Mutation Carrier // 
+Risk Reduction // consider // strategy // Woman // 
+Woman // High risk of // consider // Case unit dose // Future // Receive // Malignant neoplasm of breast // Therapeutic procedure // Therapeutic radiology procedure // Age-Years // Lymphoma // year // 
+Woman // Receive // To // Mammography // Annual // Magnetic Resonance Imaging // Annual // Clinical Breast Examination // Disease Screening // month // Distance vision 6/12 // year // Beginning // Therapeutic procedure // Receive // Occurrence // Age-Years // Last // 
+Social and personal history // Female breast // High risk of // Carcinoma in Situ // Including (qualifier) // Increase // are unit of measure // Future // Risk // Malignant neoplasm of breast // 
+Woman // Enhance (action) // Receive // Including (qualifier) // Screening procedure // Mammography // Annual // Distance vision 6/12 // Clinical Breast Examination // Educational process of instructing // month // Organization administrative structures // Woman // 
+Personal Attribute // Woman // Ductal // H/O: carcinoma // Invasive Breast Carcinoma // In situ // Anti-Mullerian Hormone Receptor Type II // Preventive monitoring // 
+Age // Upper // Risk // Range // Mammography // 
+Recommendation // Negation // Problem // Exist // 
+Medical // Life Expectancy // Comorbidity // Screening for malignant neoplasm of breast // consider // Woman // Program // year // Old age // Benefits // Old // Decrease // Screening mammography // Advance // Comparison // Age // 
+Woman // year // Old age // Within // Old // Physicians // Consultation // Continuous // Negation // Disease Screening // 
+Increasing // Invasive // Mortality Vital Statistics // Racial group // Malignant neoplasm of breast // &lt;3 (qualifier value) // Age-Years // 
+Mammography // Most // Upper // Trial Screening // Limited (extensiveness) // Age // Range // criteria // year // year // 
+Conclude Resin // Meta-Analysis (publications) // Woman // Screening mammography // year // Old age // Cost Effectiveness // Moderation // Increase // Small // Life Expectancy // 
+Summary (document) // Conclusion // Recommendation // 
+Recommendation // Following // PDLIM5 gene // Base - General Qualifier // Science // Inconsistent // Levels (qualifier value) // Evidence of // 
+incidence of cases // Base - General Qualifier // Sojourn // Malignant neoplasm of breast // Malignant neoplasm of breast // Time // Potential // growth aspects // Malignant neoplasm of breast // Reduction - action // College // Mortality Vital Statistics // Woman // Recommendation // /40 // Old age // Old // year // Aspects of disease screening // Offered // Annual // Mammography // 
+Expert Opinion // Consensus // 
+Performed // Clinical Breast Examination // Woman // Annual // /40 // Old age // Old // year // 
+Old age // Woman // Clinical Breast Examination // year // 1+ Score // Recommendation // year // 
+Entire breast // Include (action) // Self awareness // Breast Self-Examination // 
+Woman // Breast changes // Report (document) // Health Personnel // 
+Woman // Predictive Value // Educational process of instructing // Potential // Screening mammography // False Negative Result Medical Device Problem // False Positive // 
+Informed // Woman // Potential // 
+
+
+
+
+
+
+Age // 1+ Score // Fig Flavor // 
+incidence of cases // Female Breast Carcinoma // Age // Death Rate // United States // Racial group // 
+incidence of cases // Data // North American Association of Central Cancer Registries // 
+Mortality Vital Statistics // Centers for Disease Control and Prevention (U.S.) // National Center for Health Statistics (U.S.) // 
+Authorization documentation // Reprint // American Cancer Society // 
+Malignant neoplasm of breast // 2010s // 
+Atlanta // 
+Rate // 
+American Cancer Society // 
+Imaging Techniques // Additional // MEND ashed powder // Biopsy // Growth Inhibition Screening Result // Base - General Qualifier // 
+Estimated // Woman // Lifetime Risk // To // Largest // Malignant neoplasm of breast // Risk // Base - General Qualifier // Family History Domain // Diabetes Mellitus, Non-Insulin-Dependent // Testing // BRCAPRO // brca gene // Negative // Offered // Mutation // Disease Screening // Enhance (action) // 
+Negation // Multisection:Finding:Point in time:Breast:Narrative:MRI // Disease Screening // Recommendation // At risk // Woman // Malignant neoplasm of breast // Average // 
+BRCA2 Gene Mutation // Woman // Disease Screening // Enhance (action) // Risk Reduction // MEND ashed powder // 
+Reference Object // 
+1+ Score, WHO // 
+Act Code - Ward // R prime // MJ // hydroxylamine oxidase activity // 
+Science of Statistics // Primary malignant neoplasm // 
+CLIN // 
+
+Level 3 // 
+Integer +2 // 
+Chloride Ion // R prime // M+ (tumor staging) // Editor // 
+Surveillance, Epidemiology, and End Results (SEER) Program // Stat (do immediately) // Primary malignant neoplasm // Act Class - review // 
+Institutes // 
+HTTP // Availability of // Primary malignant neoplasm // Surveillance, Epidemiology, and End Results (SEER) Program // RAB3D gene // 
+
+Level 3 // 
+&lt;3 (qualifier value) // 
+American Cancer Society // 
+2010s // Malignant neoplasm of breast // 
+Atlanta // 
+Availability of // Internet // HTTP // Professional Organization or Group // Primary malignant neoplasm // Contents // Groups // Act Relationship Type - documents // 
+
+Level 3 // 
+
+Decrease // Ej // incidence of cases // Malignant neoplasm of breast // United States // 
+N not otherwise specified Antibody // EXOG gene // 
+Level III // 
+Integer +5 // 
+Glass (substance) // Doctor of Law // Junior // U2AF1 wt Allele // 
+Malignant neoplasm of breast // 1980s // incidence of cases // Social Role // Psychotherapy, Multiple // Hormones // Pauses:Number = Count/Time:Duration of the study:Heart:Quantitative:EKG // Mammography // Aspects of disease screening // Encounter due to estrogen receptor status // 
+Primary malignant neoplasm // 
+Level 3 // 
+
+
+Continuance of life // Negative Lymph Node // Factor // research outcome // Malignant neoplasm of breast // Longterm Follow-up // 
+Primary malignant neoplasm // 
+Level III // 
+
+Test Method // Result // Long-term // Tumor stage T1a // Woman // Invasive Breast Carcinoma // Tumor stage T1b // Published Erratum // Prospective Studies // Lancet // Appearance // 2000s // 
+Lancet // 2000s // 
+Level 3 // 
+
+Diagnosis Study // New // Malignant neoplasm of breast // 
+Surg // Laboratory Vendor Name // CLIN // 2000s // 
+Level III // 
+
+Late // Protons // Breast Carcinoma // 
+Primary malignant neoplasm // 
+Level 3 // 
+
+MJ // Creatinine measurement // 
+twenty twenty // follow-up // per year // CD8A wt Allele // Mini // Breast Cancer Detection Research // Malignant neoplasm of breast // Project // 
+Surg // CLIN // 
+Level 3 // 
+
+Surviving free of recurrence of neoplastic disease // Gram per Deciliter // Small breast // Patients // Primary malignant neoplasm // 
+PDGFB wt Allele // Less Than // Primary malignant neoplasm // And // Detection // Aspects of disease screening // 
+
+
+
+Iodides // H/O: carcinoma // Natural // Breast // 
+
+Level III // 
+
+
+History of malignant neoplasm of breast // Natural // 
+Hyperplasia // Disease Progression // Prediction // Neoplasm // Electrospray Ionization // angiogen // 
+Primary malignant neoplasm // 
+Level III // 
+
+Protons // 
+Increasing // Breast Cancer Detection Research // Exertion // 
+F11R gene // 
+Level III // 
+
+ELANE wt Allele // day // 
+Preclinical // Statistical Estimation // Geographic state // illness length // Disease Screening // Use of // Data // 
+
+Level III // 
+
+
+Malignant neoplasm of breast // Clinical Trials, Randomized // Learning // Aspects of disease screening // 
+North // CLIN // 
+Level III // 
+
+Potassium Ion // Screening for malignant neoplasm of breast // KNG1 gene // United States // Update // Advisory Committees // Preventive service healthcare // 
+Preventive service healthcare // United States // Advisory Committees // 
+Intern // 
+Level III // 
+
+M NOS ANTIBODY // Saint Helena Islands // KNG1 gene // 
+Summary (document) // Screening for malignant neoplasm of breast // Evidence of // 
+United States // Advisory Committees // Preventive service healthcare // 
+Intern // 
+Level III // 
+
+Fuchsin acid stain // K Prime // MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS // San Marino // 
+Screening mammography // Efficacy Study // PDGFB wt Allele // 
+F11R gene // 
+Meta Analysis (statistical procedure) // 
+
+Respiratory Domain // Axial R // Smith (occupation) // Third // HFE2 gene // Creatinine measurement // 
+New // Randomization // Meta Analysis (statistical procedure) // 
+Meta Analysis (statistical procedure) // 
+
+PROC wt Allele // 
+Aspects of disease screening // Act Class - review // Malignant neoplasm of breast // Preposition For // Publishing // Mammography // Tums // ESRRA gene // Lancet // Appearance // 
+Lancet // 
+Level III // 
+
+HPS4 gene // Iodides // 
+Mammography // Longterm Effects // Update // Trial Screening // Swedish // overview // Published Erratum // Clinical Trials // Lancet // Appearance // 
+Lancet // 
+Level III // 
+Arabic numeral 23 // 
+Screening for malignant neoplasm of breast // Preventive service healthcare // United States // Recommendation // Advisory Committees // Statement // 
+Preventive service healthcare // Published Erratum // Advisory Committees // Intern // Appearance // Intern // 2010s // 2010s // 
+Intern // 
+Level III // 
+
+Vorinostat // Aspects of disease screening // Cost Effectiveness // Age-Years // Mammography // Review, Systematic // Arabic numeral 65 // Preventive service healthcare // United States // Advisory Committees // 
+Financial cost // Groups // Work // Preventive service healthcare // United States // Advisory Committees // 
+Intern // 
+Level III // 
+
+Morphology Findings Domain // Guideline [Publication Type] // American Cancer Society // Aspects of disease screening // 
+American Cancer Society // Groups // Malignant neoplasm of breast // Appearance // Published Erratum // CLIN // Malignant Neoplasms // 
+
+
+M NOS ANTIBODY // Endocrine System Findings Domain // Diagnostic // SLC14A1 gene // Digital // performance - action // 
+Screening for malignant neoplasm of breast // Film Mammography // 
+Mammography // digital imaging // Research Personnel // Screening Study // Published Erratum // User Group // EXOG gene // Appearance // 1840s // 
+N+ (tumor staging) // EXOG gene // 
+Level 3 // 
+
+Screening - procedure intent // Clinical Trials, Randomized // Full field // film (photographic) // Soft // Digital Mammography // Reading (activity) // Copy (object) // Base - General Qualifier // Population Programs // follow-up // Disease Screening // research outcome // Diagnosis Type - Final // 
+Radiology studies // 
+
+
+C19orf26 gene // Immune System Findings Domain // Silvan // 
+Digital // Full field // Film Mammography // Screening - procedure intent // Entire breast // Comparison // Program // Disease Screening // Taverns // Review, Systematic // Data // 
+Radiology studies // 
+Level III // 
+
+Djibouti // Kenya // Gammon // Predictor // Patterns // Method of detection // Malignant neoplasm of breast // Age // Woman // Cancer Control // United States // Integer +5 // Etiology // 
+Level 2 // 
+
+newcomer // Entire breast // Method of detection // Histology // Automobiles // 
+&lt;3 (qualifier value) // Primary malignant neoplasm // 
+Level 3 // 
+Arabic numeral 31 // 
+Breast Self-Examination // M+ (tumor staging) // Malignant neoplasm of breast // Continuance of life // Follow-Up Studies // Longitudinal Studies // 
+Observation Result // Malignant neoplasm of breast // Treatment intent // 
+Level 2 // 
+
+Radiation // Per Deciliter // EAR WAX, WET/DRY // Rostromedial auditory cortex // Clinical Trials, Randomized // Chen // Self // Entire breast // Experimental Result // Diagnosis Type - Final // 
+Primary malignant neoplasm // 
+
+
+PROC wt Allele // 
+Self-Examination // Regular // Examination of breast // Clinical // CER tumor staging notation // Early Diagnosis // 
+Review, Systematic // Databases // Problem // 
+Arts // 
+
+
+Digital Object Identifier // 
+
+Meta Analysis (statistical procedure) // 
+
+Update // preventive health care // Malignant neoplasm of breast // 
+CANADIAN // preventive health care // Advisory Committees // 
+
+
+North Carolina // SLC14A1 gene // 
+Clinical Breast Examination // Procedure findings:Finding:Point in time:^Patient:Narrative // National citizen // Reporting // Program // Screening procedure // Primary malignant neoplasm // From // 2000s // 
+Level 3 // 
+
+Aspects of disease screening // M NOS ANTIBODY // Sojourn // Statistical sensitivity // Screening for malignant neoplasm of breast // Time // Mammography // Clinical Trial [Publication Type] // Physical Examination // 
+CLIN // 
+Level III // 
+
+Iodides // Screening for malignant neoplasm of breast // 
+Surg // 
+Level III // 
+
+M+ (tumor staging) // Screening for malignant neoplasm of breast // Screening mammography // 
+
+Level III // 
+
+fletchers' // African race // BLOOD GROUP--SWANN SYSTEM // KNG1 gene // Right // International // Report (document) // On (qualifier value) // Educational workshop // Screening for malignant neoplasm of breast // 
+Primary malignant neoplasm // 
+Level III // 
+/40 // 
+T prime // Miller // CANADIAN // Walls of a building // Entire breast // National citizen // per year // Screening Study // Randomization // Experimental Result // 
+Woman // Clinical Trials // year // Elderly (population group) // 2000s // Primary malignant neoplasm // 
+
+
+Contribution // Mycobacterium avium Complex // Examination of breast // Clinical // Screening for malignant neoplasm of breast // 
+Level 2 // 
+
+Older Population // Aspects of disease screening // American Cancer Society // Women, Working // Work // Mammography // American Cancer Society // User Group // Work // Physical Examination // American // User Group // Arabic numeral 69 // American // 
+
+
+National Comprehensive Cancer Network // 
+National Comprehensive Cancer Network // Entire breast // Clinical Practice Guideline // CER tumor staging notation // 
+Washington state // National Comprehensive Cancer Network // Pairing Events Domain // 
+Level III // 
+
+POLK gene // BLOOD GROUP--SWANN SYSTEM // fletchers' // 
+per year // Toxic Epidermal Necrolysis // False Positive // Risk // Clinical Breast Examination // Screening mammography // 
+Level 3 // 
+
+Potassium Ion // City of Berlin // 
+Screening mammography // /40 // Woman // Age-Years // To // American College of Physicians // Review, Systematic // 
+Intern // 
+Level III // 
+
+Variant // Right // Screening for malignant neoplasm of breast // Benefits // Age // 
+Primary malignant neoplasm // 
+Level III // 
+
+KNG1 gene // 
+Mammography // Psychosocial // 
+Primary malignant neoplasm // 
+Level III // 
+
+KNG1 gene // 
+Psychiatric problem // Mammography abnormal // Behavior // 
+Intern // 
+Level III // 
+
+
+Screening mammography // Psychological Impact // 
+Review, Systematic // 
+
+Level III // 
+
+Nuchal Translucency Screen // Brewer // 
+Longterm Effects // Review, Systematic // Mammography // False Positive // 
+
+Intern // 
+Meta Analysis (statistical procedure) // 
+
+
+Attitude // Woman // Mammography // False Positive // Noninfiltrating Intraductal Carcinoma // Detection // Cross-Sectional Studies // 
+2000s // /40 // 
+Level III // 
+
+Screening for malignant neoplasm of breast // 
+CLIN // Roman numeral VII // North // 
+Level III // 
+
+United States Agency for Healthcare Research and Quality // 
+Evidence of // Diagnosis Study // Technology // Evaluation Report // 
+United States Agency for Healthcare Research and Quality // 
+
+
+
+Potassium Ion // Screening mammography // Continuous // IMPACT gene // Woman // Cost Effectiveness // Expectation // 
+
+Databases // MEDLINE // American College of Obstetricians and Gynecologists // Libraries // Resources // Internal - CodeSystemType // Used by // Documents // Publications // Entire duct // To // Search - action // Article // Relevance // 1990s // Scientific Publication // 
+Restricted // Search - action // Scientific Publication // Article // English Language // 
+Priority // Article // Entity Name Part Type - given // Original // Reporting // Review [Publication Type] // research outcome // Published Comment // Article // Abstract Summary // Consultation // Science // Sia // Negation // Conferences // Sufficient // consider // Documents // Inclusion // 
+Scientific Publication // Guideline [Publication Type] // Health // Organization administrative structures // Review [Publication Type] // American College of Obstetricians and Gynecologists // Scientific Study // Additional // Bibliography // Review [Publication Type] // Article // Identified // 
+Research Activities // Reliability (characteristic) // Expert Opinion // Not available // Used by // Obstetrician and gynecologist // 
+Review [Publication Type] // Scientific Study // Quality // Evaluation // United States // Methods // Advisory Committees // Preventive service healthcare // 
+Evidence of // Iodides // Smaller // Obtain // One // 
+Evidence of // Good // Obtain // CDISC Trial Design Class // Control function // 
+Obtain // Evidence of // Design // Good // Clinical Study Case // Cohort // Scientific Study // control aspects // Central // One // 
+Type - attribute // research study // Evidence of // 
+III (suffix) // Base - General Qualifier // Authority // Description // Practice Experience // Report (document) // Scientific Study // Committee // 
+Base - General Qualifier // Levels of Evidence // Highest // Recommendation // Data found // Grade // Providing (action) // Followed by // Agreement // Categories // 
+Levels (qualifier value) // Base - General Qualifier // Recommendation // Good // 
+Science // Evidence of // 
+Levels (qualifier value) // Base - General Qualifier // Recommendation // Science // Limited (extensiveness) // Evidence of // 
+Levels (qualifier value) // Base - General Qualifier // Recommendation // Expert Opinion // 
+Html Link Type - copyright // College // American // Reservation (action) // Rights // Storage // Publications // System // Retrieval // Internet // Post // Manufactured form // Transmitted by // Authorization Mode - Electronic // Means // Photocopying // Mechanical Methods // Records // 
+Request for // Make - Instruction Imperative // Authorization documentation // Direct type of relationship // Photocopying // Clearance [PK] // Html Link Type - copyright // Intrinsic drive // Central // 
+Street address // American College of Obstetricians and Gynecologists // Oral // BLOOD GROUP--SWANN SYSTEM // Washington state // Box // 
+Screening for malignant neoplasm of breast // 
+Practice Experience // 
+
+American College of Obstetricians and Gynecologists // 
+

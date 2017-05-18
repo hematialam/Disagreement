@@ -1,0 +1,22 @@
+Found 10  hits for: [sentNum: 1]Did it recommend mammography screening for women aged 40-49 with average risk?
+Found 10  hits for: [sentNum: 2]Did it recommend mammography screening for women aged 50-74 with average risk?
+Found 10  hits for: [sentNum: 3]Did it recommend mammography screening for women aged 75 or older with average risk?
+Found 10  hits for: [sentNum: 4]Did it recommend mammography screening for women with dense breast?
+5. 1 1.516113	[sentNum: 95]Current evidence on adjunctive screeningisverylimited,butitsuggeststhatfor women identi.ed to have dense breasts on an otherwise neg苔tive mammogram, ultrasonography or MRI will detect additional breast cancer but will also result in a higher numberoffalse-positiveresults.Data onDBTin women with dense breasts are limited, but in the short term, DBT also detects additional breast cancer. No
+18. 1 0.83349603	[sentNum: 2]Primary Screening for Breast Cancer With Conventional Mammography No
+Found 10  hits for: [sentNum: 5]Did it recommend MRI screening for women aged 40-49 with average risk?
+10. 1 1.2633002	[sentNum: 27]Limited data suggests that ultrasonography or MRI will detect additional breast cancer in women who have dense breasts. No
+12. 1 1.1826642	[sentNum: 102]Com計ared with mammography alone, adjunctive screening with ultrasonography or MRI seems to increase recall and biopsy rates. No
+Found 10  hits for: [sentNum: 6]Did it recommend MRI screening for women aged 50-74 with average risk?
+7. 1 1.2884736	[sentNum: 27]Limited data suggests that ultrasonography or MRI will detect additional breast cancer in women who have dense breasts. No
+11. 1 1.2055905	[sentNum: 102]Com計ared with mammography alone, adjunctive screening with ultrasonography or MRI seems to increase recall and biopsy rates. No
+Found 10  hits for: [sentNum: 7]Did it recommend MRI screening for women aged 75 or older with average risk?
+8. 1 0.9594931	[sentNum: 27]Limited data suggests that ultrasonography or MRI will detect additional breast cancer in women who have dense breasts. No
+12. 1 0.8981848	[sentNum: 102]Com計ared with mammography alone, adjunctive screening with ultrasonography or MRI seems to increase recall and biopsy rates. No
+Found 10  hits for: [sentNum: 8]Did it recommend MRI screening for women with dense breast?
+2. 1 1.9328866	[sentNum: 27]Limited data suggests that ultrasonography or MRI will detect additional breast cancer in women who have dense breasts. No
+7. 1 0.96346706	[sentNum: 102]Com計ared with mammography alone, adjunctive screening with ultrasonography or MRI seems to increase recall and biopsy rates. No
+Found 10  hits for: [sentNum: 9]Did it recommend DBT screening for women aged 40-49 with average risk?
+Found 10  hits for: [sentNum: 10]Did it recommend DBT screening for women aged 50-74 with average risk?
+Found 10  hits for: [sentNum: 11]Did it recommend DBT screening for women aged 75 or older with average risk?
+Found 10  hits for: [sentNum: 12]Did it recommend DBT screening for women with dense breast?

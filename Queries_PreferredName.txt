@@ -1,0 +1,12 @@
+Recommendation // Screening mammography // Woman // Old age // /40 // Average // Risk // 
+Recommendation // Screening mammography // Woman // Old age // Average // Risk // 
+Recommendation // Screening mammography // Woman // Old age // Old // Average // Risk // 
+Recommendation // Screening mammography // Woman // Dense breasts NOS // 
+Recommendation // Magnetic Resonance Imaging // Disease Screening // Woman // Old age // /40 // Average // Risk // 
+Recommendation // Magnetic Resonance Imaging // Disease Screening // Woman // Old age // Average // Risk // 
+Recommendation // Magnetic Resonance Imaging // Disease Screening // Woman // Old age // Old // Average // Risk // 
+Recommendation // Magnetic Resonance Imaging // Disease Screening // Woman // Dense breasts NOS // 
+Recommendation // DBT gene // Disease Screening // Woman // Old age // /40 // Average // Risk // 
+Recommendation // DBT gene // Disease Screening // Woman // Old age // Average // Risk // 
+Recommendation // DBT gene // Disease Screening // Woman // Old age // Old // Average // Risk // 
+Dense breasts NOS // Recommendation // DBT gene // Disease Screening // Woman // 
